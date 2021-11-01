@@ -5,13 +5,16 @@
 [<img align="left" alt="css3" title="bootstrap playlist" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="html5" title="javascript playlist" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
+<br />
 
 <!-- Contact me section ends here  -->
 
-## 👋 Hello, I'm Anisul Islam
+<h1> 👋 Hello, I'm Anisul Islam </h1>
 
 A full time content creator on & web developer  
 🏠 &nbsp; Living: Tampere, Finland
+
+<br />
 
 <!-- about-me section starts here  -->
 
@@ -26,6 +29,7 @@ improving my web development skills. Every day I want to learn something new and
 my students and others.
 </p>
 
+<br />
 <!-- about-me section ends here  -->
 
 ### 👨🏽‍💻 &nbsp; My Skills & Videos:
@@ -79,6 +83,8 @@ my students and others.
 - MS Excel: [msexcelplaylist]
 - MS powerpoint: [mspowerpointplaylist]
 
+<br />
+
 <!-- other skills and my videos for computer science section starts here  -->
 
 <!-- work experience section starts here  -->
@@ -94,6 +100,7 @@ my students and others.
 | Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
 | Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
 
+<br />
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
@@ -108,6 +115,8 @@ my students and others.
 3. Professional Diploma in Travel & Tourism  
     London School of Commerce & IT  
    London, England.
+
+<br />
 
 <!-- education section ends here  -->
 
@@ -131,6 +140,7 @@ my students and others.
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 
+<br />
 <!-- my sports and games section ends here  -->
 
 <!-- Honors & awards section starts here  -->
