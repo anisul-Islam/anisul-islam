@@ -34,7 +34,9 @@ my students and others.
 
 <!-- github stats starts here  -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true&theme=radical)
 
 <!-- github stats ends here  -->
 
@@ -103,6 +105,11 @@ my students and others.
 - [javascript bangla tutorial 50 : DOM Event | KeyboardEvent](https://www.youtube.com/watch?v=5dkBycPg0dA)
 - [javascript bangla tutorial 49 : DOM Event | MouseEvent](https://www.youtube.com/watch?v=pwQqzt58jjQ)
 <!-- YOUTUBE:END -->
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
+alt="Java" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
+alt="Java" width="240" height="180" border="10" /></a>
 
 ↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
 
