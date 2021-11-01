@@ -1,3 +1,12 @@
+<!-- banner image starts here  -->
+<img src="./images/banner.png" width="100%">
+<!-- banner image ends here  -->
+
+<h1> 👋 Hello, I'm Anisul Islam </h1>
+
+A full time content creator on & web developer  
+🏠 &nbsp; Living: Tampere, Finland
+
 <!-- Contact me section starts here  -->
 
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/website.svg" />][website]
@@ -8,13 +17,6 @@
 <br />
 
 <!-- Contact me section ends here  -->
-
-<h1> 👋 Hello, I'm Anisul Islam </h1>
-
-A full time content creator on & web developer  
-🏠 &nbsp; Living: Tampere, Finland
-
-<br />
 
 <!-- about-me section starts here  -->
 
