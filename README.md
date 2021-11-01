@@ -70,22 +70,31 @@ my students and others.
 <br/>
 <br/>
 
-- Artificial Intelligence (English): [aienglishplaylist]
-- Artificial Intelligence (Bangla): [aibanglaplaylist]
-- Java Swing: [javaswingplaylist]
-- Discrte Math: [dsplaylist]
-- Numerical Method: [numericalplaylist]
-- Theory of computation: [tocplaylist]
-- Compiler: [compilerplaylist]
-- Networking: [networkingplaylist]
-- Operating System: [operatingsystemplaylist]
-- HSC ICT: [hscictplaylist]
-- Learn for skill: [learnforskillplaylist]
-- MS Word: [mswordplaylist]
-- MS Excel: [msexcelplaylist]
-- MS powerpoint: [mspowerpointplaylist]
+- [Artificial Intelligence (English)][aienglishplaylist]
+- [Artificial Intelligence (Bangla)][aibanglaplaylist]
+- [Java Swing][javaswingplaylist]
+- [Discrte Math][dsplaylist]
+- [Numerical Method][numericalplaylist]
+- [Theory of computation][tocplaylist]
+- [Compiler][compilerplaylist]
+- [Networking][networkingplaylist]
+- [Operating System][operatingsystemplaylist]
+- [HSC ICT][hscictplaylist]
+- [Learn for skill][learnforskillplaylist]
+- [MS Word][mswordplaylist]
+- [MS Excel][msexcelplaylist]
+- [MS powerpoint][mspowerpointplaylist]
 
-<br />
+<!-- latest youtube videos starts here -->
+
+#### Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+↪️ [search more videos...](https://www.youtube.com/c/anisulislamrubel)
+
+<!-- latest youtube videos ends here -->
 
 <!-- other skills and my videos for computer science section starts here  -->
 
