@@ -5,7 +5,6 @@
 [<img align="left" alt="css3" title="bootstrap playlist" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="html5" title="javascript playlist" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
-<br />
 
 <!-- Contact me section ends here  -->
 
@@ -13,9 +12,6 @@
 
 A full time content creator on & web developer  
 🏠 &nbsp; Living: Tampere, Finland
-
-<br/>
-<br/>
 
 <!-- about-me section starts here  -->
 
@@ -30,14 +26,9 @@ improving my web development skills. Every day I want to learn something new and
 my students and others.
 </p>
 
-<br />
-<br />
-
 <!-- about-me section ends here  -->
 
 ### 👨🏽‍💻 &nbsp; My Skills & Videos:
-
-<br/>
 
 <!-- web related skills section starts here  -->
 
@@ -56,8 +47,6 @@ my students and others.
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
 
-..
-<br />
 <br />
 <br />
 
@@ -90,9 +79,6 @@ my students and others.
 - MS Excel: [msexcelplaylist]
 - MS powerpoint: [mspowerpointplaylist]
 
-<br/>
-<br/>
-
 <!-- other skills and my videos for computer science section starts here  -->
 
 <!-- work experience section starts here  -->
@@ -108,9 +94,6 @@ my students and others.
 | Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
 | Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
 
-<br />
-<br />
-
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
@@ -125,9 +108,6 @@ my students and others.
 3. Professional Diploma in Travel & Tourism  
     London School of Commerce & IT  
    London, England.
-
-<br />
-<br />
 
 <!-- education section ends here  -->
 
@@ -151,9 +131,6 @@ my students and others.
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 
-<br />
-<br />
-
 <!-- my sports and games section ends here  -->
 
 <!-- Honors & awards section starts here  -->
@@ -162,9 +139,6 @@ my students and others.
 
 - Silver Button from YouTube (295k subscribers currently)
 - Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
-
-<br />
-<br />
 
 ---
 
