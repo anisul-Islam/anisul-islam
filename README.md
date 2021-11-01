@@ -16,12 +16,6 @@ A full time content creator on & web developer
 
 <br />
 
-<!-- github stats starts here  -->
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- github stats ends here  -->
-
 <!-- about-me section starts here  -->
 
 ### 👨‍🏫 &nbsp; About Me
@@ -111,6 +105,12 @@ my students and others.
 <!-- latest youtube videos ends here -->
 
 <!-- other skills and my videos for computer science section starts here  -->
+
+<!-- github stats starts here  -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- github stats ends here  -->
 
 <!-- work experience section starts here  -->
 
