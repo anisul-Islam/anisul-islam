@@ -16,6 +16,12 @@ A full time content creator on & web developer
 
 <br />
 
+<!-- github stats starts here  -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- github stats ends here  -->
+
 <!-- about-me section starts here  -->
 
 ### 👨‍🏫 &nbsp; About Me
@@ -90,6 +96,7 @@ my students and others.
 #### 📹 &nbsp; Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [javascript bangla tutorial 53 : DOM Event | DragEvent](https://www.youtube.com/watch?v=PrUleLGpOR0)
 - [javascript bangla tutorial 52 : DOM Event | ClipboardEvent](https://www.youtube.com/watch?v=NqUhBgIgWQU)
 - [javascript bangla tutorial 51 : DOM Event | FocusEvent](https://www.youtube.com/watch?v=0t-UtvxJ9zg)
@@ -97,7 +104,7 @@ my students and others.
 - [javascript bangla tutorial 49 : DOM Event | MouseEvent](https://www.youtube.com/watch?v=pwQqzt58jjQ)
 <!-- YOUTUBE:END -->
 
-↪️ [search more videos...](https://www.youtube.com/c/anisulislamrubel)
+↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
 
 <br/>
 
