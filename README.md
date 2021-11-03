@@ -9,10 +9,10 @@ A full time content creator on & web developer
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="css3" title="bootstrap playlist" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="html5" title="javascript playlist" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
 <br />
 
@@ -106,7 +106,6 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [javascript bangla tutorial 53 : DOM Event | DragEvent](https://www.youtube.com/watch?v=PrUleLGpOR0)
 - [javascript bangla tutorial 52 : DOM Event | ClipboardEvent](https://www.youtube.com/watch?v=NqUhBgIgWQU)
 - [javascript bangla tutorial 51 : DOM Event | FocusEvent](https://www.youtube.com/watch?v=0t-UtvxJ9zg)
