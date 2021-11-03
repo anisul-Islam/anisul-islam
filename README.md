@@ -34,14 +34,6 @@ my students and others.
 <br />
 <!-- about-me section ends here  -->
 
-<!-- github stats starts here  -->
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true&theme=radical)
-
-<!-- github stats ends here  -->
-
 <!-- web related skills section starts here  -->
 
 ### 👨🏽‍💻 &nbsp; My Skills & Videos:
@@ -94,10 +86,24 @@ my students and others.
 - [MS Word][mswordplaylist]
 - [MS Excel][msexcelplaylist]
 - [MS powerpoint][mspowerpointplaylist]
+  <!-- other skills and my videos for computer science section ends here  -->
 
-<!-- latest youtube videos starts here -->
+  <br/>
 
-#### 📹 &nbsp; Latest YouTube Videos
+<!-- github stats starts here  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
+
+<br/>
+
+<!-- github stats ends here  -->
+  <!-- latest youtube videos starts here -->
+
+#### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
