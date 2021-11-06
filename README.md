@@ -106,7 +106,7 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [complete Markdown tutorial in bangla](https://www.youtube.com/watch?v=bl0-DTgh-mw)
+- [Markdown crash course in bangla | Everything you should know](https://www.youtube.com/watch?v=bl0-DTgh-mw)
 - [HSC ICT | Bangla HTML Tutorial 11 : inside head tag](https://www.youtube.com/watch?v=FwaBCEvIpT8)
 - [HSC ICT | Bangla HTML Tutorial 10 : html environment setup | course update](https://www.youtube.com/watch?v=kfboAjDadvc)
 - [javascript bangla tutorial 53 : DOM Event | DragEvent](https://www.youtube.com/watch?v=PrUleLGpOR0)
