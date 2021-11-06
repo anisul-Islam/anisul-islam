@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [complete Markdown tutorial in bangla](https://www.youtube.com/watch?v=bl0-DTgh-mw)
 - [HSC ICT | Bangla HTML Tutorial 11 : inside head tag](https://www.youtube.com/watch?v=FwaBCEvIpT8)
 - [HSC ICT | Bangla HTML Tutorial 10 : html environment setup | course update](https://www.youtube.com/watch?v=kfboAjDadvc)
 - [javascript bangla tutorial 53 : DOM Event | DragEvent](https://www.youtube.com/watch?v=PrUleLGpOR0)
 - [javascript bangla tutorial 52 : DOM Event | ClipboardEvent](https://www.youtube.com/watch?v=NqUhBgIgWQU)
-- [javascript bangla tutorial 51 : DOM Event | FocusEvent](https://www.youtube.com/watch?v=0t-UtvxJ9zg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
