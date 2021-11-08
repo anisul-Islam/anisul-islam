@@ -106,7 +106,7 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Github bangla tutorial: introduction to git and GitHub](https://www.youtube.com/watch?v=ulTs4vqOzyo)
+- [Github bangla tutorial 2 : introduction to git and GitHub](https://www.youtube.com/watch?v=ulTs4vqOzyo)
 - [Markdown crash course in bangla | Everything you should know](https://www.youtube.com/watch?v=bl0-DTgh-mw)
 - [HSC ICT | Bangla HTML Tutorial 11 : inside head tag](https://www.youtube.com/watch?v=FwaBCEvIpT8)
 - [HSC ICT | Bangla HTML Tutorial 10 : html environment setup | course update](https://www.youtube.com/watch?v=kfboAjDadvc)
