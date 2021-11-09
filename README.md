@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Github bangla tutorial 4 : create git folder and add new files](https://www.youtube.com/watch?v=oa6viOCTEeM)
 - [Github bangla tutorial 3 : git environment setup and configuration](https://www.youtube.com/watch?v=vj5-nkhTRbo)
 - [Github bangla tutorial 2 : introduction to git and GitHub](https://www.youtube.com/watch?v=ulTs4vqOzyo)
 - [Markdown crash course in bangla | Everything you should know](https://www.youtube.com/watch?v=bl0-DTgh-mw)
 - [HSC ICT | Bangla HTML Tutorial 11 : inside head tag](https://www.youtube.com/watch?v=FwaBCEvIpT8)
-- [HSC ICT | Bangla HTML Tutorial 10 : html environment setup | course update](https://www.youtube.com/watch?v=kfboAjDadvc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
