@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HSC ICT | Bangla HTML Tutorial 46 : details and figure html5 semantic tags](https://www.youtube.com/watch?v=nkLd4qAFwzg)
 - [Github bangla tutorial 4 : how to create git folder and add new files](https://www.youtube.com/watch?v=oa6viOCTEeM)
 - [Github bangla tutorial 5 : how to add files in staging area &amp; remove files](https://www.youtube.com/watch?v=IDhgZX4esQQ)
 - [Github bangla tutorial 3 : how to set git environment setup and configuration](https://www.youtube.com/watch?v=vj5-nkhTRbo)
 - [Github bangla tutorial 2 : introduction to git and GitHub](https://www.youtube.com/watch?v=ulTs4vqOzyo)
-- [Markdown crash course in bangla | Everything you should know](https://www.youtube.com/watch?v=bl0-DTgh-mw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
