@@ -106,8 +106,8 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Github bangla tutorial 4 : create git folder and add new files](https://www.youtube.com/watch?v=oa6viOCTEeM)
-- [Github bangla tutorial 3 : git environment setup and configuration](https://www.youtube.com/watch?v=vj5-nkhTRbo)
+- [Github bangla tutorial 4 : how to create git folder and add new files](https://www.youtube.com/watch?v=oa6viOCTEeM)
+- [Github bangla tutorial 3 : how to set git environment setup and configuration](https://www.youtube.com/watch?v=vj5-nkhTRbo)
 - [Github bangla tutorial 2 : introduction to git and GitHub](https://www.youtube.com/watch?v=ulTs4vqOzyo)
 - [Markdown crash course in bangla | Everything you should know](https://www.youtube.com/watch?v=bl0-DTgh-mw)
 - [HSC ICT | Bangla HTML Tutorial 11 : inside head tag](https://www.youtube.com/watch?v=FwaBCEvIpT8)
