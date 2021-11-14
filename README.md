@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Github bangla tutorial 7 : how to do git commit &amp; un-commit](https://www.youtube.com/watch?v=gmBKbxKGcn8)
 - [Github bangla tutorial 6 : git practice-1](https://www.youtube.com/watch?v=jSj-GF-utls)
 - [Github bangla tutorial 5 : how to add files in staging area &amp; remove files](https://www.youtube.com/watch?v=IDhgZX4esQQ)
 - [HSC ICT | Bangla HTML Tutorial 46 : details and figure html5 semantic tags](https://www.youtube.com/watch?v=nkLd4qAFwzg)
 - [Github bangla tutorial 4 : how to create git folder and add new files](https://www.youtube.com/watch?v=oa6viOCTEeM)
-- [Github bangla tutorial 7 : how to do git commit &amp; un-commit](https://www.youtube.com/watch?v=gmBKbxKGcn8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
