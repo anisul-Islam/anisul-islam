@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Github bangla tutorial 9 : git head and undo &lpar;practical&rpar;](https://www.youtube.com/watch?v=rEoeC-HBqws)
-- [Github bangla tutorial 8 : git head and undo &lpar;theory&rpar;](https://www.youtube.com/watch?v=xUNsecljvog)
-- [Github bangla tutorial 11 : what is gitignore file &amp; how to use it](https://www.youtube.com/watch?v=CKla6oWTezM)
-- [Github bangla tutorial 7 : how to do git commit &amp; un-commit](https://www.youtube.com/watch?v=gmBKbxKGcn8)
-- [Github bangla tutorial 6 : git practice-1](https://www.youtube.com/watch?v=jSj-GF-utls)
+- [Git and Github bangla tutorial 9 : git head and undo &lpar;practical&rpar;](https://www.youtube.com/watch?v=rEoeC-HBqws)
+- [Git and Github bangla tutorial 8 : git head and undo &lpar;theory&rpar;](https://www.youtube.com/watch?v=xUNsecljvog)
+- [Git and Github bangla tutorial 11 : what is gitignore file &amp; how to use it](https://www.youtube.com/watch?v=CKla6oWTezM)
+- [Git and Github bangla tutorial 7 : how to do git commit &amp; un-commit](https://www.youtube.com/watch?v=gmBKbxKGcn8)
+- [Git and Github bangla tutorial 6 : git practice-1](https://www.youtube.com/watch?v=jSj-GF-utls)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
