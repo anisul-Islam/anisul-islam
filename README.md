@@ -106,9 +106,9 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Git and Github bangla tutorial 11 : what is gitignore file &amp; how to use it](https://www.youtube.com/watch?v=CKla6oWTezM)
 - [Git and Github bangla tutorial 9 : git head and undo &lpar;practical&rpar;](https://www.youtube.com/watch?v=rEoeC-HBqws)
 - [Git and Github bangla tutorial 8 : git head and undo &lpar;theory&rpar;](https://www.youtube.com/watch?v=xUNsecljvog)
-- [Git and Github bangla tutorial 11 : what is gitignore file &amp; how to use it](https://www.youtube.com/watch?v=CKla6oWTezM)
 - [Git and Github bangla tutorial 7 : how to do git commit &amp; un-commit](https://www.youtube.com/watch?v=gmBKbxKGcn8)
 - [Git and Github bangla tutorial 6 : git practice-1](https://www.youtube.com/watch?v=jSj-GF-utls)
 <!-- YOUTUBE:END -->
