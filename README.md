@@ -107,10 +107,10 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [Git and Github bangla tutorial 12 : GitHub repository and commit](https://www.youtube.com/watch?v=HRVNOjl9e5U)
+- [Git and Github bangla tutorial 14 : connecting local and remote repo](https://www.youtube.com/watch?v=sLX2YWYpkAc)
 - [Git and Github bangla tutorial 11 : what is gitignore file](https://www.youtube.com/watch?v=CKla6oWTezM)
 - [Git and Github bangla tutorial 9 : git head and undo &lpar;practical&rpar;](https://www.youtube.com/watch?v=rEoeC-HBqws)
 - [Git and Github bangla tutorial 8 : git head and undo &lpar;theory&rpar;](https://www.youtube.com/watch?v=xUNsecljvog)
-- [Git and Github bangla tutorial 7 : how to do git commit &amp; reset commit](https://www.youtube.com/watch?v=gmBKbxKGcn8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
