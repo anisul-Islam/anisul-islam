@@ -106,8 +106,8 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Git and Github bangla tutorial 12 : GitHub repository and commit](https://www.youtube.com/watch?v=HRVNOjl9e5U)
 - [Git and Github bangla tutorial 14 : connecting local and remote repo](https://www.youtube.com/watch?v=sLX2YWYpkAc)
+- [Git and Github bangla tutorial 12 : GitHub repository and commit](https://www.youtube.com/watch?v=HRVNOjl9e5U)
 - [Git and Github bangla tutorial 11 : what is gitignore file](https://www.youtube.com/watch?v=CKla6oWTezM)
 - [Git and Github bangla tutorial 9 : git head and undo &lpar;practical&rpar;](https://www.youtube.com/watch?v=rEoeC-HBqws)
 - [Git and Github bangla tutorial 8 : git head and undo &lpar;theory&rpar;](https://www.youtube.com/watch?v=xUNsecljvog)
