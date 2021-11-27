@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Weekly Discussion and replying your comments - 27/11/2021](https://www.youtube.com/watch?v=nfzaRlsBFik)
 - [Git and Github bangla tutorial 16 : branching and merging](https://www.youtube.com/watch?v=3k8Bq_usPsk)
 - [HSC ICT | Bangla HTML Tutorial 40 :  Accessible table](https://www.youtube.com/watch?v=kf5L2D_J5ME)
 - [Git and Github bangla tutorial 15 : git pull and push](https://www.youtube.com/watch?v=UXEoCfYwI1Q)
 - [Git and Github bangla tutorial 14 : connecting local and remote repo](https://www.youtube.com/watch?v=sLX2YWYpkAc)
-- [Git and Github bangla tutorial 12 : GitHub repository and commit](https://www.youtube.com/watch?v=HRVNOjl9e5U)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
