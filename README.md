@@ -107,10 +107,10 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [Git and Github bangla tutorial 19 : GitHub issues](https://www.youtube.com/watch?v=E5HFlpx7QP4)
+- [ejs bangla tutorial 2 : passing data to ejs file](https://www.youtube.com/watch?v=4XEzWwEzkoc)
 - [ejs bangla tutorial 1 : Introduction to ejs](https://www.youtube.com/watch?v=x9o3fxS_xdM)
 - [node js bangla tutorial 10 : creating node server and deploy on Heroku](https://www.youtube.com/watch?v=2IFDMvfJJHc)
 - [Git and Github bangla tutorial 18 : git &amp; GitHub practice-2](https://www.youtube.com/watch?v=IHVzseHh3Bo)
-- [300,000 subscribers event and prize | &#39;৩০০,০০০ সাবস্ক্রাইবার ইভেন্ট এবং পুরষ্কার&quot;](https://www.youtube.com/watch?v=xxtRT4Cb-50)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
