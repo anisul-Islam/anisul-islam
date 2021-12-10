@@ -110,7 +110,7 @@ my students and others.
 - [ejs bangla tutorial 3 : if else in ejs](https://www.youtube.com/watch?v=hkc9i-DLAwE)
 - [ejs bangla tutorial 2 : passing data to ejs file](https://www.youtube.com/watch?v=4XEzWwEzkoc)
 - [Git and Github bangla tutorial 19 : GitHub issues](https://www.youtube.com/watch?v=E5HFlpx7QP4)
-- [ejs bangla tutorial 1 : Introduction to ejs](https://www.youtube.com/watch?v=x9o3fxS_xdM)
+- [ejs bangla tutorial 4 : loop control statement - for loop](https://www.youtube.com/watch?v=Wl9TuIrvc5k)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
