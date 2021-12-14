@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ejs bangla tutorial 5 : layout](https://www.youtube.com/watch?v=VTeb-rzwacY)
 - [ejs bangla tutorial 4 : loop control statement - for loop](https://www.youtube.com/watch?v=Wl9TuIrvc5k)
 - [Anisul Islam Live Stream 10/12/2021](https://www.youtube.com/watch?v=eu859pMHD7Q)
 - [ejs bangla tutorial 3 : if else in ejs](https://www.youtube.com/watch?v=hkc9i-DLAwE)
 - [ejs bangla tutorial 2 : passing data to ejs file](https://www.youtube.com/watch?v=4XEzWwEzkoc)
-- [Git and Github bangla tutorial 19 : GitHub issues](https://www.youtube.com/watch?v=E5HFlpx7QP4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
