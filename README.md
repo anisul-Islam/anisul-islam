@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [express js bangla tutorial 14 : model view controller node js express | MVC](https://www.youtube.com/watch?v=BDeBB9b2L9I)
 - [17/12/2021 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=8WEND48jndA)
 - [ejs bangla tutorial 7 : deploy the complete app on heroku](https://www.youtube.com/watch?v=-eJK4fF6vIw)
 - [ejs bangla tutorial 6 : styling ejs file](https://www.youtube.com/watch?v=qf2hChSRcV4)
 - [ejs bangla tutorial 5 : layout](https://www.youtube.com/watch?v=VTeb-rzwacY)
-- [ejs bangla tutorial 4 : loop control statement - for loop](https://www.youtube.com/watch?v=Wl9TuIrvc5k)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
