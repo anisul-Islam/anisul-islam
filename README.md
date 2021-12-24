@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [17/12/2021 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=ynCKNniTk7c)
 - [MongoDB bangla tutorial 2 : CRUD | Create documentation](https://www.youtube.com/watch?v=M1bOoZJJjZk)
 - [MongoDB bangla tutorial 1 : Introduction to MongoDB](https://www.youtube.com/watch?v=rQYZ3JmZsdI)
 - [300k subscribers event : student&#39;s video part 1](https://www.youtube.com/watch?v=clRqErQZtTs)
 - [express js bangla tutorial 14 : model view controller node js express | MVC](https://www.youtube.com/watch?v=BDeBB9b2L9I)
-- [17/12/2021 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=8WEND48jndA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
