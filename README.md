@@ -106,7 +106,7 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [17/12/2021 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=ynCKNniTk7c)
+- [24/12/2021 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=ynCKNniTk7c)
 - [MongoDB bangla tutorial 2 : CRUD | Create documentation](https://www.youtube.com/watch?v=M1bOoZJJjZk)
 - [MongoDB bangla tutorial 1 : Introduction to MongoDB](https://www.youtube.com/watch?v=rQYZ3JmZsdI)
 - [300k subscribers event : student&#39;s video part 1](https://www.youtube.com/watch?v=clRqErQZtTs)
