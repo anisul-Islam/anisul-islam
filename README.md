@@ -109,8 +109,8 @@ my students and others.
 - [MongoDB bangla tutorial 5 : CRUD | delete document](https://www.youtube.com/watch?v=btyJ3sZXQxA)
 - [300k subscribers event : student&#39;s video part 2](https://www.youtube.com/watch?v=HXzwxf71OiQ)
 - [MongoDB bangla tutorial 4 : CRUD | update document](https://www.youtube.com/watch?v=t6I9AbH316E)
+- [React Bangla Tutorial 19 : passing data from child to parent component](https://www.youtube.com/watch?v=xdW2uFA-SOg)
 - [MongoDB bangla tutorial 3 : CRUD | Read documents](https://www.youtube.com/watch?v=Ix1ujccZImE)
-- [24/12/2021 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=ynCKNniTk7c)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
