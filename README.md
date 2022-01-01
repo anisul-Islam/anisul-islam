@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [driving in Finland &lpar;part-1&rpar; | winter experiences](https://www.youtube.com/watch?v=IePElofmxVY)
 - [01/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=HXEIqwdpuPs)
 - [New Year 2020 in Tampere, Finland](https://www.youtube.com/watch?v=REpAUlUItiI)
 - [MongoDB bangla tutorial 6 : mongodb compass](https://www.youtube.com/watch?v=ts8OdvNWQkI)
 - [React Bangla Tutorial 19 : passing data from child to parent component](https://www.youtube.com/watch?v=xdW2uFA-SOg)
-- [MongoDB bangla tutorial 5 : CRUD | delete document](https://www.youtube.com/watch?v=btyJ3sZXQxA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
