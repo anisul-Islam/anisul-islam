@@ -107,10 +107,10 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [React Bangla Tutorial 20 : A basic todo app | pass data from child to parent component](https://www.youtube.com/watch?v=h7yq5lfDZc8)
+- [React Bangla Tutorial 21 : React Hooks | useEffect](https://www.youtube.com/watch?v=XEU3jlV9syI)
 - [driving in Finland &lpar;part-1&rpar; | winter experiences](https://www.youtube.com/watch?v=IePElofmxVY)
 - [01/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=HXEIqwdpuPs)
 - [New Year 2020 in Tampere, Finland](https://www.youtube.com/watch?v=REpAUlUItiI)
-- [MongoDB bangla tutorial 6 : mongodb compass](https://www.youtube.com/watch?v=ts8OdvNWQkI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
