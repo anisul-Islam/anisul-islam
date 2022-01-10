@@ -110,7 +110,7 @@ my students and others.
 - [Bootstrap5 Bangla Tutorial 18 : Form](https://www.youtube.com/watch?v=eDE7TndaKeM)
 - [Bootstrap5 Bangla Tutorial 17 : Table](https://www.youtube.com/watch?v=74Ge1I0FzBk)
 - [Bootstrap5 Bangla Tutorial 8 : dismissible alert button](https://www.youtube.com/watch?v=jJnr3kvxmgU)
-- [01/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=epCrWyAoJac)
+- [Bootstrap5 Bangla Tutorial 21 : float, clearfix and SVG icons](https://www.youtube.com/watch?v=-BP8r0vMOXU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
