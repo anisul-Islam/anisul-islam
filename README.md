@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bootstrap5 Bangla Tutorial 24 : modal](https://www.youtube.com/watch?v=ihYO3k9Xhvo)
 - [Bootstrap5 Bangla Tutorial 23 : flex layout](https://www.youtube.com/watch?v=R517U0dZp6g)
 - [Bootstrap5 Bangla Tutorial 22 : display and position](https://www.youtube.com/watch?v=qknEBRJBAM0)
 - [Google Nest Hub Unboxing and testing](https://www.youtube.com/watch?v=a-MT6GZv094)
 - [Bootstrap5 Bangla Tutorial 21 : float, clearfix and SVG icons](https://www.youtube.com/watch?v=-BP8r0vMOXU)
-- [Bootstrap5 Bangla Tutorial 20 : badge, tooltip, progress](https://www.youtube.com/watch?v=D-rPnaM0agw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
