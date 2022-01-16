@@ -110,7 +110,7 @@ my students and others.
 - [Badminton hobby](https://www.youtube.com/watch?v=RdzZKLIAU10)
 - [14/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=40IDXWAtBAs)
 - [React Bangla Tutorial 23 : fetching data with useEffect hook &lpar;part-2&rpar;](https://www.youtube.com/watch?v=GPW3CJguUok)
-- [Bootstrap5 Bangla Tutorial 32 : series finale](https://www.youtube.com/watch?v=y3t44Vjga0A)
+- [React Bangla Tutorial 24 : how to create a custom hook](https://www.youtube.com/watch?v=ZWschU7H_20)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
