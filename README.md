@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [14/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=0N8XcZwQsYg)
 - [Git and Github bangla tutorial 20 : fast forward merge](https://www.youtube.com/watch?v=FbX_MpqSLfc)
 - [React Bangla Tutorial 24 : how to create a custom hook](https://www.youtube.com/watch?v=ZWschU7H_20)
 - [Asus ROG CHARIOT CORE GAME CHAIR review in bangla 2022](https://www.youtube.com/watch?v=remZDzI0l-s)
 - [Badminton hobby](https://www.youtube.com/watch?v=RdzZKLIAU10)
-- [14/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=40IDXWAtBAs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
