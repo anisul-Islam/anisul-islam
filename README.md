@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to feature channels to your YouTube channel | Bangla tutorial](https://www.youtube.com/watch?v=fCSa2arPs54)
 - [Git and Github bangla tutorial 22 : resolve merge conflict on git](https://www.youtube.com/watch?v=LapVNu99qU8)
 - [Git and Github bangla tutorial 1 : welcome to git and GitHub series](https://www.youtube.com/watch?v=cPgIpUraWQo)
 - [Git and Github bangla tutorial 21 : 3-way merge](https://www.youtube.com/watch?v=dPSB-UhioJw)
 - [14/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=0N8XcZwQsYg)
-- [Git and Github bangla tutorial 20 : fast forward merge](https://www.youtube.com/watch?v=FbX_MpqSLfc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
