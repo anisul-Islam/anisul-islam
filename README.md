@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Git and Github bangla tutorial 24 : fork &amp; clone - contribute on others project](https://www.youtube.com/watch?v=FH0wptOLukk)
 - [typescript bangla tutorial 1 : Introduction to typescript](https://www.youtube.com/watch?v=FQVsJjj5n70)
 - [Git and Github bangla tutorial 23 : resolve merge conflict on GitHub](https://www.youtube.com/watch?v=KmbNiB6jbHo)
 - [how to feature channels to your YouTube channel | Bangla tutorial](https://www.youtube.com/watch?v=fCSa2arPs54)
 - [Git and Github bangla tutorial 22 : resolve merge conflict on git](https://www.youtube.com/watch?v=LapVNu99qU8)
-- [Git and Github bangla tutorial 1 : welcome to git and GitHub series](https://www.youtube.com/watch?v=cPgIpUraWQo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
