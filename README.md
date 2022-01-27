@@ -107,7 +107,7 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [Git and Github bangla tutorial 25 : how to do a collaboration on GitHub](https://www.youtube.com/watch?v=nS9QbJt4KaQ)
-- [Life in Finland](https://www.youtube.com/watch?v=JUTg7FjY_kw)
+- [Finland&#39;s Job market, opportunities and driving | Sudden live session](https://www.youtube.com/watch?v=JUTg7FjY_kw)
 - [Git and Github bangla tutorial 24 : fork &amp; clone - contribute on others project](https://www.youtube.com/watch?v=FH0wptOLukk)
 - [typescript bangla tutorial 1 : Introduction to typescript](https://www.youtube.com/watch?v=FQVsJjj5n70)
 - [Git and Github bangla tutorial 23 : resolve merge conflict on GitHub](https://www.youtube.com/watch?v=KmbNiB6jbHo)
