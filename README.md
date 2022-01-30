@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [typescript bangla tutorial 4 : built in data type](https://www.youtube.com/watch?v=A3wbKN6alvg)
 - [typescript bangla tutorial 3 : First Typescript program](https://www.youtube.com/watch?v=WfvfbFZO8js)
 - [28/01/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=4yseP7qfiyU)
 - [typescript bangla tutorial 2 : Environment setup](https://www.youtube.com/watch?v=1Ox8MUW7X-s)
 - [Git and Github bangla tutorial 27 : github series finale](https://www.youtube.com/watch?v=OgPm5Hzc4zs)
-- [Git and Github bangla tutorial 25 : how to do a collaboration on GitHub](https://www.youtube.com/watch?v=nS9QbJt4KaQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
