@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [typescript bangla tutorial 7 : Tuple Data Type](https://www.youtube.com/watch?v=IOJDlNxFe_g)
 - [typescript bangla tutorial 6 : Array Data Type](https://www.youtube.com/watch?v=8ondVDH2hnA)
 - [typescript bangla tutorial 5 : Union Data Type](https://www.youtube.com/watch?v=sOqquM6QXlE)
 - [Winter life in Finland &lpar;part-2&rpar; | Experience of Bangladeshi in Finland](https://www.youtube.com/watch?v=yqsyBkyW_04)
 - [Winter life in Finland &lpar;part-1&rpar; | Experience of Bangladeshi in Finland](https://www.youtube.com/watch?v=VZyVJiZllAQ)
-- [typescript bangla tutorial 4 : built in data type](https://www.youtube.com/watch?v=A3wbKN6alvg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
