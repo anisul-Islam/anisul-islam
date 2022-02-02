@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [javascript bangla tutorial 38 : DOM traversing &amp; manipulating](https://www.youtube.com/watch?v=8WGMULjnR94)
 - [typescript bangla tutorial 8 : Enum Data Type](https://www.youtube.com/watch?v=JM-KjAq9kQY)
 - [typescript bangla tutorial 7 : Tuple Data Type](https://www.youtube.com/watch?v=IOJDlNxFe_g)
 - [typescript bangla tutorial 6 : Array Data Type](https://www.youtube.com/watch?v=8ondVDH2hnA)
 - [typescript bangla tutorial 5 : Union Data Type](https://www.youtube.com/watch?v=sOqquM6QXlE)
-- [Winter life in Finland &lpar;part-2&rpar; | Experience of Bangladeshi in Finland](https://www.youtube.com/watch?v=yqsyBkyW_04)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
