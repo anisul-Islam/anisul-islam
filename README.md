@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beginner Level Badminton Match | Anisul vs Kowsarul | Tampere, Finland](https://www.youtube.com/watch?v=0xyJgI8EptE)
 - [04/02/2022 - Full-stack &lpar;HTML&rpar; quiz1 winner - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=wgUmPz3y_dc)
 - [typescript bangla tutorial 10 : Object Data Type](https://www.youtube.com/watch?v=IMbVGliJ0_s)
 - [typescript bangla tutorial 9 : any type](https://www.youtube.com/watch?v=8cv8nCrL7O4)
 - [javascript bangla tutorial 38 : DOM traversing &amp; manipulating](https://www.youtube.com/watch?v=8WGMULjnR94)
-- [typescript bangla tutorial 8 : Enum Data Type](https://www.youtube.com/watch?v=JM-KjAq9kQY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
