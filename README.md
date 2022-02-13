@@ -106,7 +106,7 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [javascript bangla tutorial 86 : how to create a slideshow using html, css, js](https://www.youtube.com/watch?v=nlkhJV4qK44)
+- [javascript bangla tutorial 86 : mini project 1 | create a slideshow](https://www.youtube.com/watch?v=nlkhJV4qK44)
 - [typescript bangla tutorial 12 : class and object](https://www.youtube.com/watch?v=p9IXBR6fzWw)
 - [Full-stack web development 2022 Quiz-1 &lpar;HTML&rpar; Winner&#39;s video](https://www.youtube.com/watch?v=HX4yJiaEJRE)
 - [javascript bangla tutorial 59 : best practices for javascript coding](https://www.youtube.com/watch?v=PZVF5l0D7_E)
