@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Facebook live session 18/2/2022 | Why ICT is important for HSC Students?](https://www.youtube.com/watch?v=jYy25iyzO7w)
 - [18/02/2022 - Full-stack &lpar;HTML&rpar; quiz1 winner - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=kgsKQMzadKA)
 - [typescript bangla tutorial 14 : abstraction](https://www.youtube.com/watch?v=vkQqRY6iwv4)
 - [Full-stack web development-2022 CSS Quiz](https://www.youtube.com/watch?v=BaDlkH7D9YM)
 - [typescript bangla tutorial 13 : Inheritance](https://www.youtube.com/watch?v=-D3FH2-SHxY)
-- [javascript bangla tutorial 86 : mini project 1 | create a slideshow](https://www.youtube.com/watch?v=nlkhJV4qK44)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
