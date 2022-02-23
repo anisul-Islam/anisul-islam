@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [javascript bangla tutorial 86 : Web Storage API | localStorage, sessionStorage, cookie](https://www.youtube.com/watch?v=9X6AnonU6Lw)
 - [javascript bangla tutorial 91 : mini project 2 | how to create dynamic cards](https://www.youtube.com/watch?v=j2J1dUGnfmI)
 - [Winter in Tampere, Finland | Heavy Snow shower on 22nd February 2022 #shorts](https://www.youtube.com/watch?v=CR1U-gloRPY)
 - [typescript bangla tutorial 16 : module export &amp; import](https://www.youtube.com/watch?v=5jGUhthyjL8)
 - [Full stack web development in 2022 #shorts](https://www.youtube.com/watch?v=UbiA1GVjGlQ)
-- [typescript bangla tutorial 15 : Encapsulation &amp; access modifiers](https://www.youtube.com/watch?v=pgn9w--cAEk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
