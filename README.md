@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Going to my occupational doctor in Tampere, Finland](https://www.youtube.com/watch?v=lZo_VEYxoRA)
 - [javascript bangla tutorial 93 : mini project 4 | storing user preference](https://www.youtube.com/watch?v=KCcoF4OU09M)
 - [01/03/2022 - Full-stack &lpar;CSS&rpar; quiz winner - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=6kpCqGDoAhA)
 - [typescript bangla tutorial 18 : dom manipulation](https://www.youtube.com/watch?v=E9C-_Xm9iuU)
 - [Driving to Helsinki, Finland](https://www.youtube.com/watch?v=EzuU30gqJME)
-- [javascript bangla tutorial 92 : mini project 3 | amazing guessing game](https://www.youtube.com/watch?v=18nV8wVjHpU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
