@@ -107,8 +107,8 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [javascript bangla tutorial 94 : mini project 5 | A complete todo App](https://www.youtube.com/watch?v=gjhd8UqLmdY)
-- [React Bangla Tutorial 26 : Fragment](https://www.youtube.com/watch?v=tw8Lj2xPf3I)
-- [React Bangla Tutorial 12 : how to use bootstrap with React](https://www.youtube.com/watch?v=o97uYPQtk54)
+- [React Bangla Tutorial 28 : Fragment](https://www.youtube.com/watch?v=tw8Lj2xPf3I)
+- [React Bangla Tutorial 14 : how to use bootstrap with React](https://www.youtube.com/watch?v=o97uYPQtk54)
 - [unboxing new DJ OM5 smartphone gimbal in 2022 | Life in Finland](https://www.youtube.com/watch?v=1Nh1-hj5w7I)
 - [Going to my occupational doctor in Tampere, Finland](https://www.youtube.com/watch?v=lZo_VEYxoRA)
 <!-- YOUTUBE:END -->
