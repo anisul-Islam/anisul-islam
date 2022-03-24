@@ -107,8 +107,8 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [React Bangla Tutorial 29 : life cycle of a class component](https://www.youtube.com/watch?v=Yz5qTOmSt0M)
-- [React Bangla Tutorial 12 : Nested mapping](https://www.youtube.com/watch?v=f5k6QHnTMEo)
-- [React Bangla Tutorial 11 : react component under the hood](https://www.youtube.com/watch?v=kj0cxv_dC9M)
+- [React Bangla Tutorial 11 : Nested mapping](https://www.youtube.com/watch?v=f5k6QHnTMEo)
+- [React Bangla Tutorial 13 : react component under the hood](https://www.youtube.com/watch?v=kj0cxv_dC9M)
 - [javascript bangla tutorial 94 : mini project 5 | A complete todo App](https://www.youtube.com/watch?v=gjhd8UqLmdY)
 - [React Bangla Tutorial 28 : Fragment](https://www.youtube.com/watch?v=tw8Lj2xPf3I)
 <!-- YOUTUBE:END -->
