@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Bangla Tutorial 30 : Project 2 | Country App](https://www.youtube.com/watch?v=7ujsEmu8PkQ)
 - [26/03/2022 - Full-stack &lpar;Bootstrap5&rpar; quiz winner - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=JXuLbYCwlWk)
 - [React Bangla Tutorial 25 : Project 1 | A complete Todo App](https://www.youtube.com/watch?v=qQk4bwj5_ts)
 - [React Bangla Tutorial 10 : mapping data with a unique id](https://www.youtube.com/watch?v=Dj7ynTdhy1Q)
-- [React Bangla Tutorial 31 : life cycle of a class component](https://www.youtube.com/watch?v=Yz5qTOmSt0M)
-- [React Bangla Tutorial 11 : Nested mapping](https://www.youtube.com/watch?v=f5k6QHnTMEo)
+- [React Bangla Tutorial 32 : life cycle of a class component](https://www.youtube.com/watch?v=Yz5qTOmSt0M)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
