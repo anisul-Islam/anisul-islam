@@ -108,9 +108,9 @@ my students and others.
 <!-- YOUTUBE:START -->
 - [React Bangla Tutorial 26 : how to do toggle](https://www.youtube.com/watch?v=HyJlYJBsqvE)
 - [React Bangla Tutorial 36 : React Hooks | useRef Hook](https://www.youtube.com/watch?v=l5z137GWakU)
+- [React Bangla Tutorial 27 : how to create FAQ section for website](https://www.youtube.com/watch?v=_FqhFjO1KY0)
 - [React Bangla Tutorial 35 : ref in a class component with example](https://www.youtube.com/watch?v=EyUsClvwmeo)
 - [React Bangla Tutorial 32 : Project 2 | Country App](https://www.youtube.com/watch?v=7ujsEmu8PkQ)
-- [26/03/2022 - Full-stack &lpar;Bootstrap5&rpar; quiz winner - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=JXuLbYCwlWk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
