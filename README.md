@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Bangla Tutorial 42 : Navigation and redirect](https://www.youtube.com/watch?v=DooqgS1JDg0)
 - [React Bangla Tutorial 41 : introduction to react routing](https://www.youtube.com/watch?v=1_powatXjds)
 - [React Bangla Tutorial 40 : PropTypes](https://www.youtube.com/watch?v=mnPJrxHUarA)
 - [22/04/2022 - Full-stack &lpar;JavaScript&rpar; quiz winner - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=sfEsFMRp0Rs)
 - [React Bangla Tutorial 39 : React Hooks | useContext Hook](https://www.youtube.com/watch?v=RYeRn5_xL7k)
-- [React Bangla Tutorial 38 : prop drilling](https://www.youtube.com/watch?v=_JNIQXYSUu4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
