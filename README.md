@@ -106,10 +106,10 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [automatic car wash in Finland](https://www.youtube.com/watch?v=mYh4EknP17M)
 - [React Bangla Tutorial 44 : useLocation hook](https://www.youtube.com/watch?v=EKmr00ZKkCg)
 - [React Bangla Tutorial 43 : dynamic routing using useParams](https://www.youtube.com/watch?v=g5B0Vq3jHbA)
 - [express js bangla tutorial 15 : CORS setup](https://www.youtube.com/watch?v=P2ARmlsUHBc)
-- [React Bangla Tutorial 45 : route parameter, query parameter | useSearchParams](https://www.youtube.com/watch?v=uQtNSOUepVE)
 - [React Bangla Tutorial 42 : Navigation and redirect](https://www.youtube.com/watch?v=DooqgS1JDg0)
 <!-- YOUTUBE:END -->
 
