@@ -110,7 +110,7 @@ my students and others.
 - [React Bangla Tutorial 44 : useLocation hook](https://www.youtube.com/watch?v=EKmr00ZKkCg)
 - [React Bangla Tutorial 43 : dynamic routing using useParams](https://www.youtube.com/watch?v=g5B0Vq3jHbA)
 - [express js bangla tutorial 15 : CORS setup](https://www.youtube.com/watch?v=P2ARmlsUHBc)
-- [React Bangla Tutorial 42 : Navigation and redirect](https://www.youtube.com/watch?v=DooqgS1JDg0)
+- [React Bangla Tutorial 45 : route parameter, query parameter | useSearchParams](https://www.youtube.com/watch?v=uQtNSOUepVE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
