@@ -186,7 +186,8 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### 🏅 Honors & Awards :
 
-- Silver Button from YouTube (295k subscribers currently)
+- 100% Scholarship in Masters
+- Silver Button from YouTube (332k subscribers currently)
 - Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
 
 ---
