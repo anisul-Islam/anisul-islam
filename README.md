@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Complete REST API Bangla Tutorial | CRUD operations | MVC Architecture](https://www.youtube.com/watch?v=b2W8IKipw90)
 - [React Bangla Tutorial 46 : best practice for a react project structure](https://www.youtube.com/watch?v=Emb-pOw_LmY)
 - [Good parking vs bad parking](https://www.youtube.com/watch?v=4fwpIOytiQc)
 - [React Bangla Tutorial 45 : route parameter, query parameter | useSearchParams](https://www.youtube.com/watch?v=uQtNSOUepVE)
 - [automatic car wash in Finland](https://www.youtube.com/watch?v=mYh4EknP17M)
-- [React Bangla Tutorial 44 : useLocation hook](https://www.youtube.com/watch?v=EKmr00ZKkCg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
