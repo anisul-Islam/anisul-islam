@@ -107,10 +107,10 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [My 2nd day at Fitness24Seven | Hervanta, Tampere, Finland](https://www.youtube.com/watch?v=Oi19AtQ8VqY)
+- [React Bangla Tutorial 48 : how to delete data from an API | DELETE Method](https://www.youtube.com/watch?v=IX-1n_eHF0s)
 - [React Bangla Tutorial 47 : how to get data from an API | GET Method](https://www.youtube.com/watch?v=gnHdHFqlfew)
 - [Complete REST API Bangla Tutorial | CRUD operations | MVC Architecture](https://www.youtube.com/watch?v=b2W8IKipw90)
 - [React Bangla Tutorial 46 : best practice for a react project structure](https://www.youtube.com/watch?v=Emb-pOw_LmY)
-- [Good parking vs bad parking](https://www.youtube.com/watch?v=4fwpIOytiQc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
