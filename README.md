@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learn React Router 6 in 1 video | Bangla Tutorial](https://www.youtube.com/watch?v=YeW84KZVVbE)
 - [React Bangla Tutorial 46 : react routing | Protected routing](https://www.youtube.com/watch?v=MqFZ-tewuW0)
 - [Happiness of being a father](https://www.youtube.com/watch?v=qmlPhAKCpQQ)
 - [React Bangla Tutorial 52 : How to deploy react app on netlify from GitHub](https://www.youtube.com/watch?v=y4DZJKGCIPc)
 - [React Bangla Tutorial 51 : http method | how to update data in an API](https://www.youtube.com/watch?v=msrcslJPsjY)
-- [React Bangla Tutorial 50 : http method | how to create data in an API](https://www.youtube.com/watch?v=JOAiEGOqAmo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
