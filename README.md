@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Redux bangla tutorial 5 : complete counter app](https://www.youtube.com/watch?v=__nMP46Z580)
+- [React Bangla Tutorial 3 : first react app | react 18](https://www.youtube.com/watch?v=UDP507ZO8mY)
 - [Redux bangla tutorial 4 : Store](https://www.youtube.com/watch?v=ZstJi--kgHA)
 - [Redux bangla tutorial 3 : Reducers](https://www.youtube.com/watch?v=n919ZQgWnCc)
 - [Redux bangla tutorial 2 : state, actions](https://www.youtube.com/watch?v=ttunWZ9sN0Q)
-- [Redux bangla tutorial 5 : complete counter app](https://www.youtube.com/watch?v=__nMP46Z580)
-- [Redux bangla tutorial 1 : Introduction to redux | how redux works](https://www.youtube.com/watch?v=vaXwgADfJL8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
