@@ -109,8 +109,8 @@ my students and others.
 - [Redux bangla tutorial 4 : Store](https://www.youtube.com/watch?v=ZstJi--kgHA)
 - [Redux bangla tutorial 3 : Reducers](https://www.youtube.com/watch?v=n919ZQgWnCc)
 - [Redux bangla tutorial 2 : state, actions](https://www.youtube.com/watch?v=ttunWZ9sN0Q)
+- [Redux bangla tutorial 5 : complete counter app](https://www.youtube.com/watch?v=__nMP46Z580)
 - [Redux bangla tutorial 1 : Introduction to redux | how redux works](https://www.youtube.com/watch?v=vaXwgADfJL8)
-- [Learn React Router 6 in 1 video | Bangla Tutorial](https://www.youtube.com/watch?v=YeW84KZVVbE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
