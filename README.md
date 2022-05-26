@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Redux-toolkit bangla tutorial 10 : react-redux | complete counter react app](https://www.youtube.com/watch?v=paY1O3oD3gg)
 - [Redux-toolkit bangla tutorial 9 : redux | fetch data using redux-thunk](https://www.youtube.com/watch?v=ppug0jE3poY)
 - [Redux-toolkit bangla tutorial 8 : redux | Middleware | redux-logger](https://www.youtube.com/watch?v=dk42KOFcRkk)
 - [Redux-toolkit bangla tutorial 7 : redux | Multiple reducers](https://www.youtube.com/watch?v=MN3-kkwMgxQ)
 - [Redux-toolkit bangla tutorial 6 : redux | payload](https://www.youtube.com/watch?v=7-Y96jM7xmg)
-- [Redux-toolkit bangla tutorial 5 : redux | complete counter app](https://www.youtube.com/watch?v=__nMP46Z580)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
