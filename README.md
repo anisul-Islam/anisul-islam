@@ -109,8 +109,8 @@ my students and others.
 - [Redux-toolkit bangla tutorial 11 : react-redux | fetch data](https://www.youtube.com/watch?v=ToS6afYzyhE)
 - [Finn-Bangla Football Tournament 2022 Group formation, Finland.](https://www.youtube.com/watch?v=jbrOihtqYeA)
 - [Redux-toolkit bangla tutorial 10 : react-redux | complete counter react app](https://www.youtube.com/watch?v=paY1O3oD3gg)
+- [Redux-toolkit bangla tutorial 12 : Counter app using redux toolkit](https://www.youtube.com/watch?v=1aOGY0rRBQk)
 - [Redux-toolkit bangla tutorial 9 : redux | fetch data using redux-thunk](https://www.youtube.com/watch?v=ppug0jE3poY)
-- [Redux-toolkit bangla tutorial 8 : redux | Middleware | redux-logger](https://www.youtube.com/watch?v=dk42KOFcRkk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
