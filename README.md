@@ -106,10 +106,10 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Redux-toolkit bangla tutorial 12 : Counter app using redux toolkit](https://www.youtube.com/watch?v=1aOGY0rRBQk)
 - [Redux-toolkit bangla tutorial 11 : react-redux | fetch data](https://www.youtube.com/watch?v=ToS6afYzyhE)
 - [Finn-Bangla Football Tournament 2022 Group formation, Finland.](https://www.youtube.com/watch?v=jbrOihtqYeA)
 - [Redux-toolkit bangla tutorial 10 : react-redux | complete counter react app](https://www.youtube.com/watch?v=paY1O3oD3gg)
-- [Redux-toolkit bangla tutorial 12 : Counter app using redux toolkit](https://www.youtube.com/watch?v=1aOGY0rRBQk)
 - [Redux-toolkit bangla tutorial 9 : redux | fetch data using redux-thunk](https://www.youtube.com/watch?v=ppug0jE3poY)
 <!-- YOUTUBE:END -->
 
