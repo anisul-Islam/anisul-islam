@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Redux-toolkit bangla tutorial 14 : fetch data using redux toolkit](https://www.youtube.com/watch?v=LoK2bQUPjsY)
 - [Go Bangla Tutorial 1 : Course plan of the Go Programming Language](https://www.youtube.com/watch?v=tIQeuzBz4Fs)
 - [Redux-toolkit bangla tutorial 13 : how to use redux devtools](https://www.youtube.com/watch?v=Lw1JkmNAFA4)
 - [Redux-toolkit bangla tutorial 12 : Counter app using redux toolkit](https://www.youtube.com/watch?v=1aOGY0rRBQk)
 - [Redux-toolkit bangla tutorial 11 : react-redux | fetch data](https://www.youtube.com/watch?v=ToS6afYzyhE)
-- [Finn-Bangla Football Tournament 2022 Group formation, Finland.](https://www.youtube.com/watch?v=jbrOihtqYeA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
