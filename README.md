@@ -109,8 +109,8 @@ my students and others.
 - [Go Bangla Tutorial 5 : Running your first go program](https://www.youtube.com/watch?v=rh5i1rn8ddA)
 - [Go Bangla Tutorial 4 : environment setup](https://www.youtube.com/watch?v=RMzO8eQuT1g)
 - [Go Bangla Tutorial 3 : Go Program structure](https://www.youtube.com/watch?v=0o3VTRk_zDI)
+- [Go Bangla Tutorial 6 : escape sequences and comment](https://www.youtube.com/watch?v=M17OrKMLKYg)
 - [Go Bangla Tutorial 2 : Introduction to Go](https://www.youtube.com/watch?v=zFDU3NdU80E)
-- [Redux-toolkit bangla tutorial 14 : fetch data using redux toolkit](https://www.youtube.com/watch?v=LoK2bQUPjsY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
