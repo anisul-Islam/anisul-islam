@@ -107,10 +107,10 @@ my students and others.
 
 <!-- YOUTUBE:START -->
 - [Go Bangla Tutorial 3 : Go Program structure](https://www.youtube.com/watch?v=0o3VTRk_zDI)
+- [Go Bangla Tutorial 4 : environment setup](https://www.youtube.com/watch?v=RMzO8eQuT1g)
 - [Go Bangla Tutorial 2 : Introduction to Go](https://www.youtube.com/watch?v=zFDU3NdU80E)
 - [Redux-toolkit bangla tutorial 14 : fetch data using redux toolkit](https://www.youtube.com/watch?v=LoK2bQUPjsY)
 - [Go Bangla Tutorial 1 : Course plan of the Go Programming Language](https://www.youtube.com/watch?v=tIQeuzBz4Fs)
-- [Redux-toolkit bangla tutorial 13 : how to use redux devtools](https://www.youtube.com/watch?v=Lw1JkmNAFA4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
