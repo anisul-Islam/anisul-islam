@@ -106,10 +106,10 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go Bangla Tutorial 6 : escape sequences and comment](https://www.youtube.com/watch?v=M17OrKMLKYg)
 - [Go Bangla Tutorial 5 : Running your first go program](https://www.youtube.com/watch?v=rh5i1rn8ddA)
 - [Go Bangla Tutorial 4 : environment setup](https://www.youtube.com/watch?v=RMzO8eQuT1g)
 - [Go Bangla Tutorial 3 : Go Program structure](https://www.youtube.com/watch?v=0o3VTRk_zDI)
-- [Go Bangla Tutorial 6 : escape sequences and comment](https://www.youtube.com/watch?v=M17OrKMLKYg)
 - [Go Bangla Tutorial 2 : Introduction to Go](https://www.youtube.com/watch?v=zFDU3NdU80E)
 <!-- YOUTUBE:END -->
 
