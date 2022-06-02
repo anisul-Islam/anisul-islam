@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go Bangla Tutorial 9 : variable &lpar;part-2&rpar;](https://www.youtube.com/watch?v=DS8xLJdOJtM)
 - [Go Bangla Tutorial 8 : variables &lpar;part-1&rpar;](https://www.youtube.com/watch?v=xTIRrlXFswA)
 - [Go Bangla Tutorial 7 : keywords &amp; data types](https://www.youtube.com/watch?v=Zz_V8PiE_gk)
 - [Go Bangla Tutorial 6 : escape sequences and comment](https://www.youtube.com/watch?v=M17OrKMLKYg)
 - [Go Bangla Tutorial 5 : Running your first go program](https://www.youtube.com/watch?v=rh5i1rn8ddA)
-- [Go Bangla Tutorial 4 : environment setup](https://www.youtube.com/watch?v=RMzO8eQuT1g)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
