@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go Bangla Tutorial 14 : area of triangle and circle](https://www.youtube.com/watch?v=6_vXFGk8L4o)
 - [Go Bangla Tutorial 13 : arithmetic operator](https://www.youtube.com/watch?v=Oiv2XH6zEzE)
 - [Go Bangla Tutorial 12 : number and string formatting](https://www.youtube.com/watch?v=FLE4etF3UFk)
 - [Go Bangla Tutorial 11 : getting user input](https://www.youtube.com/watch?v=xBaNRNk5WJE)
 - [Go Bangla Tutorial 10 : formatting output &amp; constant](https://www.youtube.com/watch?v=HHFtKtAdugQ)
-- [Go Bangla Tutorial 9 : variable &lpar;part-2&rpar;](https://www.youtube.com/watch?v=DS8xLJdOJtM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
