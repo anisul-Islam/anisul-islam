@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Redux-toolkit bangla tutorial 15 : react CRUD app using redux toolkit](https://www.youtube.com/watch?v=No1FYwxK6Es)
 - [Go Bangla Tutorial 14 : area of triangle and circle](https://www.youtube.com/watch?v=6_vXFGk8L4o)
 - [Go Bangla Tutorial 13 : arithmetic operator](https://www.youtube.com/watch?v=Oiv2XH6zEzE)
 - [Go Bangla Tutorial 12 : number and string formatting](https://www.youtube.com/watch?v=FLE4etF3UFk)
 - [Go Bangla Tutorial 11 : getting user input](https://www.youtube.com/watch?v=xBaNRNk5WJE)
-- [Go Bangla Tutorial 10 : formatting output &amp; constant](https://www.youtube.com/watch?v=HHFtKtAdugQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
