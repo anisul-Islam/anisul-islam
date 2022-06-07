@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go Bangla Tutorial 18 : Bitwise operators](https://www.youtube.com/watch?v=1KUD2iJPqzk)
 - [Learn HTML by building a project | Bangla Tutorial](https://www.youtube.com/watch?v=mgO9ObbVeJ8)
 - [Go Bangla Tutorial 17 : Logical operators](https://www.youtube.com/watch?v=iIdiE7E3GMI)
 - [Go Bangla Tutorial 16 : Unary and Relational operators](https://www.youtube.com/watch?v=l65Hm20_b-I)
 - [Go Bangla Tutorial 15 : Assignment operators](https://www.youtube.com/watch?v=OaWfAZqZ7iY)
-- [Redux-toolkit bangla tutorial 15 : react CRUD app using redux toolkit](https://www.youtube.com/watch?v=No1FYwxK6Es)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
