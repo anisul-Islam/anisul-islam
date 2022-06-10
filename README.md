@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go Bangla Tutorial 21 : find large number between 2 numbers](https://www.youtube.com/watch?v=e7k0LGJ_B3I)
 - [React Bangla Tutorial 53 : react memo](https://www.youtube.com/watch?v=pwh4oyGpVPk)
 - [Go Bangla Tutorial 20 : even-odd program](https://www.youtube.com/watch?v=BRhQ2S8NBOY)
 - [Go Bangla Tutorial 19 : if, else if, else statement](https://www.youtube.com/watch?v=jLtjp1qqrA0)
 - [Front-end Web development Roadmap - 2022](https://www.youtube.com/watch?v=tjwmeYYfoGY)
-- [Go Bangla Tutorial 18 : Bitwise operators](https://www.youtube.com/watch?v=1KUD2iJPqzk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
