@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tampere Bangladeshi cricket tournament 2022](https://www.youtube.com/watch?v=JWlT1523iE0)
+- [React Bangla Tutorial 54 : React Hooks | useCallback hook](https://www.youtube.com/watch?v=t9qUJ0SRQuE)
 - [Go Bangla Tutorial 23 : find large number using logical operators](https://www.youtube.com/watch?v=6tKriA8VGgs)
 - [Go Bangla Tutorial 22 : find large number among 3 numbers](https://www.youtube.com/watch?v=1RoAmb6XzWo)
 - [Go Bangla Tutorial 21 : find large number between 2 numbers](https://www.youtube.com/watch?v=e7k0LGJ_B3I)
-- [React Bangla Tutorial 53 : react memo](https://www.youtube.com/watch?v=pwh4oyGpVPk)
-- [Go Bangla Tutorial 20 : even-odd program](https://www.youtube.com/watch?v=BRhQ2S8NBOY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
