@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go Bangla Tutorial 28 :  series program | 2 + 4 + 6 + ... + n](https://www.youtube.com/watch?v=H84H_sInya8)
 - [Go Bangla Tutorial 27 : loop control statement](https://www.youtube.com/watch?v=S1nl-kqb7bQ)
 - [Go Bangla Tutorial 26 : multiple case in switch statement](https://www.youtube.com/watch?v=BOzhopWw9I0)
 - [React Bangla Tutorial 55 : React Hooks | useMemo hook](https://www.youtube.com/watch?v=_namSWWPMeU)
 - [Go Bangla Tutorial 25 : switch statement](https://www.youtube.com/watch?v=xNVlpBhVJ3M)
-- [Go Bangla Tutorial 24 : digit spelling program using if, else](https://www.youtube.com/watch?v=EoFmLCebo1M)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
