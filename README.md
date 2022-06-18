@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go Bangla Tutorial 30 : function](https://www.youtube.com/watch?v=CW70Kp59_hA)
 - [React-TypeScript Bangla Tutorial 1: Introduction | Environment setup](https://www.youtube.com/watch?v=OSw_sJ-lfU8)
 - [Go Bangla Tutorial 29 : break and continue statement](https://www.youtube.com/watch?v=OSzkLWxWHzM)
 - [Finnish water basketball](https://www.youtube.com/watch?v=1h7fwW1mh8s)
 - [Go Bangla Tutorial 28 :  series program | 2 + 4 + 6 + ... + n](https://www.youtube.com/watch?v=H84H_sInya8)
-- [Go Bangla Tutorial 27 : loop control statement](https://www.youtube.com/watch?v=S1nl-kqb7bQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
