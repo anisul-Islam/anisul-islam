@@ -106,8 +106,8 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React-TypeScript Bangla Tutorial 2 : built in Props types](https://www.youtube.com/watch?v=-LRg9gC2ZB0)
 - [React-TypeScript Bangla Tutorial 3 : user defined Props types &lpar;part-1&rpar;](https://www.youtube.com/watch?v=2Lbb6wvvAIk)
+- [React-TypeScript Bangla Tutorial 2 : built in Props types](https://www.youtube.com/watch?v=-LRg9gC2ZB0)
 - [Go Bangla Tutorial 30 : function](https://www.youtube.com/watch?v=CW70Kp59_hA)
 - [React-TypeScript Bangla Tutorial 1 : Introduction | Environment setup](https://www.youtube.com/watch?v=OSw_sJ-lfU8)
 - [Go Bangla Tutorial 29 : break and continue statement](https://www.youtube.com/watch?v=OSzkLWxWHzM)
