@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React-TypeScript Bangla Tutorial 8 : useState Hook Types](https://www.youtube.com/watch?v=eHXQHU7hYW4)
 - [React-TypeScript Bangla Tutorial 7 : typing style props](https://www.youtube.com/watch?v=hrBpH9ubhY8)
 - [React-TypeScript Bangla Tutorial 6 : typing children props](https://www.youtube.com/watch?v=ASCkwl61Kqo)
 - [React-TypeScript Bangla Tutorial 5 : user-defined Props types &lpar;part-3&rpar;](https://www.youtube.com/watch?v=BA2oT4SwwHc)
 - [React-TypeScript Bangla Tutorial 4 : user-defined Props types &lpar;part-2&rpar;](https://www.youtube.com/watch?v=_YKiptVNLgY)
-- [React-TypeScript Bangla Tutorial 3 : user defined Props types &lpar;part-1&rpar;](https://www.youtube.com/watch?v=2Lbb6wvvAIk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
