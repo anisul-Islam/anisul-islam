@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [24/06/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=CHF4LwDnJI8)
 - [React-TypeScript Bangla Tutorial 10 : typing form event](https://www.youtube.com/watch?v=y7YpePrc1hI)
 - [REST API with Node JS, Express and MongoDB | CRUD API Bangla Tutorial](https://www.youtube.com/watch?v=kDvZ97u2Ulg)
 - [React-TypeScript Bangla Tutorial 9 : Typing events](https://www.youtube.com/watch?v=ljfh0dtEAjg)
 - [React-TypeScript Bangla Tutorial 8 : typing useState Hook](https://www.youtube.com/watch?v=eHXQHU7hYW4)
-- [React-TypeScript Bangla Tutorial 7 : typing style props](https://www.youtube.com/watch?v=hrBpH9ubhY8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
