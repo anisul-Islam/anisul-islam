@@ -106,9 +106,9 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Authentication Bangla tutorial 2 : encrypting database](https://www.youtube.com/watch?v=Jv3LiGcbRR8)
 - [Authentication Bangla tutorial 1 : database matching authentication](https://www.youtube.com/watch?v=YB4rcd2p9wk)
 - [React-TypeScript Bangla Tutorial 11 : typing useReducer hook](https://www.youtube.com/watch?v=ecAoCfZ91Lc)
-- [Authentication Bangla tutorial 2 : encrypting database](https://www.youtube.com/watch?v=Jv3LiGcbRR8)
 - [24/06/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=CHF4LwDnJI8)
 - [React-TypeScript Bangla Tutorial 10 : typing form event](https://www.youtube.com/watch?v=y7YpePrc1hI)
 <!-- YOUTUBE:END -->
