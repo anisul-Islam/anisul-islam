@@ -109,8 +109,8 @@ my students and others.
 - [Authentication Bangla tutorial 2 : encrypting database](https://www.youtube.com/watch?v=Jv3LiGcbRR8)
 - [Authentication Bangla tutorial 1 : database matching authentication](https://www.youtube.com/watch?v=YB4rcd2p9wk)
 - [React-TypeScript Bangla Tutorial 11 : typing useReducer hook](https://www.youtube.com/watch?v=ecAoCfZ91Lc)
+- [Authentication Bangla tutorial 3 : Hashing password](https://www.youtube.com/watch?v=3Dj0kcgelhE)
 - [24/06/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=CHF4LwDnJI8)
-- [React-TypeScript Bangla Tutorial 10 : typing form event](https://www.youtube.com/watch?v=y7YpePrc1hI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
