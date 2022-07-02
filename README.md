@@ -106,10 +106,10 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Authentication Bangla tutorial 6 : Passport local strategy session base](https://www.youtube.com/watch?v=CfM6oAMS8Ik)
 - [Full-stack web development Quiz number 5: Git &amp; GitHub Quiz Contest](https://www.youtube.com/watch?v=1NU7FKDDvMs)
 - [Authentication Bangla tutorial 5 : session vs token based authentication](https://www.youtube.com/watch?v=oSIbvypd3KM)
 - [Authentication Bangla tutorial 4 : Salting and Hashing passwords](https://www.youtube.com/watch?v=hWIOYuEH9NE)
-- [Authentication Bangla tutorial 6 : Passport local strategy session base](https://www.youtube.com/watch?v=CfM6oAMS8Ik)
 - [Authentication Bangla tutorial 3 : Hashing password](https://www.youtube.com/watch?v=3Dj0kcgelhE)
 <!-- YOUTUBE:END -->
 
