@@ -106,8 +106,8 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Go Bangla Tutorial 31 : A calculator using function, switch and for loop](https://www.youtube.com/watch?v=PyqwjLO-_TU)
 - [Go Bangla Tutorial 32 : Pointer | Call by Reference](https://www.youtube.com/watch?v=5arfrJdwCfA)
+- [Go Bangla Tutorial 31 : A calculator using function, switch and for loop](https://www.youtube.com/watch?v=PyqwjLO-_TU)
 - [Authentication Bangla tutorial 7 : Passport Google OAuth20 session](https://www.youtube.com/watch?v=W-gBOGOcFgk)
 - [Authentication Bangla tutorial 6 : Passport local strategy session base](https://www.youtube.com/watch?v=CfM6oAMS8Ik)
 - [Full-stack web development Quiz number 5: Git &amp; GitHub Quiz Contest](https://www.youtube.com/watch?v=1NU7FKDDvMs)
