@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Full-stack web development Quiz number 5: Git &amp; GitHub Quiz Contest Winner](https://www.youtube.com/watch?v=svigi6VBhhQ)
 - [Go Bangla Tutorial 34 : Array](https://www.youtube.com/watch?v=yrRJpPy1pmE)
 - [Go Bangla Tutorial 33 : Structure | passing structure in a function](https://www.youtube.com/watch?v=8B4T9F5Vn4Y)
 - [Go Bangla Tutorial 32 : Pointer | Call by Reference](https://www.youtube.com/watch?v=5arfrJdwCfA)
 - [Go Bangla Tutorial 31 : A calculator using function, switch and for loop](https://www.youtube.com/watch?v=PyqwjLO-_TU)
-- [Authentication Bangla tutorial 7 : Passport Google OAuth20 session](https://www.youtube.com/watch?v=W-gBOGOcFgk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
