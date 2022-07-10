@@ -106,8 +106,8 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Full-stack web development Quiz number 5: Git &amp; GitHub Quiz Contest Winner](https://www.youtube.com/watch?v=svigi6VBhhQ)
 - [Go Bangla Tutorial 35 : Slice | Dynamic Array](https://www.youtube.com/watch?v=hgZRbO-0hK4)
+- [Full-stack web development Quiz number 5: Git &amp; GitHub Quiz Contest Winner](https://www.youtube.com/watch?v=svigi6VBhhQ)
 - [Go Bangla Tutorial 34 : Array](https://www.youtube.com/watch?v=yrRJpPy1pmE)
 - [Go Bangla Tutorial 33 : Structure | passing structure in a function](https://www.youtube.com/watch?v=8B4T9F5Vn4Y)
 - [Go Bangla Tutorial 32 : Pointer | Call by Reference](https://www.youtube.com/watch?v=5arfrJdwCfA)
