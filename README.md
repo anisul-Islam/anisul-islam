@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [typescript bangla tutorial 19 : function signature](https://www.youtube.com/watch?v=AuYnspCN1vk)
 - [javascript bangla tutorial 95 : mini project 5 | A complete todo App &lpar;part-2&rpar;](https://www.youtube.com/watch?v=_QJmX6m51kI)
 - [Typescript tutorial in English &lpar;part-1&rpar;](https://www.youtube.com/watch?v=-SLxfsrTiSU)
 - [Authentication Bangla tutorial 8 : passport jwt | MERN stack project](https://www.youtube.com/watch?v=R50VuNUXZ44)
 - [Go Bangla Tutorial 35 : Slice | Dynamic Array](https://www.youtube.com/watch?v=hgZRbO-0hK4)
-- [Full-stack web development Quiz number 5: Git &amp; GitHub Quiz Contest Winner](https://www.youtube.com/watch?v=svigi6VBhhQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
