@@ -106,7 +106,7 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [BEM Architecture bangla crash course](https://www.youtube.com/watch?v=XNc9O4mumT0)
+- [CSS BEM architecture crash course in Bangla 2022](https://www.youtube.com/watch?v=XNc9O4mumT0)
 - [typescript bangla tutorial 21 : class implementing interface](https://www.youtube.com/watch?v=257sWboZZc0)
 - [typescript bangla tutorial 20 : interface as types](https://www.youtube.com/watch?v=GGM22qJp0T8)
 - [typescript bangla tutorial 19 : function signature](https://www.youtube.com/watch?v=AuYnspCN1vk)
