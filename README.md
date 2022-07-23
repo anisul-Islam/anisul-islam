@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Abdominal exercise | gym time at Hervanta, Tampere](https://www.youtube.com/watch?v=NuQcqpq7OEA)
 - [22/07/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=Z1zHkBEAnTQ)
 - [CSS BEM architecture crash course in Bangla](https://www.youtube.com/watch?v=XNc9O4mumT0)
 - [typescript bangla tutorial 21 : class implementing interface](https://www.youtube.com/watch?v=257sWboZZc0)
 - [typescript bangla tutorial 20 : interface as types](https://www.youtube.com/watch?v=GGM22qJp0T8)
-- [typescript bangla tutorial 19 : function signature](https://www.youtube.com/watch?v=AuYnspCN1vk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
