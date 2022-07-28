@@ -106,11 +106,11 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HSC ICT | Bangla HTML Tutorial 11 : Online code editor - Codepen](https://www.youtube.com/watch?v=vF01xTBQv8U)
 - [Upper body exercise 2 - Pull down](https://www.youtube.com/watch?v=XcxdAbatjso)
 - [sass bangla tutorial 3 :  partials and sass settings](https://www.youtube.com/watch?v=minJdR-8vjw)
 - [Upper body exercise 1 - Abdominal Crunch](https://www.youtube.com/watch?v=NuQcqpq7OEA)
 - [22/07/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=Z1zHkBEAnTQ)
-- [CSS BEM architecture crash course in Bangla](https://www.youtube.com/watch?v=XNc9O4mumT0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
