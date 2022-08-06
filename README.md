@@ -23,12 +23,7 @@ A full time content creator on & web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects
-to millions of Bangla speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity
-to teach thousands of Bachelor and Higher secondary students of different institutions in Bangladesh.
-After completing my masters in Software, Web and Cloud in August 2021, I am spending much time
-improving my web development skills. Every day I want to learn something new and share my knowledge with
-my students and others.
+I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
 </p>
 
 <br />
@@ -72,6 +67,7 @@ my students and others.
 <br/>
 <br/>
 
+- [Full-stack web development (Bangla)][fullstackplaylist]
 - [Artificial Intelligence (English)][aienglishplaylist]
 - [Artificial Intelligence (Bangla)][aibanglaplaylist]
 - [Java Swing][javaswingplaylist]
@@ -132,12 +128,16 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Courier (Part-time) | Posti Oy                                    | Oct 2019- Running   | Tampere, Finland   |
+| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
+| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
+| Cleaner (Part-time) | COOR Oy                                     | Mar 2020 - Nov 2021 | Tampere, Finland   |
+| Courier (Part-time) | Posti Oy                                    | Oct 2019 - Running  | Tampere, Finland   |
 | Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
 | Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
 | Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
 | Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
 | Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
+| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
 
 <br />
 <!-- work experience section ends here  -->
@@ -186,8 +186,8 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### 🏅 Honors & Awards :
 
-- 100% Scholarship in Masters
-- Silver Button from YouTube (332k subscribers currently)
+- 100% Scholarship in Masters at Tampere University, Finland
+- Silver Button from YouTube (350k subscribers currently)
 - Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
 
 ---
@@ -208,7 +208,7 @@ All rights reserved by Anisul Islam @2021
 [github]: https://github.com/anisul-Islam
 
 <!-- web related playlists starts here  -->
-
+[fullstackplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY
 [htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
 [cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
 [bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
@@ -225,7 +225,6 @@ All rights reserved by Anisul Islam @2021
 <!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
-
 [cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
 [cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
 [javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
