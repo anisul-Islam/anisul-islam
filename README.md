@@ -103,8 +103,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [Collect form data using third party API Bangla tutorial](https://www.youtube.com/watch?v=F37SWZMm1I0)
-- [Setting up prettier and eslint in a project | Bangla tutorial](https://www.youtube.com/watch?v=r_N1GYe6LWE)
-- [Format your code with Prettier in a project | Bangla tutorial](https://www.youtube.com/watch?v=6QpxJWnTjLs)
+- [javascript bangla tutorial 97 : Setting up prettier and eslint in a project](https://www.youtube.com/watch?v=r_N1GYe6LWE)
+- [javascript bangla tutorial 96 : Format your code with Prettier in a project](https://www.youtube.com/watch?v=6QpxJWnTjLs)
 - [HSC ICT | Bangla HTML Tutorial 25 : How to add image in codepen](https://www.youtube.com/watch?v=r3Kbq1y3I8U)
 - [HSC ICT | Bangla HTML Tutorial 11 : Online code editor - Codepen](https://www.youtube.com/watch?v=vF01xTBQv8U)
 <!-- YOUTUBE:END -->
