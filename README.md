@@ -102,10 +102,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [jsdoc crash course in Bangla](https://www.youtube.com/watch?v=_ZiqQOichwc)
+- [jsdoc crash course | bangla tutorial](https://www.youtube.com/watch?v=_ZiqQOichwc)
 - [14/08/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=ibu17lgKhf0)
 - [html bangla tutorial 44 : Collect form data using third party API](https://www.youtube.com/watch?v=F37SWZMm1I0)
-- [javascript bangla tutorial 97 : Setting up prettier and eslint in a project](https://www.youtube.com/watch?v=r_N1GYe6LWE)
+- [ESLint and prettier crash course | bangla tutorial](https://www.youtube.com/watch?v=r_N1GYe6LWE)
 - [javascript bangla tutorial 96 : Format your code with Prettier in a project](https://www.youtube.com/watch?v=6QpxJWnTjLs)
 <!-- YOUTUBE:END -->
 
