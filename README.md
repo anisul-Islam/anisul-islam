@@ -104,7 +104,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [React Bangla Tutorial 56 : A project template with ESLint &amp; prettier setup](https://www.youtube.com/watch?v=8LCwMyQTHog)
 - [Complete Git &amp; GitHub English tutorial](https://www.youtube.com/watch?v=nvSszqsQYGQ)
-- [Learn complete HTML by building a project | English Tutorial](https://www.youtube.com/watch?v=TWUf6eSi2K8)
+- [Complete HTML by building a project | English Tutorial](https://www.youtube.com/watch?v=TWUf6eSi2K8)
 - [jsdoc crash course | bangla tutorial](https://www.youtube.com/watch?v=_ZiqQOichwc)
 - [14/08/2022 - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=ibu17lgKhf0)
 <!-- YOUTUBE:END -->
