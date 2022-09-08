@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Bangla Tutorial 12 : Assignment-1 | Products listing App](https://www.youtube.com/watch?v=eDrBIfCwW0w)
 - [Announcement: Agood news for Full-stack web developer &lpar;React.js&rpar;](https://www.youtube.com/watch?v=9IdczKQNg3o)
 - [React Bangla Tutorial 22 : dynamic styling in React](https://www.youtube.com/watch?v=Eru9-kZfhw4)
 - [React Bangla Tutorial 15 : How to use react icons in your project](https://www.youtube.com/watch?v=jHDP6myBXRM)
 - [React Bangla Tutorial 58 : A project template with ESLint &amp; prettier setup](https://www.youtube.com/watch?v=8LCwMyQTHog)
-- [Complete Git &amp; GitHub English tutorial](https://www.youtube.com/watch?v=nvSszqsQYGQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
