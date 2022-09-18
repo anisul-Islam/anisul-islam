@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS Full Course with a project | Zero to Hero | English Tutorial 10 hours](https://www.youtube.com/watch?v=lXYo52yFLDk)
+- [CSS Full Course with a project | Zero to Hero | English Tutorial](https://www.youtube.com/watch?v=lXYo52yFLDk)
 - [React Bangla Tutorial 23 : Assignment-2 | Counter App](https://www.youtube.com/watch?v=Xd6qr4OcyMk)
 - [React Assignment-1 Feedback](https://www.youtube.com/watch?v=Tm6YE8aumzI)
 - [Full-stack web development Quiz number 6: SASS Quiz Contest Winner](https://www.youtube.com/watch?v=8HukENsjmHw)
