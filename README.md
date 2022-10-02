@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ailoin park Oulu Finland](https://www.youtube.com/watch?v=bAi7FEwAFi8)
 - [Oulu university](https://www.youtube.com/watch?v=bqAd0FNAcFo)
 - [EJS Full Course with a project | Zero to Hero | English Tutorial](https://www.youtube.com/watch?v=OaXjIWP3qLQ)
 - [Learn EJS by building a project 2022 | Bangla Tutorial](https://www.youtube.com/watch?v=rfgG_kUcM3I)
 - [Full-stack web development Quiz number 7: Typescript Quiz Contest Winner](https://www.youtube.com/watch?v=55w_satyd40)
-- [Full-stack web development 2022 Quiz-6 &lpar;SASS&rpar; Winner&#39;s video](https://www.youtube.com/watch?v=jrj9OU5oREg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
