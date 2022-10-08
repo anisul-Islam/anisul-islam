@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Facebook Live - IELTS preparation &amp; stduy in Finland | 8 October 2022](https://www.youtube.com/watch?v=ruUhBecyUNk)
+- [Facebook Live - IELTS preparation at home &amp; stduy in Finland](https://www.youtube.com/watch?v=ruUhBecyUNk)
 - [2 Hours of Natural Rain Sounds for Relaxing, Sleeping, Tampere Finland](https://www.youtube.com/watch?v=le22WxiXga0)
 - [Ainolan Puisto | Ainola park, Oulu Finland](https://www.youtube.com/watch?v=bAi7FEwAFi8)
 - [Oulu university](https://www.youtube.com/watch?v=bqAd0FNAcFo)
