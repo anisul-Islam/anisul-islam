@@ -106,7 +106,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [MongoDB bangla tutorial 10 : find single | multiple data from database](https://www.youtube.com/watch?v=WQvXoSWC7BQ)
 - [MongoDB bangla tutorial 9 : save data in database from express server](https://www.youtube.com/watch?v=g1NjeAaVNjU)
 - [MongoDB bangla tutorial 8 : mongoose schema and model](https://www.youtube.com/watch?v=JG_GFbKdlak)
-- [MongoDB bangla tutorial 7 : connect MongoDB database with mongoose](https://www.youtube.com/watch?v=1_f1O7oR-Bk)
+- [MongoDB bangla tutorial 12 : find data using logical operator](https://www.youtube.com/watch?v=-2knF6h0tTE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
