@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [MongoDB bangla tutorial 16 : mongoose built-in schema validation](https://www.youtube.com/watch?v=gJt98C7kNxU)
+- [MongoDB bangla tutorial 17 : mongoose custom schema validation](https://www.youtube.com/watch?v=DqWIRump3y4)
 - [React Bangla Tutorial 39 : Assignment-5 | Custom hook, delete, search](https://www.youtube.com/watch?v=dJzDsdDZ3sI)
 - [Sudden Q&amp;A session | web development | programming | computer science](https://www.youtube.com/watch?v=oL5-QtGXqOc)
 - [MongoDB bangla tutorial 15 : update data](https://www.youtube.com/watch?v=FawoxpIMbP8)
-- [React Bangla Tutorial 37 : Assignment-4 | fetching data, error handle](https://www.youtube.com/watch?v=-EgbEaC5ro4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
