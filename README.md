@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Bangla Tutorials 2 : Online code editor | IDE](https://www.youtube.com/watch?v=4FEVvXpzYN4)
 - [08/11/2022 - Weekly Discussion with Anisul Islam &lpar;Java and MERN stack&rpar;](https://www.youtube.com/watch?v=MVJvwK9pOqY)
 - [MongoDB bangla tutorial 17 : mongoose custom schema validation](https://www.youtube.com/watch?v=DqWIRump3y4)
 - [MongoDB bangla tutorial 16 : mongoose built-in schema validation](https://www.youtube.com/watch?v=gJt98C7kNxU)
 - [React Bangla Tutorial 39 : Assignment-5 | Custom hook, delete, search](https://www.youtube.com/watch?v=dJzDsdDZ3sI)
-- [Sudden Q&amp;A session | web development | programming | computer science](https://www.youtube.com/watch?v=oL5-QtGXqOc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
