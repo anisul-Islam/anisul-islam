@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Bangla Tutorials 5 : Assignment 1 | create class &amp; print data](https://www.youtube.com/watch?v=hiuIeEME5sU)
 - [08/11/2022 - Weekly Discussion with Anisul Islam &lpar;Java and MERN stack&rpar;](https://www.youtube.com/watch?v=hbzUn5eWfRs)
 - [express js bangla tutorial 24 : server-side data validation using joi](https://www.youtube.com/watch?v=KI5g3DzBu6w)
 - [express js bangla tutorial 23 : server-side validation using express-validator](https://www.youtube.com/watch?v=JCgxEs2lUDo)
 - [Java Bangla Tutorials 0 : Update news for 2022-2023](https://www.youtube.com/watch?v=z7QwTMDQ88o)
-- [Happy moment at gym | Chin Exercise | Tampere, Finland](https://www.youtube.com/watch?v=8zz_rUBdKh4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
