@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Bangla Tutorial 29 : validate form data using yup with formik](https://www.youtube.com/watch?v=vp7BByHPCl4)
 - [Java Bangla Tutorials 16 : Assignment 4 | arithmetic operators](https://www.youtube.com/watch?v=4gcaSrz_akU)
 - [React Bangla Tutorial 28 : control form data using formik package](https://www.youtube.com/watch?v=2W1DnKc0wH4)
 - [Java Bangla Tutorials 14 : Assignment 3 | User Input](https://www.youtube.com/watch?v=GNMBXAx_0UE)
 - [Java Bangla Tutorials 11 : Assignment 2 | Variables and data types](https://www.youtube.com/watch?v=kkF0CbAerHg)
-- [Java Bangla Tutorials 5 : Assignment 1 | create class &amp; print data](https://www.youtube.com/watch?v=hiuIeEME5sU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
