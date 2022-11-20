@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Bangla Tutorials 29 : Assignment 7 | logical OR operator](https://www.youtube.com/watch?v=C2y38F-2bRw)
 - [Java Bangla Tutorials 25 : Assignment 6 | if, else if, else statement](https://www.youtube.com/watch?v=vReoFYVr4z4)
 - [Java Bangla Tutorials 23 : Assignment 5 | if,else statement](https://www.youtube.com/watch?v=LNfmdQcGtww)
 - [Challenges for CSE students part-1 | Diploma course &lpar;Bangla&rpar;](https://www.youtube.com/watch?v=z9B0UC4msXs)
 - [React Bangla Tutorial 29 : validate form data using yup with formik](https://www.youtube.com/watch?v=vp7BByHPCl4)
-- [Java Bangla Tutorials 16 : Assignment 4 | arithmetic operators](https://www.youtube.com/watch?v=4gcaSrz_akU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
