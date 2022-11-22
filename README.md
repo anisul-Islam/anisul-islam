@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Bangla Tutorials 41 : Assignment 10 | for loop](https://www.youtube.com/watch?v=B7FfkYFdqbI)
 - [Java Bangla Tutorials 33 : Assignment 9 | switch statement](https://www.youtube.com/watch?v=7LlB5ZNL44Q)
 - [Git and Github bangla tutorial 26 : How to create and setup SSH key](https://www.youtube.com/watch?v=poewMpeBQmU)
 - [Java Bangla Tutorials 30 : Assignment 8 | logical AND operator](https://www.youtube.com/watch?v=jTeEEZDr1Gg)
 - [Java Bangla Tutorials 29 : Assignment 7 | logical OR operator](https://www.youtube.com/watch?v=C2y38F-2bRw)
-- [Java Bangla Tutorials 25 : Assignment 6 | if, else if, else statement](https://www.youtube.com/watch?v=vReoFYVr4z4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
