@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Bangla Tutorials 54 : Assignment 13 | fibonacci series](https://www.youtube.com/watch?v=62SCKzjVtE4)
 - [Weekly meetings | 26/11/2022](https://www.youtube.com/watch?v=4IIjnfgweM4)
 - [Java Bangla Tutorials 45 : Assignment 12 | sum of m to n number](https://www.youtube.com/watch?v=3rB4BHhyGng)
 - [Java Bangla Tutorials 44 : Assignment 11 | factorial of n](https://www.youtube.com/watch?v=frCUPTitvx8)
 - [Java Bangla Tutorials 41 : Assignment 10 | for loop](https://www.youtube.com/watch?v=B7FfkYFdqbI)
-- [Java Bangla Tutorials 33 : Assignment 9 | switch statement](https://www.youtube.com/watch?v=7LlB5ZNL44Q)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
