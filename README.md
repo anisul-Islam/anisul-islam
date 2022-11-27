@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Weekly meetings](https://www.youtube.com/watch?v=4IIjnfgweM4)
+- [Weekly meetings | 26/11/2022](https://www.youtube.com/watch?v=4IIjnfgweM4)
 - [Java Bangla Tutorials 45 : Assignment 12 | sum of m to n number](https://www.youtube.com/watch?v=3rB4BHhyGng)
 - [Java Bangla Tutorials 44 : Assignment 11 | factorial of n](https://www.youtube.com/watch?v=frCUPTitvx8)
 - [Java Bangla Tutorials 41 : Assignment 10 | for loop](https://www.youtube.com/watch?v=B7FfkYFdqbI)
