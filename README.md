@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Bangla Tutorials 66 : Assignment 16 | loop](https://www.youtube.com/watch?v=bx6lJzqX3Qs)
 - [Java Bangla Tutorials 65 : Assignment 15 | Armstrong number](https://www.youtube.com/watch?v=nItMopwmhmE)
 - [Java Bangla Tutorials 62 : Assignment 14 | palindrome number](https://www.youtube.com/watch?v=C0n3scf1CSQ)
 - [Java Bangla Tutorials 52 : Prime Number মৌলিক সংখ্যা | part-2](https://www.youtube.com/watch?v=cgzBYMNlULA)
 - [Java Bangla Tutorials 55 : Assignment 13 | fibonacci series](https://www.youtube.com/watch?v=62SCKzjVtE4)
-- [Weekly meetings | 26/11/2022](https://www.youtube.com/watch?v=4IIjnfgweM4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
