@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bangla MySQL Database tutorial for beginners to Intermediate | 2023](https://www.youtube.com/watch?v=aZnwpMON0NA)
 - [Java Bangla Tutorials 3 : JDK and Netbeans IDE setup Instructions](https://www.youtube.com/watch?v=28Qm6s9K2AY)
 - [Java Bangla Tutorials 74 : Assignment 18 | Array](https://www.youtube.com/watch?v=Ls54TL6aSVY)
 - [Java Bangla Tutorials 69 : Assignment 17 | pattern](https://www.youtube.com/watch?v=udLz8MEaa24)
 - [Java Bangla Tutorials 66 : Assignment 16 | loop](https://www.youtube.com/watch?v=bx6lJzqX3Qs)
-- [Java Bangla Tutorials 65 : Assignment 15 | Armstrong number](https://www.youtube.com/watch?v=nItMopwmhmE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
