@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tampere university](https://www.youtube.com/watch?v=VEGEfZW6w7I)
+- [Tampere university | Finland](https://www.youtube.com/watch?v=VEGEfZW6w7I)
 - [Bangla MySQL database &amp; SQL tutorial for beginner to Intermediate 2023](https://www.youtube.com/watch?v=aZnwpMON0NA)
 - [Java Bangla Tutorials 3 : JDK and Netbeans IDE setup Instructions](https://www.youtube.com/watch?v=28Qm6s9K2AY)
 - [Java Bangla Tutorials 74 : Assignment 18 | Array](https://www.youtube.com/watch?v=Ls54TL6aSVY)
