@@ -105,8 +105,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [PERN Stack Bangla 3 : REST API GET Method setup &amp; testing](https://www.youtube.com/watch?v=IuozrXl5Nj8)
 - [PERN Stack Bangla 2 : Create a basic express server for REST API](https://www.youtube.com/watch?v=9484HTbBiBo)
 - [PERN Stack Bangla 1 : Introduction to PERN Stack | PostgreSQL](https://www.youtube.com/watch?v=bt-krPEDMR4)
+- [PERN Stack Bangla 4 : REST API POST method setup &amp; testing](https://www.youtube.com/watch?v=p8zSkQFpL3o)
 - [Sarkaniemi Aquarium, Tampere, Finland](https://www.youtube.com/watch?v=R9N7rbx5gbY)
-- [Tampere university | Finland](https://www.youtube.com/watch?v=VEGEfZW6w7I)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
