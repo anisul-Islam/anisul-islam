@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PERN Stack Bangla 8 : create a table in Postgres](https://www.youtube.com/watch?v=a0NaaIwl3w0)
 - [PERN Stack Bangla 7 : Connect with Postgres and create database](https://www.youtube.com/watch?v=OTUVwmLPo6c)
 - [PERN Stack Bangla 6 : Postgres setup and basic commands](https://www.youtube.com/watch?v=32h3Kw8mKNo)
 - [PERN Stack Bangla 5 : REST API PUT &amp; DELETE Method setup &amp; testing](https://www.youtube.com/watch?v=AIjSBNV3zkk)
 - [PERN Stack Bangla 4 : REST API POST method setup &amp; testing](https://www.youtube.com/watch?v=p8zSkQFpL3o)
-- [PERN Stack Bangla 3 : REST API GET Method setup &amp; testing](https://www.youtube.com/watch?v=IuozrXl5Nj8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
