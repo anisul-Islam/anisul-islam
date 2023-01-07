@@ -130,8 +130,6 @@ alt="Java" width="240" height="180" border="10" /></a>
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
 | Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
-| Cleaner (Part-time) | COOR Oy                                     | Mar 2020 - Nov 2021 | Tampere, Finland   |
-| Courier (Part-time) | Posti Oy                                    | Oct 2019 - Running  | Tampere, Finland   |
 | Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
 | Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
 | Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
