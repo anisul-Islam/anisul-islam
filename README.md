@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PERN Stack Bangla 12 : update data in Postgres database](https://www.youtube.com/watch?v=aTN-9a2U9rc)
 - [Driving during the snow in Finland isn&#39;t something you wish](https://www.youtube.com/watch?v=YFan2c7TrEA)
 - [PERN Stack Bangla 11 : delete data from Postgres database](https://www.youtube.com/watch?v=u2FWjbAxlm0)
 - [PERN Stack Bangla 10 : read data from Postgres database](https://www.youtube.com/watch?v=t4GzCRjJ9JQ)
 - [PERN Stack Bangla 9 : How to insert data in a Postgres table](https://www.youtube.com/watch?v=qBNnupZA4Qo)
-- [PERN Stack Bangla 8 : create a table in Postgres](https://www.youtube.com/watch?v=a0NaaIwl3w0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
