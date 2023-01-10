@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS ecommerce project in Bangla part-1 : project demo](https://www.youtube.com/watch?v=lOtbmPaPs24)
+- [HTML CSS Ecommerce project in Bangla part-1 : project demo](https://www.youtube.com/watch?v=lOtbmPaPs24)
 - [PERN Stack Bangla 12 : update data in Postgres database](https://www.youtube.com/watch?v=aTN-9a2U9rc)
 - [Driving during the snow in Finland isn&#39;t something you wish](https://www.youtube.com/watch?v=YFan2c7TrEA)
 - [PERN Stack Bangla 11 : delete data from Postgres database](https://www.youtube.com/watch?v=u2FWjbAxlm0)
