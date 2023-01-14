@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS ecommerce project in Bangla part-6 : collapsible navbar](https://www.youtube.com/watch?v=XqyhVnxsSBs)
 - [CSS Ecommerce project in Bangla part-7 : banner design](https://www.youtube.com/watch?v=5sXVHW7hZLo)
+- [CSS ecommerce project in Bangla part-6 : collapsible navbar](https://www.youtube.com/watch?v=XqyhVnxsSBs)
 - [CSS ecommerce project in Bangla part-5 : responsive footer](https://www.youtube.com/watch?v=DW_ZqBkaSeA)
 - [CSS ecommerce project in Bangla part-4 : responsive navbar](https://www.youtube.com/watch?v=NV96Ri2hPOc)
 - [CSS ecommerce project in Bangla part-3 : create navbar](https://www.youtube.com/watch?v=8JH_u12rly8)
