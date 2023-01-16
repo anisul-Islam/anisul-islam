@@ -106,7 +106,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [CSS ecommerce project in Bangla part-8 : create responsive sidebar](https://www.youtube.com/watch?v=xc92HzW6hBU)
 - [CSS Ecommerce project in Bangla part-7 : banner design](https://www.youtube.com/watch?v=5sXVHW7hZLo)
 - [CSS ecommerce project in Bangla part-6 : collapsible navbar](https://www.youtube.com/watch?v=XqyhVnxsSBs)
-- [CSS ecommerce project in Bangla part-5 : responsive footer](https://www.youtube.com/watch?v=DW_ZqBkaSeA)
+- [CSS ecommerce project in Bangla part-10 : create a products section](https://www.youtube.com/watch?v=uy486gqLaug)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
