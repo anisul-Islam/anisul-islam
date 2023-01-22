@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CSS ecommerce project in Bangla part-17 : create register page](https://www.youtube.com/watch?v=MDlSHf5aUsc)
 - [CSS ecommerce project in Bangla part-16 : create cart payment section](https://www.youtube.com/watch?v=whXBN5482qs)
 - [CSS ecommerce project in Bangla part-15 : design a cart page](https://www.youtube.com/watch?v=c0iQr4P-9vQ)
 - [CSS ecommerce project in Bangla part-14 : create cart page](https://www.youtube.com/watch?v=w69B1zWkpSY)
 - [CSS ecommerce project in Bangla part-13 : create product details page](https://www.youtube.com/watch?v=kasZF_dmA6s)
-- [CSS ecommerce project in Bangla part-12 : create a pagination](https://www.youtube.com/watch?v=EDXu4yC9YC4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
