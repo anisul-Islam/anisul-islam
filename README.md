@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [E commerce project design with HTML and CSS](https://www.youtube.com/watch?v=yxBw_gwuFTs)
+- [E commerce project design with HTML and CSS Bangla Tutorial](https://www.youtube.com/watch?v=yxBw_gwuFTs)
 - [Badminton at TAMK, Tampere, Finland](https://www.youtube.com/watch?v=KHDqPdssqTE)
 - [Finnish winter | driving in Finland | student visa](https://www.youtube.com/watch?v=Bvf9WB1TVgI)
 - [CSS ecommerce project in Bangla part-21 : deploy the website](https://www.youtube.com/watch?v=h2ZePjBr6g0)
