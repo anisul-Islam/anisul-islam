@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dhaka vs Sylhet football match in Tampere, Finland](https://www.youtube.com/watch?v=_VQU63-LHTk)
+- [Playing football with a lower back injury](https://www.youtube.com/watch?v=Oj1iMRkWAMI)
 - [Full Ecommerce project with HTML, CSS | English Tutorial](https://www.youtube.com/watch?v=31sl5O4I3Po)
 - [E commerce project design with HTML and CSS Bangla Tutorial](https://www.youtube.com/watch?v=yxBw_gwuFTs)
 - [Badminton at TAMK, Tampere, Finland](https://www.youtube.com/watch?v=KHDqPdssqTE)
-- [Finnish winter | driving in Finland | student visa](https://www.youtube.com/watch?v=Bvf9WB1TVgI)
-- [CSS ecommerce project in Bangla part-21 : deploy the website](https://www.youtube.com/watch?v=h2ZePjBr6g0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
