@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [React Bangla Tutorial 26 : Event Bubbling | stopPropagation](https://www.youtube.com/watch?v=4AfRswo9RmY)
 - [React Bangla Tutorial 25 : update state based on previous state](https://www.youtube.com/watch?v=ndqwdtjihyI)
+- [React Bangla Tutorial 31 : more on state lifting](https://www.youtube.com/watch?v=ajge9ZlrEqs)
 - [React Bangla Tutorial 12 : A template for react project](https://www.youtube.com/watch?v=mhvXhpLLIMY)
 - [Master HTML &amp; CSS with real life projects | English Tutorial](https://www.youtube.com/watch?v=D1P6o-N011A)
-- [Full stack web development and life in Finland](https://www.youtube.com/watch?v=6MXID1yUUhk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
