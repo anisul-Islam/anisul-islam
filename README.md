@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [typescript bangla tutorial 22 : Narrowing Types](https://www.youtube.com/watch?v=bnHhvAzkgMw)
+- [typescript bangla tutorial 23 : Generics basics](https://www.youtube.com/watch?v=U1rMPFFT7r8)
 - [subscriber&#39;s special videos for 400k milestone events](https://www.youtube.com/watch?v=Ksm3mobcmgI)
 - [400k subscribers event winners](https://www.youtube.com/watch?v=Ts_bt3naC8o)
 - [React Bangla Tutorial 65 : How to create a JSON server](https://www.youtube.com/watch?v=AvXiwzRyA1o)
-- [React Bangla Tutorial 57 : how to use useReducer with Context API](https://www.youtube.com/watch?v=cbbxCCMOeTM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
