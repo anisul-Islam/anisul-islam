@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Current plan](https://www.youtube.com/watch?v=hTtnA_7D3fk)
 - [React, Redux, Typescript Bangla Tutorial part  1/2](https://www.youtube.com/watch?v=bTgpUAKrXxQ)
 - [React-TypeScript Bangla Tutorial 12 : Todo App Project](https://www.youtube.com/watch?v=Tu7wnSzQifA)
 - [typescript bangla tutorial 23 : Generics basics](https://www.youtube.com/watch?v=U1rMPFFT7r8)
 - [typescript bangla tutorial 22 : Narrowing Types](https://www.youtube.com/watch?v=bnHhvAzkgMw)
-- [subscriber&#39;s special videos for 400k milestone events](https://www.youtube.com/watch?v=Ksm3mobcmgI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
