@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [Current plan](https://www.youtube.com/watch?v=hTtnA_7D3fk)
 - [React, Redux, Typescript Bangla Tutorial part  1/2](https://www.youtube.com/watch?v=bTgpUAKrXxQ)
+- [React, Redux, Typescript Bangla Tutorial part  2/2](https://www.youtube.com/watch?v=JC48Pcjuwg8)
 - [React-TypeScript Bangla Tutorial 12 : Todo App Project](https://www.youtube.com/watch?v=Tu7wnSzQifA)
 - [typescript bangla tutorial 23 : Generics basics](https://www.youtube.com/watch?v=U1rMPFFT7r8)
-- [typescript bangla tutorial 22 : Narrowing Types](https://www.youtube.com/watch?v=bnHhvAzkgMw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
