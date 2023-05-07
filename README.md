@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Bangla Tutorial 3 : Create first React project with Vite](https://www.youtube.com/watch?v=_yYO_ly9hmY)
 - [Helsinki, Finland](https://www.youtube.com/watch?v=N4nyF7EOEvs)
 - [What is SSH? Why SSH? How to setup SSH with GitHub?](https://www.youtube.com/watch?v=ykLd4YQMzCo)
 - [React, Redux, Typescript Bangla Tutorial part  2/2](https://www.youtube.com/watch?v=JC48Pcjuwg8)
 - [Current plan](https://www.youtube.com/watch?v=hTtnA_7D3fk)
-- [React, Redux, Typescript Bangla Tutorial part  1/2](https://www.youtube.com/watch?v=bTgpUAKrXxQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
