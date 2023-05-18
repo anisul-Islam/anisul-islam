@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [How does grocery store looks like in Finland | My daily life shopping](https://www.youtube.com/watch?v=bCe4CQ-Ut4Y)
 - [E-commerce MERN Project Bangla Tutorial 4 : HTTP Request and response](https://www.youtube.com/watch?v=6mgYlxmExIs)
+- [E-commerce MERN Project Bangla Tutorial 5 : nodemon and morgan package](https://www.youtube.com/watch?v=RGN9zGpbWeE)
 - [E-commerce MERN Project Bangla Tutorial 3 : Create Express server](https://www.youtube.com/watch?v=s6wYxEfzar0)
 - [E-commerce MERN Project Bangla Tutorial 2 : Environment setup](https://www.youtube.com/watch?v=aHuv22vKyfA)
-- [E-commerce MERN Project Bangla Tutorial 1 : Project Planning](https://www.youtube.com/watch?v=HgSzKpQ2XCI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
