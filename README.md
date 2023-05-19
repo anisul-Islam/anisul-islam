@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 8 : Express Error Middleware](https://www.youtube.com/watch?v=vQkbDVH5GzM)
 - [E-commerce MERN Project Bangla Tutorial 7 : Middleware in Express](https://www.youtube.com/watch?v=J8B530IdEjc)
 - [E-commerce MERN Project Bangla Tutorial 6 : API Testing using Postman](https://www.youtube.com/watch?v=-8eVSWQQfSE)
 - [E-commerce MERN Project Bangla Tutorial 5 : nodemon and morgan package](https://www.youtube.com/watch?v=RGN9zGpbWeE)
 - [How does grocery store looks like in Finland | My daily life shopping](https://www.youtube.com/watch?v=bCe4CQ-Ut4Y)
-- [E-commerce MERN Project Bangla Tutorial 4 : HTTP Request and response](https://www.youtube.com/watch?v=6mgYlxmExIs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
