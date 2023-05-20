@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 11 : env variable &amp; gitignore](https://www.youtube.com/watch?v=iQmXixexwGE)
 - [E-commerce MERN Project Bangla Tutorial 10 : API Security](https://www.youtube.com/watch?v=dqCtM0MCgQs)
 - [E-commerce MERN Project Bangla Tutorial 9 : Handing HTTP Errors](https://www.youtube.com/watch?v=MK8GBcTyHh8)
 - [E-commerce MERN Project Bangla Tutorial 8 : Express Error Middleware](https://www.youtube.com/watch?v=vQkbDVH5GzM)
 - [E-commerce MERN Project Bangla Tutorial 7 : Middleware in Express](https://www.youtube.com/watch?v=J8B530IdEjc)
-- [E-commerce MERN Project Bangla Tutorial 6 : API Testing using Postman](https://www.youtube.com/watch?v=-8eVSWQQfSE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
