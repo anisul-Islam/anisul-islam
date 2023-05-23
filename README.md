@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 14 : User schema and model](https://www.youtube.com/watch?v=0VlieFw3t4A)
 - [E-commerce MERN Project Bangla Tutorial 13 : Database connection](https://www.youtube.com/watch?v=XWCh6lFN8hE)
 - [E-commerce MERN Project Bangla Tutorial 12 : MVC Architecture Setup](https://www.youtube.com/watch?v=XgFtMOAhDeE)
 - [shooting practice in Tampere, Finland | Enjoying Saturday | Hobby](https://www.youtube.com/watch?v=LuusoSWtix0)
 - [Unboxing AirPods 2nd vs AirPods pro 2nd | Bangla Video](https://www.youtube.com/watch?v=vPUdnSo4kro)
-- [Study in Finland | Does institution in Bangladesh matter a lot?](https://www.youtube.com/watch?v=JkjRb5BR9f0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
