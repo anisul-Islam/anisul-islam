@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [E-commerce MERN Project Bangla Tutorial 16 : GET users | searching, pagination](https://www.youtube.com/watch?v=JiQ9noA-HJg)
 - [E-commerce MERN Project Bangla Tutorial 17 : Response Controller](https://www.youtube.com/watch?v=ZcYTHUg9hjA)
+- [E-commerce MERN Project Bangla Tutorial 16 : GET users | searching, pagination](https://www.youtube.com/watch?v=JiQ9noA-HJg)
 - [E-commerce MERN Project Bangla Tutorial 15 : Create A Seeding API](https://www.youtube.com/watch?v=zviOJid0cBo)
 - [E-commerce MERN Project Bangla Tutorial 14 : User schema and model](https://www.youtube.com/watch?v=0VlieFw3t4A)
 - [E-commerce MERN Project Bangla Tutorial 13 : Database connection](https://www.youtube.com/watch?v=XWCh6lFN8hE)
