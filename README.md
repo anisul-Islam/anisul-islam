@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 27 : verify email &amp; register user](https://www.youtube.com/watch?v=Mx2oypZtuGQ)
 - [E-commerce MERN Project Bangla Tutorial 26 : send email with nodemailer](https://www.youtube.com/watch?v=HeQrLC1sLVA)
 - [E-commerce MERN Project Bangla Tutorial 25 : prepare smtp and email](https://www.youtube.com/watch?v=loS0s879Vdg)
 - [Hello, Daffodil international university!!!](https://www.youtube.com/watch?v=3vEbQ-rumkE)
 - [E-commerce MERN Project Bangla Tutorial 24 : create json web token](https://www.youtube.com/watch?v=uNl3_hubaeE)
-- [E-commerce MERN Project Bangla Tutorial 23 : How to register an user](https://www.youtube.com/watch?v=-5BAozwEutU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
