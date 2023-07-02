@@ -106,7 +106,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [E-commerce MERN Project Bangla Tutorial 29 : file size &amp; type filtering](https://www.youtube.com/watch?v=zqcNjrJVKnQ)
 - [E-commerce MERN Project Bangla Tutorial 28 : how to upload images](https://www.youtube.com/watch?v=LqU0xViCJDY)
 - [E-commerce MERN Project Bangla Tutorial 27 : verify email &amp; register user](https://www.youtube.com/watch?v=Mx2oypZtuGQ)
-- [E-commerce MERN Project Bangla Tutorial 26 : send email with nodemailer](https://www.youtube.com/watch?v=HeQrLC1sLVA)
+- [E-commerce MERN Project Bangla Tutorial 31 : storing image as buffer](https://www.youtube.com/watch?v=ZYfe1t78dT4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
