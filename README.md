@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [E-commerce MERN Project Bangla Tutorial 31 : storing image as buffer](https://www.youtube.com/watch?v=ZYfe1t78dT4)
-- [E-commerce MERN Project Bangla Tutorial 30 : input validation](https://www.youtube.com/watch?v=J2E85Zks_j0)
+- [E-commerce MERN Project Bangla Tutorial 33 : update user by id](https://www.youtube.com/watch?v=NYxpXq_vYBs)
+- [E-commerce MERN Project Bangla Tutorial 30 : refactoring file uploading](https://www.youtube.com/watch?v=D8YTwTTg9Yg)
+- [E-commerce MERN Project Bangla Tutorial 32 : storing image as buffer](https://www.youtube.com/watch?v=ZYfe1t78dT4)
+- [E-commerce MERN Project Bangla Tutorial 31 : input validation](https://www.youtube.com/watch?v=J2E85Zks_j0)
 - [E-commerce MERN Project Bangla Tutorial 29 : file size &amp; type filtering](https://www.youtube.com/watch?v=zqcNjrJVKnQ)
-- [E-commerce MERN Project Bangla Tutorial 28 : how to upload images](https://www.youtube.com/watch?v=LqU0xViCJDY)
-- [E-commerce MERN Project Bangla Tutorial 27 : verify email &amp; register user](https://www.youtube.com/watch?v=Mx2oypZtuGQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
