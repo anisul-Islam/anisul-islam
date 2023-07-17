@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 47 : winston logger](https://www.youtube.com/watch?v=Ep4Zqk458vA)
 - [Why I love Finland so much? Why I wish to help people always?](https://www.youtube.com/watch?v=xCdW_iN5_Bw)
 - [driving in India is like driving in a hell](https://www.youtube.com/watch?v=YEiMS6LtpQ8)
 - [E-commerce MERN Project Bangla Tutorial 46 : Modularity](https://www.youtube.com/watch?v=tVV9obT4yGQ)
 - [Beautiful weather in Finland !](https://www.youtube.com/watch?v=mhiz_u4YhRk)
-- [Maintaining your religious activities in Finland](https://www.youtube.com/watch?v=P8eVEevIudg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
