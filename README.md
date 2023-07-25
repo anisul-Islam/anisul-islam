@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [E-commerce MERN Project Bangla Tutorial 48 : category model &amp; validation](https://www.youtube.com/watch?v=rqjv9yY8_Wg)
+- [E-commerce MERN Project Bangla Tutorial 49 : Create category](https://www.youtube.com/watch?v=az3rP0XGfnc)
 - [Update on the e-commerce project](https://www.youtube.com/watch?v=R2Du5lILf8k)
 - [Updating the Java Playlist](https://www.youtube.com/watch?v=D9S-C8w8RCI)
 - [Mother love doesn’t change even in the toughest situations #mother #love](https://www.youtube.com/watch?v=UGF1qk2qcD4)
-- [E-commerce MERN Project Bangla Tutorial 47 : winston logger](https://www.youtube.com/watch?v=Ep4Zqk458vA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
