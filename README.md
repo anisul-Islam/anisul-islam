@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 56 : Read | find single product](https://www.youtube.com/watch?v=oNp6heIilaI)
 - [E-commerce MERN Project Bangla Tutorial 55 : Read | find all products](https://www.youtube.com/watch?v=ecHgX7xwPbQ)
 - [E-commerce MERN Project Bangla Tutorial 54 : Create product with validation](https://www.youtube.com/watch?v=SAziHXrBYkw)
 - [E-commerce MERN Project Bangla Tutorial 53 : seed products](https://www.youtube.com/watch?v=KKWYrBtpPJg)
 - [E-commerce MERN Project Bangla Tutorial 52 : Product model](https://www.youtube.com/watch?v=avHdH8RdTbg)
-- [E-commerce MERN Project Bangla Tutorial 52 : delete category](https://www.youtube.com/watch?v=MgEtpcefvVk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
