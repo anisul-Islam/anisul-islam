@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Driving to Kokkola, Finland, on a beautiful summer](https://www.youtube.com/watch?v=G7EjvTOyw2w)
 - [C programming Bangla Tutorial 5.140 : Series | Lucas series](https://www.youtube.com/watch?v=Us1gTBUb8XY)
+- [Driving to Kokkola, Finland, on a beautiful summer](https://www.youtube.com/watch?v=G7EjvTOyw2w)
 - [Journey to kokkola](https://www.youtube.com/watch?v=uBG2dT7emgg)
 - [Anisul Islam from the hospital](https://www.youtube.com/watch?v=FjS88VhTfgY)
 - [Anisul Islam is going live!](https://www.youtube.com/watch?v=e0UGKNwAxn8)
