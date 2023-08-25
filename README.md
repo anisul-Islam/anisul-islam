@@ -1,8 +1,5 @@
 <!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
 <!-- banner image ends here  -->
-
-<h1> 👋 Hello, I'm Anisul Islam </h1>
 
 A full time content creator on & web developer  
 🏠 &nbsp; Living: Tampere, Finland
@@ -102,6 +99,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Anisul Islam is going live!](https://www.youtube.com/watch?v=yP_Ey_cgxQs)
 - [Recovering fast Alhamdulilah](https://www.youtube.com/watch?v=aYYAe6hsasc)
 - [Fishing at Tampere, Finland](https://www.youtube.com/watch?v=HiswK4Xmjy8)
@@ -126,16 +124,16 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
-| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
-| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
+| Position           | Institute                                   | Duration            | Location           |
+| ------------------ | ------------------------------------------- | ------------------- | ------------------ |
+| Full-stack trainer | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
+| Software Engineer  | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
+| Research Assistant | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
+| Lecturer of ICT    | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
+| Guest Lecturer     | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
+| Android developer  | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
+| Lecturer of ICT    | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
+| Content Creator    | YouTube                                     | Jan 2012- Running   | USA                |
 
 <br />
 <!-- work experience section ends here  -->
@@ -206,6 +204,7 @@ All rights reserved by Anisul Islam @2021
 [github]: https://github.com/anisul-Islam
 
 <!-- web related playlists starts here  -->
+
 [fullstackplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY
 [htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
 [cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
@@ -223,6 +222,7 @@ All rights reserved by Anisul Islam @2021
 <!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
+
 [cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
 [cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
 [javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
