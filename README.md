@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Let&#39;s have some chitchat on a rainy day in Finland](https://www.youtube.com/watch?v=cdjl0mzp55A)
 - [Let&#39;s have some chit-chat on a rainy day in Finland](https://www.youtube.com/watch?v=E4hfgOiEpz0)
+- [Let&#39;s have some chitchat on a rainy day in Finland](https://www.youtube.com/watch?v=cdjl0mzp55A)
 - [Funny moment while driving towards Kokkola](https://www.youtube.com/watch?v=VV-g0VtMvkc)
 - [My Cooking life in Finland](https://www.youtube.com/watch?v=z3yPBB-nPiY)
 - [Discussion with online students &lpar;Part-1&rpar;](https://www.youtube.com/watch?v=_OwUxsiIkM0)
