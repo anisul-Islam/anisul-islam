@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [Let&#39;s have some chit-chat on a rainy day in Finland](https://www.youtube.com/watch?v=E4hfgOiEpz0)
-- [Let&#39;s have some chitchat on a rainy day in Finland](https://www.youtube.com/watch?v=cdjl0mzp55A)
 - [Funny moment while driving towards Kokkola](https://www.youtube.com/watch?v=VV-g0VtMvkc)
 - [My Cooking life in Finland](https://www.youtube.com/watch?v=z3yPBB-nPiY)
 - [Discussion with online students &lpar;Part-1&rpar;](https://www.youtube.com/watch?v=_OwUxsiIkM0)
+- [Bangladesh VS Nepal tie-breaking | Asia cup in Finland 2023](https://www.youtube.com/watch?v=uO9O1aS_nDM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
