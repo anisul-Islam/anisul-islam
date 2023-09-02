@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Funny moment while driving towards Kokkola](https://www.youtube.com/watch?v=VV-g0VtMvkc)
 - [My Cooking life in Finland](https://www.youtube.com/watch?v=z3yPBB-nPiY)
 - [Discussion with online students &lpar;Part-1&rpar;](https://www.youtube.com/watch?v=_OwUxsiIkM0)
 - [Bangladesh VS Nepal tie-breaking | Asia cup in Finland 2023](https://www.youtube.com/watch?v=uO9O1aS_nDM)
 - [Anisul Islam is going live!](https://www.youtube.com/watch?v=yP_Ey_cgxQs)
-- [Recovering fast Alhamdulilah](https://www.youtube.com/watch?v=aYYAe6hsasc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
