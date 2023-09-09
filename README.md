@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Driving to Helsinki airport to pick up my sister](https://www.youtube.com/watch?v=ODADuJc4-VI)
 - [A typical day as a Bangladeshi software developer in Finland](https://www.youtube.com/watch?v=JKy1EaRx848)
 - [Sickness is killing me](https://www.youtube.com/watch?v=wga5zp4CXtM)
 - [Let&#39;s have some chit-chat on a rainy day in Finland](https://www.youtube.com/watch?v=E4hfgOiEpz0)
 - [Funny moment while driving towards Kokkola](https://www.youtube.com/watch?v=VV-g0VtMvkc)
-- [My Cooking life in Finland](https://www.youtube.com/watch?v=z3yPBB-nPiY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
