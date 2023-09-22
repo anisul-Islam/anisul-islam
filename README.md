@@ -104,7 +104,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [Update on C programming course registration](https://www.youtube.com/watch?v=D-fBZJoDCeQ)
 - [Surprising my students/subscribers/followers on live | Episode 1](https://www.youtube.com/watch?v=dma_ec8L8SU)
-- [Surprising students/followers/subscribers on Live  - Episode 1](https://www.youtube.com/watch?v=ME7A2uYWQ6U)
+- [C programming live course students selection](https://www.youtube.com/watch?v=ME7A2uYWQ6U)
 - [Driving to Helsinki airport to pick up my sister](https://www.youtube.com/watch?v=ODADuJc4-VI)
 - [A typical day as a Bangladeshi software developer in Finland](https://www.youtube.com/watch?v=JKy1EaRx848)
 <!-- YOUTUBE:END -->
