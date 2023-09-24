@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A big upgrade from Peugeot to Mercedes-benz C](https://www.youtube.com/watch?v=2_zDCWoFa1A)
 - [C programming live course students selection](https://www.youtube.com/watch?v=ME7A2uYWQ6U)
 - [Update on C programming course registration](https://www.youtube.com/watch?v=D-fBZJoDCeQ)
 - [Surprising my students/subscribers/followers on live | Episode 1](https://www.youtube.com/watch?v=dma_ec8L8SU)
 - [Driving to Helsinki airport to pick up my sister](https://www.youtube.com/watch?v=ODADuJc4-VI)
-- [A typical day as a Bangladeshi software developer in Finland](https://www.youtube.com/watch?v=JKy1EaRx848)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
