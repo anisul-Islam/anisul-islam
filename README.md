@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Playing badminton at Tampere Finland |  8 October 2023](https://www.youtube.com/watch?v=HbgqwzYQvLc)
 - [Playing futsal at sammon central high school, Finland | 9 October 2023](https://www.youtube.com/watch?v=hxtSGWmn0Lo)
 - [আপনি কিভাবে জীবনে ভারসাম্য বজায় রাখেন | How do you balance life](https://www.youtube.com/watch?v=O_UZUoAWCes)
 - [A big upgrade from Peugeot to Mercedes-benz C](https://www.youtube.com/watch?v=2_zDCWoFa1A)
 - [C programming live course students selection](https://www.youtube.com/watch?v=ME7A2uYWQ6U)
-- [Update on C programming course registration](https://www.youtube.com/watch?v=D-fBZJoDCeQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
