@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C programming Bangla Tutorial 5.15 : More on data types](https://www.youtube.com/watch?v=Gz5rkuWFy5U)
 - [C programming Bangla Tutorial 5.17 : Get inputs using gets, fgets, getchar](https://www.youtube.com/watch?v=jQzn_HgrpaI)
+- [C programming Bangla Tutorial 5.15 : More on data types](https://www.youtube.com/watch?v=Gz5rkuWFy5U)
 - [how to navigate on the same page in React](https://www.youtube.com/watch?v=T54u2lIhmc0)
 - [Playing badminton at Tampere Finland |  8 October 2023](https://www.youtube.com/watch?v=HbgqwzYQvLc)
 - [Playing futsal at sammon central high school, Finland | 9 October 2023](https://www.youtube.com/watch?v=hxtSGWmn0Lo)
