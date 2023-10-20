@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Updating c programming playlist for 2023-24](https://www.youtube.com/watch?v=0_8dOzwShtc)
 - [C programming Bangla Tutorial 5.9 : c programming in vscode](https://www.youtube.com/watch?v=TH6JYd1jOHo)
 - [C programming Bangla Tutorial 5.17 : Get inputs using gets, fgets, getchar](https://www.youtube.com/watch?v=jQzn_HgrpaI)
 - [C programming Bangla Tutorial 5.15 : More on data types](https://www.youtube.com/watch?v=Gz5rkuWFy5U)
 - [how to navigate on the same page in React](https://www.youtube.com/watch?v=T54u2lIhmc0)
-- [Playing badminton at Tampere Finland |  8 October 2023](https://www.youtube.com/watch?v=HbgqwzYQvLc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
