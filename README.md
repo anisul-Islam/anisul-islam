@@ -105,8 +105,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [C programming Bangla Tutorial 5.3 : Introduction to C programming](https://www.youtube.com/watch?v=dCP5Qa4UDVk)
 - [Updating c programming playlist for 2023-24](https://www.youtube.com/watch?v=0_8dOzwShtc)
 - [C programming Bangla Tutorial 5.10 : c programming in vscode](https://www.youtube.com/watch?v=TH6JYd1jOHo)
-- [C programming Bangla Tutorial 5.17 : Get inputs using gets, fgets, getchar](https://www.youtube.com/watch?v=jQzn_HgrpaI)
-- [C programming Bangla Tutorial 5.15 : More on data types](https://www.youtube.com/watch?v=Gz5rkuWFy5U)
+- [C programming Bangla Tutorial 5.19 : Get inputs using gets, fgets, getchar](https://www.youtube.com/watch?v=jQzn_HgrpaI)
+- [C programming Bangla Tutorial 5.17 : More on data types](https://www.youtube.com/watch?v=Gz5rkuWFy5U)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
