@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C program Basic-Advanced Bangla tutorial part 1/13 : Intorduction](https://www.youtube.com/watch?v=PjKIDbCd9lw)
+- [C program Basic-Advanced Bangla tutorial part 1/13 : Introduction to C](https://www.youtube.com/watch?v=PjKIDbCd9lw)
 - [C programming Bangla Tutorial 5.3 : Introduction to C programming](https://www.youtube.com/watch?v=dCP5Qa4UDVk)
 - [Updating c programming playlist for 2023-24](https://www.youtube.com/watch?v=0_8dOzwShtc)
 - [C programming Bangla Tutorial 5.10 : c programming in vscode](https://www.youtube.com/watch?v=TH6JYd1jOHo)
