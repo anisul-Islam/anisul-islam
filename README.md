@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [C programming Bangla Tutorial 5.12 : welcome to part-2 &lpar;Input Output&rpar;](https://www.youtube.com/watch?v=GIuXziwwEJc)
+- [C program Basic-Advanced Bangla tutorial part 2/13 : Input-Output](https://www.youtube.com/watch?v=6FdsR6t-xxE)
 - [C program Basic-Advanced Bangla tutorial part 1/13 : Introduction to C](https://www.youtube.com/watch?v=PjKIDbCd9lw)
 - [C programming Bangla Tutorial 5.3 : welcome to part-1 &lpar;Introduction to programming&rpar;](https://www.youtube.com/watch?v=dCP5Qa4UDVk)
 - [C programming Bangla Tutorial 5.0 : Updating c programming playlist for 2023-24](https://www.youtube.com/watch?v=0_8dOzwShtc)
-- [C programming Bangla Tutorial 5.10 : c programming in vscode](https://www.youtube.com/watch?v=TH6JYd1jOHo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
