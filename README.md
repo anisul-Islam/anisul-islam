@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ask me your question | Facebook live adda | Friday 3 November, 2023](https://www.youtube.com/watch?v=w9MtEGds9qc)
 - [C programming Live session | Loop | sum of digits, reverse, palindrome, armstrong](https://www.youtube.com/watch?v=zNn1LQYrDkw)
+- [Ask me your question | Facebook live adda | Friday 3 November, 2023](https://www.youtube.com/watch?v=w9MtEGds9qc)
 - [C program Basic-Advanced Bangla tutorial part 4/13 : Math header](https://www.youtube.com/watch?v=F-eycsJ9lq0)
 - [Weekly Live Adda | 3-Nov-2023](https://www.youtube.com/watch?v=7FgKC_08XIM)
 - [C program Basic-Advanced Bangla tutorial part 3/13 : Operators](https://www.youtube.com/watch?v=jnIoK0mF7G8)
