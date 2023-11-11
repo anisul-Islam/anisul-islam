@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Join &amp; Ask Question Live | Saturday 11 November, 2023](https://www.youtube.com/watch?v=JDKkuzyth84)
 - [Array in C programming &lpar;part-1&rpar;](https://www.youtube.com/watch?v=Q1W3vC24Hvs)
 - [Research | Higher Study | Career Hub BAIUST](https://www.youtube.com/watch?v=DITY5q84DZs)
 - [C programming Live session | Loop | sum of digits, reverse, palindrome, armstrong](https://www.youtube.com/watch?v=zNn1LQYrDkw)
-- [Ask me your question | Facebook live adda | Friday 3 November, 2023](https://www.youtube.com/watch?v=w9MtEGds9qc)
-- [C program Basic-Advanced Bangla tutorial part 4/13 : Math header](https://www.youtube.com/watch?v=F-eycsJ9lq0)
+- [Join &amp; Ask Question Live | Friday 3 November, 2023](https://www.youtube.com/watch?v=w9MtEGds9qc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
