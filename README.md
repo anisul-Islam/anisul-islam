@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [JavaScript Certifications](https://www.youtube.com/watch?v=0QJ8zZCbhxo)
-- [Everything you need to know about Prime number in c](https://www.youtube.com/watch?v=1UByc1KclNk)
+- [C programming Bangla Tutorial : Prime number &lpar;part-1&rpar;](https://www.youtube.com/watch?v=1UByc1KclNk)
 - [Join &amp; Ask Question Live | Saturday 11 November, 2023](https://www.youtube.com/watch?v=JDKkuzyth84)
 - [Data structure &amp; Algorithm : Linear search](https://www.youtube.com/watch?v=5uE-6b2e7ns)
 - [Array in C programming &lpar;part-1&rpar;](https://www.youtube.com/watch?v=Q1W3vC24Hvs)
