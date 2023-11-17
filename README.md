@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial : total and sum of prime number](https://www.youtube.com/watch?v=h-Td0B-Yx4g)
 - [JavaScript Certifications](https://www.youtube.com/watch?v=0QJ8zZCbhxo)
 - [C programming Bangla Tutorial : Check Prime Number](https://www.youtube.com/watch?v=1UByc1KclNk)
 - [Join &amp; Ask Question Live | Saturday 11 November, 2023](https://www.youtube.com/watch?v=JDKkuzyth84)
 - [Data structure &amp; Algorithm : Linear search](https://www.youtube.com/watch?v=5uE-6b2e7ns)
-- [Array in C programming &lpar;part-1&rpar;](https://www.youtube.com/watch?v=Q1W3vC24Hvs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
