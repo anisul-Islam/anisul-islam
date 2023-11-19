@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 9 : variables and data types](https://www.youtube.com/watch?v=33Gc36JS5KY)
 - [C Program English Tutorial 8 : Tokens - keywords, string, punctuators](https://www.youtube.com/watch?v=XhIUvAMhbrQ)
 - [C Program English Tutorial 7 : Comments and their types](https://www.youtube.com/watch?v=Z5ZS8xCE0jA)
 - [C Program English Tutorial 6 : backslash characters / Escapse sequences](https://www.youtube.com/watch?v=5c-T-hNywIo)
 - [Array in C programming &lpar;part-2&rpar; | 2023](https://www.youtube.com/watch?v=7QpLIXc1ILM)
-- [C Program English Tutorial 5 : Code formatter](https://www.youtube.com/watch?v=mekQz_L90So)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
