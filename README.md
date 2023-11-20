@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 12 : variables naming conventions](https://www.youtube.com/watch?v=rt9uYxq3DvE)
+- [C Program English Tutorial 11 : dynamic initialization](https://www.youtube.com/watch?v=rLVeEZY898E)
 - [C Program English Tutorial 10 : format specifiers](https://www.youtube.com/watch?v=SsNlJWCYZ8c)
 - [C Program English Tutorial 9 : variables and data types](https://www.youtube.com/watch?v=33Gc36JS5KY)
 - [C Program English Tutorial 8 : Tokens - keywords, string, punctuators](https://www.youtube.com/watch?v=XhIUvAMhbrQ)
-- [C Program English Tutorial 7 : Comments and their types](https://www.youtube.com/watch?v=Z5ZS8xCE0jA)
-- [C Program English Tutorial 6 : backslash characters / Escapse sequences](https://www.youtube.com/watch?v=5c-T-hNywIo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
