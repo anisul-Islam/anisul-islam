@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 3 : Basic Structure and its various parts](https://www.youtube.com/watch?v=8O98pejsscg)
 - [C Program English Tutorial 15 : Get user input](https://www.youtube.com/watch?v=chWfc7o8hqg)
 - [C Program English Tutorial 14 : built in and derived data types](https://www.youtube.com/watch?v=TDP6J4JlD1Y)
 - [C Program English Tutorial 13 : challenge 2 - variable declarations and printing](https://www.youtube.com/watch?v=4GQH25xQU_w)
 - [C Program English Tutorial 12 : variables naming conventions](https://www.youtube.com/watch?v=rt9uYxq3DvE)
-- [C Program English Tutorial 11 : dynamic initialization](https://www.youtube.com/watch?v=rLVeEZY898E)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
