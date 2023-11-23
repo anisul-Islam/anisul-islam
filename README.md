@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 7 : variables and data types](https://www.youtube.com/watch?v=VPEXRbUIBhI)
 - [C# Bangla Tutorial 6 : comments and its types](https://www.youtube.com/watch?v=vnot5ej45yg)
 - [C# Bangla Tutorial 5 : Backslash characters / Escape Sewquences](https://www.youtube.com/watch?v=QIwoYD0UozE)
 - [C program full course Bangla tutorial part 5/13 : conditional control statement](https://www.youtube.com/watch?v=hDlQQ_eXgiA)
 - [C# Bangla Tutorial 4 : Assignment-1 print your bio](https://www.youtube.com/watch?v=UTBVtc5esgw)
-- [C# Bangla Tutorial 3 : Basic Structure of C# Program &amp; various parts](https://www.youtube.com/watch?v=8O98pejsscg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
