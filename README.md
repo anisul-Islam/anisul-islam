@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [C Program English Tutorial 19 : number system conversion](https://www.youtube.com/watch?v=ZJbpl0m1Yv0)
 - [C Program English Tutorial 18 : uppercase and lowercase conversion](https://www.youtube.com/watch?v=zLbIwYTPpMI)
+- [C# Bangla Tutorial 8 : variable naming conventions](https://www.youtube.com/watch?v=A8PXMm7s-zc)
 - [C Program English Tutorial 17 : ASCII characters and ASCII Value Conversion](https://www.youtube.com/watch?v=rmo60_SYi9M)
 - [C Program English Tutorial 16 : getchar, putchar](https://www.youtube.com/watch?v=9NSrI7rQHVY)
-- [C# Bangla Tutorial 7 : variables and data types](https://www.youtube.com/watch?v=VPEXRbUIBhI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
