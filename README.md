@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 20 : string input and output](https://www.youtube.com/watch?v=Ygquabw9LQo)
 - [C# Bangla Tutorial 15 : operators and their types](https://www.youtube.com/watch?v=nWuFCkHicCU)
 - [C# Bangla Tutorial 14 : mathematical operations](https://www.youtube.com/watch?v=74jsfC6gQo8)
 - [C# Bangla Tutorial 13 : assignment-3  | user input](https://www.youtube.com/watch?v=nZRlOsGzyoU)
 - [C# Bangla Tutorial 12 : How to get user input](https://www.youtube.com/watch?v=dCDl5_8xe3E)
-- [C# Bangla Tutorial 11 : data type casting](https://www.youtube.com/watch?v=OArmUVr2Fjs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
