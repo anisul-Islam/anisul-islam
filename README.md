@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [HSC ICT Tutorial 1 : Introduction](https://www.youtube.com/watch?v=Dvy93pO5f2g)
+- [HSC ICT Lecture 1 - Introduction | How to follow the videos](https://www.youtube.com/watch?v=Dvy93pO5f2g)
 - [C Program English Tutorial 21 : Input-Output chapter review](https://www.youtube.com/watch?v=jBShOEoR_-w)
 - [Replying your comments on HSC ICT Videos](https://www.youtube.com/watch?v=ZNzGSfrHNt8)
 - [C# Bangla Tutorial 18 : assignment 4 - sum and average of 3 numbers](https://www.youtube.com/watch?v=hiWflmeD_50)
