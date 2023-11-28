@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 21 : Input-Output chapter review](https://www.youtube.com/watch?v=jBShOEoR_-w)
 - [Replying your comments on HSC ICT Videos](https://www.youtube.com/watch?v=ZNzGSfrHNt8)
 - [C# Bangla Tutorial 18 : assignment 4 - sum and average of 3 numbers](https://www.youtube.com/watch?v=hiWflmeD_50)
 - [chickpeas curry | One of my favourite and fastest recipe](https://www.youtube.com/watch?v=mosk5MorLFc)
 - [C# Bangla Tutorial 17 : output formatting](https://www.youtube.com/watch?v=2wiBRiZNhc8)
-- [C# Bangla Tutorial 16 : Arithmetic operators](https://www.youtube.com/watch?v=PHb7IKtMFOQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
