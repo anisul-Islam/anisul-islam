@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HSC ICT Lecture 2 | সংখ্যা পদ্ধতির প্রকারভেদ ও রূপান্তর | Number System Conversion](https://www.youtube.com/watch?v=Yk4t9jxAH1M)
 - [C# Bangla Tutorial 19 : Area of Triangle](https://www.youtube.com/watch?v=EcqOx5klkBA)
 - [HSC ICT Lecture 1 - Introduction | How to follow the videos](https://www.youtube.com/watch?v=Dvy93pO5f2g)
 - [C Program English Tutorial 21 : Input-Output chapter review](https://www.youtube.com/watch?v=jBShOEoR_-w)
 - [Replying your comments on HSC ICT Videos](https://www.youtube.com/watch?v=ZNzGSfrHNt8)
-- [C# Bangla Tutorial 18 : assignment 4 - sum and average of 3 numbers](https://www.youtube.com/watch?v=hiWflmeD_50)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
