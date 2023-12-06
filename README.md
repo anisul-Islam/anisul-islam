@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 49 : handle Mongoose cast error](https://www.youtube.com/watch?v=6TCnDoDudZY)
 - [C# Bangla Tutorial 27 : Unary operators](https://www.youtube.com/watch?v=DTfLwahYjSI)
 - [E-commerce MERN Project Bangla Tutorial 48 : service for updating user by id](https://www.youtube.com/watch?v=3wbXeKV2EuM)
 - [C# Bangla Tutorial 26 : Bitwise operators](https://www.youtube.com/watch?v=bhcgVaBdZQU)
 - [C# Bangla Tutorial 25 : Logical operators](https://www.youtube.com/watch?v=0msB8eH8sZw)
-- [C# Bangla Tutorial 24 : Relational operators](https://www.youtube.com/watch?v=dm1kZmifWaM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
