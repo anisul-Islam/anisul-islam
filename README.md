@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 28 : Ternary operators](https://www.youtube.com/watch?v=EqqGp5B2kKY)
+- [C# Bangla Tutorial 29 : conditional control statement - if, else](https://www.youtube.com/watch?v=ZePNUEHr-80)
+- [E-commerce MERN Project Bangla Tutorial 53 : service for forget password](https://www.youtube.com/watch?v=noL-EsGX9Ok)
 - [E-commerce MERN Project Bangla Tutorial 51 : service for updating password](https://www.youtube.com/watch?v=W74k8clG8ZM)
 - [E-commerce MERN Project Bangla Tutorial 49 : handle Mongoose cast error](https://www.youtube.com/watch?v=6TCnDoDudZY)
-- [C# Bangla Tutorial 27 : Unary operators](https://www.youtube.com/watch?v=DTfLwahYjSI)
-- [E-commerce MERN Project Bangla Tutorial 48 : service for updating user by id](https://www.youtube.com/watch?v=3wbXeKV2EuM)
-- [C# Bangla Tutorial 26 : Bitwise operators](https://www.youtube.com/watch?v=bhcgVaBdZQU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
