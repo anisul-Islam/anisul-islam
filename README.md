@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [Full HSC ICT Chapter 3.1 in 1 video |  Number System | ১ ভিডিওতে সংখ্যা পদ্ধতি অধ্যায় | 2023-24](https://www.youtube.com/watch?v=fNXbCVb80JM)
 - [C# Bangla Tutorial 30 : digit spelling using if,else](https://www.youtube.com/watch?v=oIMUoL0POHc)
+- [HSC ICT Chapter 3.1 Number System CQ and MCQ | 2023-2024](https://www.youtube.com/watch?v=zSHOdk5yeW0)
 - [Updated HSC ICT playlist | 2024](https://www.youtube.com/watch?v=TiZpWlTRTQA)
 - [E-commerce MERN Project Bangla Tutorial 68 : create product part-2](https://www.youtube.com/watch?v=uX9BBVP0gJw)
-- [E-commerce MERN Project Bangla Tutorial 55 : service for reset password](https://www.youtube.com/watch?v=tQicCTtPifs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
