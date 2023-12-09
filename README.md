@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 30 : digit spelling using if,else](https://www.youtube.com/watch?v=oIMUoL0POHc)
 - [Updated HSC ICT playlist | 2024](https://www.youtube.com/watch?v=TiZpWlTRTQA)
 - [Complete HSC ICT Chapter 3 | Number System in 5 hours | ১ ভিডিওতে পুরো সংখ্যা পদ্ধতি অধ্যায়](https://www.youtube.com/watch?v=fNXbCVb80JM)
 - [E-commerce MERN Project Bangla Tutorial 68 : create product part-2](https://www.youtube.com/watch?v=uX9BBVP0gJw)
 - [E-commerce MERN Project Bangla Tutorial 55 : service for reset password](https://www.youtube.com/watch?v=tQicCTtPifs)
-- [C# Bangla Tutorial 28 : Ternary operators](https://www.youtube.com/watch?v=EqqGp5B2kKY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
