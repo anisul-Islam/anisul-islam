@@ -102,9 +102,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Complete HSC ICT Chapter 3 | Number System in 5 hours | ১ ভিডিওতে পুরো সংখ্যা পদ্ধতি অধ্যায়](https://www.youtube.com/watch?v=fNXbCVb80JM)
 - [C# Bangla Tutorial 30 : digit spelling using if,else](https://www.youtube.com/watch?v=oIMUoL0POHc)
 - [Updated HSC ICT playlist | 2024](https://www.youtube.com/watch?v=TiZpWlTRTQA)
-- [Complete HSC ICT Chapter 3 | Number System in 5 hours | ১ ভিডিওতে পুরো সংখ্যা পদ্ধতি অধ্যায়](https://www.youtube.com/watch?v=fNXbCVb80JM)
 - [E-commerce MERN Project Bangla Tutorial 68 : create product part-2](https://www.youtube.com/watch?v=uX9BBVP0gJw)
 - [E-commerce MERN Project Bangla Tutorial 55 : service for reset password](https://www.youtube.com/watch?v=tQicCTtPifs)
 <!-- YOUTUBE:END -->
