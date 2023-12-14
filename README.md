@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 36 : Capital / Small Letter Program](https://www.youtube.com/watch?v=7Rdt2gVbthc)
 - [C# Bangla Tutorial 35 : Leap year](https://www.youtube.com/watch?v=QqZ8n_0KVtk)
 - [C# Bangla Tutorial 34 : Assignment 9 | Letter grade, nested if](https://www.youtube.com/watch?v=mcJN2qy8rVg)
 - [C# Bangla Tutorial 33 : Largest number among 3 numbers](https://www.youtube.com/watch?v=mlsX3hPx0Kc)
 - [C# Bangla Tutorial 32 : Assignment 8 | Large number/small number](https://www.youtube.com/watch?v=gWTbmFyajpo)
-- [C# Bangla Tutorial 31 : Assignment 7 | even odd program](https://www.youtube.com/watch?v=SYI9I5GNMVE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
