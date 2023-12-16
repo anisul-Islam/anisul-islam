@@ -102,10 +102,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 39 : Assignment 10 | weekday or weekend](https://www.youtube.com/watch?v=WWu4dX1JUuo)
 - [C# Bangla Tutorial 38 : switch statement | digit spelling, vowel consonant](https://www.youtube.com/watch?v=FeLj_xe3JTM)
 - [Live Lecture 5 - String in C programming](https://www.youtube.com/watch?v=cwlJO3eg9Rc)
 - [1K Subscribers celebration | Mega Gift for 1 lucky subscriber](https://www.youtube.com/watch?v=cW7N83TcKXk)
-- [C# Bangla Tutorial 39 : Assignment 10 | weekday or weekend](https://www.youtube.com/watch?v=WWu4dX1JUuo)
 - [C# Bangla Tutorial 37 : Vowel-consonant Program](https://www.youtube.com/watch?v=DNvQPFesO4s)
 <!-- YOUTUBE:END -->
 
