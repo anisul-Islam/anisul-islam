@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 42 : for loop](https://www.youtube.com/watch?v=rV-CYQXKHXM)
 - [C# Bangla Tutorial 41 : project 2 | basic calculator](https://www.youtube.com/watch?v=TpPhw1gmgHc)
 - [Replying Your Comments On My YouTube Channel | Monthly event](https://www.youtube.com/watch?v=hRl63vSMMWM)
 - [C# Bangla Tutorial 40 : project 1 | temperature converter](https://www.youtube.com/watch?v=OpxkFbdUN0s)
 - [C# Bangla Tutorial 39 : Assignment 10 | weekday or weekend](https://www.youtube.com/watch?v=WWu4dX1JUuo)
-- [C# Bangla Tutorial 38 : switch statement | digit spelling, vowel consonant](https://www.youtube.com/watch?v=FeLj_xe3JTM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
