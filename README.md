@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E-commerce MERN Project Bangla Tutorial 78 : uploading product images to cloudinary](https://www.youtube.com/watch?v=0aOypTn6IjQ)
 - [C# Bangla Tutorial 49 : project 3 | multiplication table from m to n](https://www.youtube.com/watch?v=W4yu-x8jQiA)
 - [C# Bangla Tutorial 48 : nested loop](https://www.youtube.com/watch?v=4g8VKgOjYpk)
 - [E-commerce MERN Project Bangla Tutorial 77 : delete files from Cloudinary](https://www.youtube.com/watch?v=w7zUMzFc4v0)
 - [C# Bangla Tutorial 47 : break and continue](https://www.youtube.com/watch?v=dRG_1J3yF_0)
-- [E-commerce MERN Project Bangla Tutorial 76 : Upload files to Cloudinary](https://www.youtube.com/watch?v=d052YtwWe54)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
