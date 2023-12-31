@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Talk to Me live](https://www.youtube.com/watch?v=0YsJufHWmag)
 - [Live Lecture 6 - Function in C programming](https://www.youtube.com/watch?v=CjjLVkpbW1A)
 - [E-commerce MERN Project Bangla Tutorial 79 : updating files in Cloudinary](https://www.youtube.com/watch?v=G_D_dKdgAu8)
 - [Replying Your Comments On My YouTube Channel | Monthly event](https://www.youtube.com/watch?v=hRl63vSMMWM)
 - [Playing football for fun](https://www.youtube.com/watch?v=UK90RKov29s)
-- [1K Subscribers celebration | Mega Gift for 1 lucky subscriber](https://www.youtube.com/watch?v=cW7N83TcKXk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
