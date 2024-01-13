@@ -104,7 +104,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [Going out to meet a friend](https://www.youtube.com/watch?v=1mkMQFsV3Mw)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=khAXalOSmAw)
-- [Anisul Islam is live](https://www.youtube.com/watch?v=8B0abEo2lfs)
+- [Driving in Finland 🇫🇮 during winter](https://www.youtube.com/watch?v=8B0abEo2lfs)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=s1z3lARqRN4)
 - [450k subscribers celebration | megaevent](https://www.youtube.com/watch?v=iMpbfkxX6zE)
 <!-- YOUTUBE:END -->
