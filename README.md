@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Going out to meet a friend](https://www.youtube.com/watch?v=1mkMQFsV3Mw)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=8B0abEo2lfs)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=s1z3lARqRN4)
 - [450k subscribers celebration | megaevent](https://www.youtube.com/watch?v=iMpbfkxX6zE)
 - [A morning during Winter in Finland](https://www.youtube.com/watch?v=6nRdjLOihf8)
-- [Finnish cares about their culture | Helsinki airport](https://www.youtube.com/watch?v=JL5VSoAPJwg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
