@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Join Me and Ask Your Question | Season 3](https://www.youtube.com/watch?v=lG-zpTzG5Vo)
 - [Playing badminton](https://www.youtube.com/watch?v=KcvXT8KohRs)
+- [Join Me and Ask Your Question | Season 3](https://www.youtube.com/watch?v=lG-zpTzG5Vo)
 - [Hervanta Mosque, Tampere, Finland](https://www.youtube.com/watch?v=_yVBqBXwB1U)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=loC4nSOYKpg)
 - [Join Me and Ask Your Question | Season 2](https://www.youtube.com/watch?v=Rw2A-lbpXIk)
