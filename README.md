@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [Join Me and Ask Your Question | Season 4](https://www.youtube.com/watch?v=ye4tF-_mavY)
-- [Playing badminton with a Chinese colleague](https://www.youtube.com/watch?v=VdjJRJgo5g4)
+- [Playing badminton with a Chinese colleague | Tampere, Finland](https://www.youtube.com/watch?v=VdjJRJgo5g4)
 - [450k subscribers celebration | megaevent](https://www.youtube.com/watch?v=iMpbfkxX6zE)
 - [Congratulatory Videos from subscribers | 450k subscribers](https://www.youtube.com/watch?v=K-nT58yLDJ8)
 - [Competitive Programming &amp; overseas Study | Port City International University, Chittagong](https://www.youtube.com/watch?v=xOjCaJ155lg)
