@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Helsinki, Finland from the sky](https://www.youtube.com/watch?v=keLit_bs03Q)
 - [Anisul Islam is live from Sweden Arlando Airport](https://www.youtube.com/watch?v=vK_zszpj760)
 - [Never give up](https://www.youtube.com/watch?v=-I_0oHUZWYw)
 - [Helsinki Airport, Finland](https://www.youtube.com/watch?v=TXg91j_QHGU)
 - [C# Bangla Tutorial 50 : method](https://www.youtube.com/watch?v=QNXda5Tcyo4)
-- [Playing Badminton at Tampere, Finland](https://www.youtube.com/watch?v=oAwYR6Qdogo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
