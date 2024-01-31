@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Anisul Islam is live playing badminton](https://www.youtube.com/watch?v=d60vSafoMuk)
+- [Anisul Islam is live playing badminton at Tampere, Finland | 30/1/2024](https://www.youtube.com/watch?v=d60vSafoMuk)
 - [Helsinki, Finland from the sky](https://www.youtube.com/watch?v=keLit_bs03Q)
 - [Anisul Islam is live from Sweden Arlando Airport](https://www.youtube.com/watch?v=vK_zszpj760)
 - [Never give up](https://www.youtube.com/watch?v=-I_0oHUZWYw)
