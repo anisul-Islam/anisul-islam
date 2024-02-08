@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flying to Sweden](https://www.youtube.com/watch?v=-KFtv5ZDOAo)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=fJ3f4DRBrHI)
 - [C programming live course students selection](https://www.youtube.com/watch?v=vEl8vghMWlQ)
 - [Madame Tussauds London #anisul #london  #travel](https://www.youtube.com/watch?v=Skwb2T8KPp8)
 - [C# Bangla Tutorial 51 : end of basic c-sharp](https://www.youtube.com/watch?v=s8zw5-ul10k)
-- [Anisul Islam is live playing badminton at Tampere, Finland | 30/1/2024](https://www.youtube.com/watch?v=d60vSafoMuk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
