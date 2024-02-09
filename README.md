@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Lecture 7 - Pointer and Structure](https://www.youtube.com/watch?v=RcpgshX8n9Q)
 - [C# Bangla Tutorial 1 : Introduction to c# &lpar;c-sharp&rpar;](https://www.youtube.com/watch?v=apthnexh5cA)
 - [Winter Cruise, Stockholm, Sweden](https://www.youtube.com/watch?v=GIxwgcgoDYM)
 - [Pizza service, Hervanta, Tampere, Finland](https://www.youtube.com/watch?v=gKWlj_2WTxQ)
 - [Flying to Sweden](https://www.youtube.com/watch?v=-KFtv5ZDOAo)
-- [Anisul Islam is live](https://www.youtube.com/watch?v=fJ3f4DRBrHI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
