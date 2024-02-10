@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [C# Bangla Tutorial 2 : Environment setup](https://www.youtube.com/watch?v=kCnsHGmOAc8)
-- [Live Lecture 7 - Pointer and Structure](https://www.youtube.com/watch?v=RcpgshX8n9Q)
+- [Live Lecture 7 - Structure in C programming | 10 Feb, 2024](https://www.youtube.com/watch?v=RcpgshX8n9Q)
 - [C# Bangla Tutorial 1 : Introduction to c# &lpar;c-sharp&rpar;](https://www.youtube.com/watch?v=apthnexh5cA)
 - [Winter Cruise, Stockholm, Sweden](https://www.youtube.com/watch?v=GIxwgcgoDYM)
 - [Pizza service, Hervanta, Tampere, Finland](https://www.youtube.com/watch?v=gKWlj_2WTxQ)
