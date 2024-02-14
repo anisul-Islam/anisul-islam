@@ -102,9 +102,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [From Novice To Ninja: Navigating The Path To Programming Career | SIMT Engineering College](https://www.youtube.com/watch?v=emCZTTlHNLw)
 - [Live Lecture 7 - Structure in C programming | 10 Feb, 2024](https://www.youtube.com/watch?v=RcpgshX8n9Q)
 - [C# Bangla Tutorial 2 : Environment setup](https://www.youtube.com/watch?v=kCnsHGmOAc8)
-- [From Novice To Ninja: Navigating The Path To Programming Career | SIMT Engineering College](https://www.youtube.com/watch?v=emCZTTlHNLw)
 - [C# Bangla Tutorial 1 : Introduction to c# &lpar;c-sharp&rpar;](https://www.youtube.com/watch?v=apthnexh5cA)
 - [Winter Cruise, Stockholm, Sweden](https://www.youtube.com/watch?v=GIxwgcgoDYM)
 <!-- YOUTUBE:END -->
