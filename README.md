@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Lecture 8 - File Management in C programming | 10 Feb, 2024](https://www.youtube.com/watch?v=B7Qcn2vgy9Q)
 - [Replying Your Comments](https://www.youtube.com/watch?v=oIIbLQ38mA8)
+- [Live Lecture 8 - File Management in C programming | 10 Feb, 2024](https://www.youtube.com/watch?v=B7Qcn2vgy9Q)
 - [From Novice To Ninja: Navigating The Path To Programming Career | SIMT Engineering College](https://www.youtube.com/watch?v=emCZTTlHNLw)
 - [Live Lecture 7 - Structure in C programming | 10 Feb, 2024](https://www.youtube.com/watch?v=RcpgshX8n9Q)
 - [C# Bangla Tutorial 2 : Environment setup](https://www.youtube.com/watch?v=kCnsHGmOAc8)
