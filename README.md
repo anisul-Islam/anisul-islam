@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 52 : OOP | Class and Object](https://www.youtube.com/watch?v=iUcudnFlutM)
 - [Live Lecture 9 - Pointer in C programming](https://www.youtube.com/watch?v=6vc5qU6XJZo)
 - [Plan for c# and .NET framework | 2024](https://www.youtube.com/watch?v=UZ1UwBOWGt4)
 - [Festive Finland: Christmas Cabin Magic 🎄✨#finland](https://www.youtube.com/watch?v=fbsHCVEeWqI)
 - [How to use TRELLO Project Management Tool | software development](https://www.youtube.com/watch?v=oYBBJHIbAEU)
-- [আন্তর্জাতিক মাতৃভাষা দিবসের শুভেচ্ছা](https://www.youtube.com/watch?v=d6LhCaGfhzM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
