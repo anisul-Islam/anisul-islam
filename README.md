@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 54 : OOP | Constructor](https://www.youtube.com/watch?v=ZboMkBnPhYQ)
 - [Enjoying London Tour #anisul_islam #london](https://www.youtube.com/watch?v=T2UMZC0SVlM)
 - [Your Comments, My Reply](https://www.youtube.com/watch?v=N05k0vMVkrI)
 - [Northern Wonders to Urban Majesty: A Journey from Finland to London | Travel Vlog 2024](https://www.youtube.com/watch?v=9E9NNuV8DEY)
 - [C# Bangla Tutorial 53 : OOP | Method class member](https://www.youtube.com/watch?v=DkQU0DU-R3Q)
-- [C# Bangla Tutorial 52 : OOP | Class and Object](https://www.youtube.com/watch?v=iUcudnFlutM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
