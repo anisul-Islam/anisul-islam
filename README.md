@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discover Sweden Like a Pro: 5 Essential Travel Tips for Your Swedish Adventure! part -1](https://www.youtube.com/watch?v=CIPZoUW5u1w)
 - [C# Bangla Tutorial 58 : OOP | Properties](https://www.youtube.com/watch?v=VceyAdE_h0w)
 - [C# Bangla Tutorial 57 : OOP | Setter and Getter](https://www.youtube.com/watch?v=ZLZ_gPWkg-w)
 - [C# Bangla Tutorial 56 : OOP | Encapsulation](https://www.youtube.com/watch?v=Smysi636PcQ)
 - [C# Bangla Tutorial 55 : OOP |  Value Type vs Reference Type](https://www.youtube.com/watch?v=yZQlr_G9lv4)
-- [C# Bangla Tutorial 54 : OOP | Constructor](https://www.youtube.com/watch?v=ZboMkBnPhYQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
