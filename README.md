@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What should you do as a CSE fresher?](https://www.youtube.com/watch?v=tFCDaHVhr54)
 - [Replying your comments | 3 March 2024](https://www.youtube.com/watch?v=7hu6xrkQ_lM)
 - [Sylhet Serenity: Rediscovering the Charm of Bangladesh | Travel Vlog Flashback 🌍✨](https://www.youtube.com/watch?v=3EOYBEuZbm8)
 - [C# Bangla Tutorial 62 : Multidimensional array](https://www.youtube.com/watch?v=G8iTIFYGWyc)
 - [C# Bangla Tutorial 61 : foreach and sum of numbers](https://www.youtube.com/watch?v=F77X-pMsCm4)
-- [C# Bangla Tutorial 60 : Array 2 | for and foreach loop](https://www.youtube.com/watch?v=XSvvuOaGqhU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
