@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Life&#39;s Wisdom Bytes: Unveiling Profound Lessons in a Blink](https://www.youtube.com/watch?v=-rWMSVc8wPg)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=Ru-X1ERMxEs)
 - [Ramadan Mubarak Everyone](https://www.youtube.com/watch?v=8EQJ3K62wzo)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=V9j6ZZEl8cY)
 - [What should you do as a CSE fresher?](https://www.youtube.com/watch?v=tFCDaHVhr54)
-- [Replying your comments | 3 March 2024](https://www.youtube.com/watch?v=7hu6xrkQ_lM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
