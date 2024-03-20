@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Complete Roadmap to become Full Stack Web Developer in 2024](https://www.youtube.com/watch?v=ADFDxhipgiI)
 - [HTML Quiz - 2 Winners](https://www.youtube.com/watch?v=9Nel06HRfbM)
 - [E-commerce MERN Project Bangla Tutorial 86 : sidebar &amp; home page setup](https://www.youtube.com/watch?v=GKljmQWEytk)
 - [E-commerce MERN Project Bangla Tutorial 85 : Footer setup](https://www.youtube.com/watch?v=jNXS2dEKclk)
 - [E-commerce MERN Project Bangla Tutorial 84 : Navigation setup](https://www.youtube.com/watch?v=dQgR7Aa6QfY)
-- [Blood Types | Do you know your blood type?](https://www.youtube.com/watch?v=XMia7Z0TAv8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
