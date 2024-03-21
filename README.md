@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C# Bangla Tutorial 0: NET Framework Ecosystem? .NET Core?](https://www.youtube.com/watch?v=NIN2EUAT6qo)
+- [C# Bangla Tutorial 0: .NET Developer l .NET Framework Ecosystem? .NET Core?](https://www.youtube.com/watch?v=NIN2EUAT6qo)
 - [Baramchal Tea garden ।।  Hakaluki Haor ।। Sylhet ।।Bangladesh](https://www.youtube.com/watch?v=m09HjAvvH94)
 - [C# Bangla Tutorial 63 : Jagged array](https://www.youtube.com/watch?v=yefIWSBlY-c)
 - [HTML QUIZ 3!](https://www.youtube.com/watch?v=OL38zGMj2yU)
