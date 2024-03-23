@@ -104,7 +104,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [Anisul Islam is live](https://www.youtube.com/watch?v=5fkAn-zl4VQ)
 - [A Roadmap to Full Stack Web Development in 2024](https://www.youtube.com/watch?v=ADFDxhipgiI)
-- [C# Bangla Tutorial 0: .NET Developer l .NET Framework Ecosystem? .NET Core?](https://www.youtube.com/watch?v=NIN2EUAT6qo)
+- [C# Bangla Tutorial 1 : .NET Developer l .NET Framework Ecosystem? .NET Core?](https://www.youtube.com/watch?v=NIN2EUAT6qo)
 - [Hakaluki Haor ।। Sylhet ।।Bangladesh](https://www.youtube.com/watch?v=m09HjAvvH94)
 - [C# Bangla Tutorial 63 : Jagged array](https://www.youtube.com/watch?v=yefIWSBlY-c)
 <!-- YOUTUBE:END -->
