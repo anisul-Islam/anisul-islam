@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Let&#39;s Find Out HTML Quiz 3 winner](https://www.youtube.com/watch?v=nNcCdRFaM7M)
 - [C# Bangla Tutorial 42 : switch shorthand expression](https://www.youtube.com/watch?v=93R0JpQdwX4)
+- [C# Bangla Tutorial 43 : switch type pattern](https://www.youtube.com/watch?v=Up7WgxLP0gQ)
 - [C# Bangla Tutorial 13 : data type casting &lpar;part-2&rpar;](https://www.youtube.com/watch?v=KcKC1XvdmnU)
 - [Jaflong।। Khashiapunjo](https://www.youtube.com/watch?v=rSgh0ypYA8U)
-- [Anisul Islam is live](https://www.youtube.com/watch?v=5fkAn-zl4VQ)
-- [A Roadmap to Full Stack Web Development in 2024](https://www.youtube.com/watch?v=ADFDxhipgiI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
