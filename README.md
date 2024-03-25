@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Exploring Life &lpar;Khasiapunjo&rpar;: Inside Their Traditional Homes and Villages](https://www.youtube.com/watch?v=jvzw6DCRMSA)
 - [E-commerce MERN Project Bangla Tutorial 87 : Redux Toolkit setup](https://www.youtube.com/watch?v=k4f274e37Ys)
 - [C# Bangla Tutorial 44 : switch with condition | when operator](https://www.youtube.com/watch?v=8ks8uTnWrwQ)
 - [C# Bangla Tutorial 43 : switch type pattern](https://www.youtube.com/watch?v=Up7WgxLP0gQ)
 - [Let&#39;s Find Out HTML Quiz 3 winner](https://www.youtube.com/watch?v=nNcCdRFaM7M)
-- [C# Bangla Tutorial 42 : switch shorthand expression](https://www.youtube.com/watch?v=93R0JpQdwX4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
