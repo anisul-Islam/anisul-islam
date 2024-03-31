@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [আপনার জীবনের হতাশা এবং সাফল্য -  ১ | Storytelling Session - 1](https://www.youtube.com/watch?v=EetaEUNzSLo)
+- [বাস্তবতার আড্ডা  | লাইভ সেশন ১ - বাবা-মা ও সন্তানের সম্পর্ক কেমন হওয়া উচিত?](https://www.youtube.com/watch?v=EetaEUNzSLo)
 - [C# Bangla Tutorial 67 : Exception Handling](https://www.youtube.com/watch?v=IueJzSYPokU)
 - [HSC ICT 2024 Chapter 3.1 Number System CQ + MCQ Suggestion](https://www.youtube.com/watch?v=JXTHWE1Gr8k)
 - [Let&#39;s Find Out HTML Quiz 4 winner](https://www.youtube.com/watch?v=DDkqUardZ1M)
