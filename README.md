@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anisul Islam is live](https://www.youtube.com/watch?v=I_StwCLU9NU)
 - [লাইফ লেসন | শোনাব একজন মেয়ের কথা](https://www.youtube.com/watch?v=Y-eZt3FBUog)
 - [C# Bangla Tutorial 80 : shallow copy vs deep copy](https://www.youtube.com/watch?v=be08jboQR7o)
 - [বাস্তবতার আড্ডা  | লাইভ সেশন ১ - বাবা-মা ও সন্তানের সম্পর্ক কেমন হওয়া উচিত?](https://www.youtube.com/watch?v=EetaEUNzSLo)
 - [C# Bangla Tutorial 67 : Exception Handling](https://www.youtube.com/watch?v=IueJzSYPokU)
-- [HSC ICT 2024 Chapter 3.1 Number System CQ + MCQ Suggestion](https://www.youtube.com/watch?v=JXTHWE1Gr8k)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
