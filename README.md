@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Anisul Islam is live](https://www.youtube.com/watch?v=7M1BhQWO2sY)
+- [Playing badminton when sick during Ramadan](https://www.youtube.com/watch?v=7M1BhQWO2sY)
 - [বাস্তবতার আড্ডা | লাইভ সেশন ২ - শিক্ষা ও ক্যারিয়ার  পরামর্শ](https://www.youtube.com/watch?v=LfGS9gyvmVY)
 - [বাস্তবতার আড্ডা  | লাইভ সেশন ১ - বাবা-মা ও সন্তানের সম্পর্ক কেমন হওয়া উচিত?](https://www.youtube.com/watch?v=EetaEUNzSLo)
 - [লাইফ লেসন | শোনাব একজন মেয়ের কথা](https://www.youtube.com/watch?v=Y-eZt3FBUog)
