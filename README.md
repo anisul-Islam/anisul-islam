@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Don&#39;t let go; life is too short](https://www.youtube.com/watch?v=iNIOUIobWt4)
 - [Matinsaari Island, Tampere, Finland](https://www.youtube.com/watch?v=cHaHwtMQq6g)
 - [Playing badminton when sick during Ramadan](https://www.youtube.com/watch?v=7M1BhQWO2sY)
 - [বাস্তবতার আড্ডা | লাইভ সেশন ২ - শিক্ষা ও ক্যারিয়ার  পরামর্শ](https://www.youtube.com/watch?v=LfGS9gyvmVY)
 - [বাস্তবতার আড্ডা  | লাইভ সেশন ১ - বাবা-মা ও সন্তানের সম্পর্ক কেমন হওয়া উচিত?](https://www.youtube.com/watch?v=EetaEUNzSLo)
-- [লাইফ লেসন | শোনাব একজন মেয়ের কথা](https://www.youtube.com/watch?v=Y-eZt3FBUog)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
