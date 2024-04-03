@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Playing badminton at Malm Areena, Tampere, Finland](https://www.youtube.com/watch?v=ZHoZYbCB5jo)
+- [Playing badminton at Malm Areena, Tampere, Finland | 3 April, 2024](https://www.youtube.com/watch?v=ZHoZYbCB5jo)
 - [তাকে শক্ত করে ধরে রাখুন | Don&#39;t let go; life is too short](https://www.youtube.com/watch?v=iNIOUIobWt4)
 - [Matinsaari Island, Tampere, Finland](https://www.youtube.com/watch?v=cHaHwtMQq6g)
 - [Playing badminton when sick during Ramadan](https://www.youtube.com/watch?v=7M1BhQWO2sY)
