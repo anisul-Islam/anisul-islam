@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Practicing football while fasting &lpar;Ramadan&rpar; no excuse for exercising](https://www.youtube.com/watch?v=1rJ3uDj56l8)
 - [C# Bangla Tutorial 74 : array input, max, min, sum, average, valid integer](https://www.youtube.com/watch?v=G5MwkpokxgU)
 - [Cox&#39;s Bazar Trip](https://www.youtube.com/watch?v=0JVYKetwOTk)
 - [Playing badminton at Malm Areena, Tampere, Finland | 3 April, 2024](https://www.youtube.com/watch?v=ZHoZYbCB5jo)
 - [তাকে শক্ত করে ধরে রাখুন | Don&#39;t let go; life is too short](https://www.youtube.com/watch?v=iNIOUIobWt4)
-- [Matinsaari Island, Tampere, Finland](https://www.youtube.com/watch?v=cHaHwtMQq6g)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
