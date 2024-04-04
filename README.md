@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [Practicing football while fasting &lpar;Ramadan&rpar; no excuse for exercising](https://www.youtube.com/watch?v=1rJ3uDj56l8)
-- [Anisul Islam is live](https://www.youtube.com/watch?v=kMYzw22BlMQ)
+- [Badminton | playing at Suorama 4 April 2024](https://www.youtube.com/watch?v=kMYzw22BlMQ)
 - [C# Bangla Tutorial 74 : array input, max, min, sum, average, valid integer](https://www.youtube.com/watch?v=G5MwkpokxgU)
 - [Cox&#39;s Bazar Trip](https://www.youtube.com/watch?v=0JVYKetwOTk)
 - [Playing badminton at Malm Areena, Tampere, Finland | 3 April, 2024](https://www.youtube.com/watch?v=ZHoZYbCB5jo)
