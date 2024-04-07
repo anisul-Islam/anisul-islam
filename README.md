@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Bangla Tutorial 68 : Project 4 | student management project part-1](https://www.youtube.com/watch?v=_c3yvyQBmkI)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=5bHEzqGKDPo)
 - [Exploring the Majestic Thames: A River Journey](https://www.youtube.com/watch?v=NiFAa08Jax8)
 - [C# Bangla Tutorial 77 : string properties and methods](https://www.youtube.com/watch?v=UiVH7GJYqXo)
 - [View from train, Helsinki, Finland](https://www.youtube.com/watch?v=L_CBFFlMeC0)
-- [Going to England 🇬🇧 | life is moving fast 😊](https://www.youtube.com/watch?v=Rw75x9zrVbo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
