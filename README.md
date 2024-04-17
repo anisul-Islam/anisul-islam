@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anisul Islam is live](https://www.youtube.com/watch?v=jm-6rPghcUc)
 - [Full-stack web development course participants](https://www.youtube.com/watch?v=WT9PTWfzIyI)
 - [Learn to forgive and love more](https://www.youtube.com/watch?v=_QI6mTxoNDk)
 - [Are you ready to be a part of CSE family? Check the description](https://www.youtube.com/watch?v=dEUgPpyP_YY)
 - [Playing badminton and fighting against the pain](https://www.youtube.com/watch?v=QRp_GoH1Cno)
-- [Outdoor Season started](https://www.youtube.com/watch?v=FqZ7ppMMmkA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
