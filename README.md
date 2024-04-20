@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Badminton Double  | Team 1: Forkan, Sayem vs Team 2: Anisul, Bappy](https://www.youtube.com/watch?v=GcvbLDR6TBI)
 - [How it feels like to stay in Finland | Finnish Weather](https://www.youtube.com/watch?v=WjJtWL5j1v8)
 - [Live Adda | Update on CSE Family | Full-stack Course](https://www.youtube.com/watch?v=ERCcYSe751w)
 - [C# Bangla Tutorial 78 :  String | assignment-11 number of vowels, consonants](https://www.youtube.com/watch?v=WS1JC01AIjI)
 - [On the way to the hospital | my sister’s new baby](https://www.youtube.com/watch?v=jm-6rPghcUc)
-- [Full-stack web development course participants](https://www.youtube.com/watch?v=WT9PTWfzIyI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
