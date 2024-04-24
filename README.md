@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Software Development Life Cycle | Jobs Related Software engineering | Bangla Tutorial](https://www.youtube.com/watch?v=UJ7dAFH5nUc)
 - [After a long time came to Gym](https://www.youtube.com/watch?v=Q7CQwvubrO4)
 - [UI/UX Designer As A Profession](https://www.youtube.com/watch?v=ottUvvSXvsw)
 - [single bappy vs anisul match 2](https://www.youtube.com/watch?v=qqYUk6niJzw)
 - [Badminton Single Match-1 | Bappy vs Anisul](https://www.youtube.com/watch?v=IraETdxJIV8)
-- [Badminton Double  | Team 1: Forkan, Sayem vs Team 2: Anisul, Bappy](https://www.youtube.com/watch?v=GcvbLDR6TBI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
