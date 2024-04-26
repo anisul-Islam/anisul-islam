@@ -105,7 +105,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [Lets have some chitchat while playing chess](https://www.youtube.com/watch?v=ADwA72bLDOs)
 - [Software Development Life Cycle | Jobs Related Software engineering | Bangla Tutorial](https://www.youtube.com/watch?v=UJ7dAFH5nUc)
 - [After a long time came to Gym](https://www.youtube.com/watch?v=Q7CQwvubrO4)
-- [UI/UX Designer As A Profession](https://www.youtube.com/watch?v=ottUvvSXvsw)
+- [Career Session 1 | UI/UX Designer As A Profession | Junaed Ahmed](https://www.youtube.com/watch?v=ottUvvSXvsw)
 - [single bappy vs anisul match 2](https://www.youtube.com/watch?v=qqYUk6niJzw)
 <!-- YOUTUBE:END -->
 
