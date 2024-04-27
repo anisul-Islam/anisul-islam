@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [Career Session 1 | UI/UX Designer As A Profession | Junaed Ahmed](https://www.youtube.com/watch?v=ottUvvSXvsw)
-- [C# Bangla Tutorial 81 : filtering with where](https://www.youtube.com/watch?v=Aql-Mj2Uoag)
+- [C# Bangla Tutorial 82 : filtering with where](https://www.youtube.com/watch?v=Aql-Mj2Uoag)
 - [3 double games | 21 Apirl 2024](https://www.youtube.com/watch?v=eDeHygr8NQs)
 - [Lets have some chitchat while playing chess](https://www.youtube.com/watch?v=ADwA72bLDOs)
 - [Software Development Life Cycle | Jobs Related Software engineering | Bangla Tutorial](https://www.youtube.com/watch?v=UJ7dAFH5nUc)
