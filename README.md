@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anisul Islam is live - update on full stack web development](https://www.youtube.com/watch?v=3N9jntQsEhM)
 - [Anisul Islam is live summer vibes](https://www.youtube.com/watch?v=_Dv6hGXInUg)
 - [C# Bangla Tutorial 83 : selecting with select and selectMany operator](https://www.youtube.com/watch?v=FQvWIp_11Rs)
 - [Career Session 1 | UI/UX Designer As A Profession | Junaed Ahmed](https://www.youtube.com/watch?v=ottUvvSXvsw)
 - [C# Bangla Tutorial 82 : filtering with where](https://www.youtube.com/watch?v=Aql-Mj2Uoag)
-- [3 double games | 21 Apirl 2024](https://www.youtube.com/watch?v=eDeHygr8NQs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
