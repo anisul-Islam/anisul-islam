@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [Anisul Islam is live - update on full stack web development](https://www.youtube.com/watch?v=3N9jntQsEhM)
 - [Anisul Islam is live summer vibes](https://www.youtube.com/watch?v=_Dv6hGXInUg)
-- [C# Bangla Tutorial 83 : selecting with select and selectMany operator](https://www.youtube.com/watch?v=FQvWIp_11Rs)
+- [C# Bangla Tutorial 83 : LINQ | select and selectMany operator](https://www.youtube.com/watch?v=FQvWIp_11Rs)
 - [Career Session 1 | UI/UX Designer As A Profession | Junaed Ahmed](https://www.youtube.com/watch?v=ottUvvSXvsw)
-- [C# Bangla Tutorial 82 : filtering with where](https://www.youtube.com/watch?v=Aql-Mj2Uoag)
+- [C# Bangla Tutorial 82 : LINQ | Filtering with where](https://www.youtube.com/watch?v=Aql-Mj2Uoag)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
