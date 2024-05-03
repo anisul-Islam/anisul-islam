@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anisul Islam is live](https://www.youtube.com/watch?v=v_vi4De1VW8)
 - [Lecture 1 - Full-stack web development &lpar;MERN&rpar; | Course Intro and Basic setup](https://www.youtube.com/watch?v=EqOb-Ivae-w)
 - [Finland life at morning 🌅  | Anisul Islam is live](https://www.youtube.com/watch?v=SCVizTeYBQo)
 - [C# Bangla Tutorial 83 : LINQ | sorting operators - orderby &amp; thenby](https://www.youtube.com/watch?v=TSW5wJf0g4Q)
 - [Anisul Islam is live - update on full stack web development](https://www.youtube.com/watch?v=3N9jntQsEhM)
-- [Anisul Islam is live summer vibes](https://www.youtube.com/watch?v=_Dv6hGXInUg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
