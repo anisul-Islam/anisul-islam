@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anisul Islam is live](https://www.youtube.com/watch?v=YrbMdWkwJwM)
 - [Playing badminton Anisul Islam is live](https://www.youtube.com/watch?v=WKJQQI9meVM)
 - [My daily life | cooking chicken curry | Anisul Islam is live](https://www.youtube.com/watch?v=11-QR_LPVZs)
 - [Visual studio Code extensions for web developer &lpar;part-1&rpar; | Bangla Tutorial](https://www.youtube.com/watch?v=Hm9eZqRbt24)
 - [Ask me anything | 5 May 2024](https://www.youtube.com/watch?v=hF4RNBhiXt8)
-- [Lecture 2 - Full-stack web development &lpar;MERN&rpar; | Git and GitHub &lpar;part-1&rpar;](https://www.youtube.com/watch?v=hi7U6EIg_0c)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
