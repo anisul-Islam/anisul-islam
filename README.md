@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Anisul Islam is live](https://www.youtube.com/watch?v=FHqsQdSzeZg)
+- [Career | Fun | Love ❤️](https://www.youtube.com/watch?v=FHqsQdSzeZg)
 - [ValppaNational Badminton Tournament D category | Single champion 2024](https://www.youtube.com/watch?v=GtvIsd59wxc)
 - [4. Full-stack web Bangla Tutorial | Git and GitHub &lpar;part-3&rpar;](https://www.youtube.com/watch?v=prsZFP2UoDg)
 - [Live adda and play chess](https://www.youtube.com/watch?v=Kq6u0lRrmJg)
