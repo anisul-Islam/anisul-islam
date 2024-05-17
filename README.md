@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4. Full-stack web Bangla Tutorial | Git and GitHub &lpar;part-3&rpar;](https://www.youtube.com/watch?v=prsZFP2UoDg)
 - [Live adda and play chess](https://www.youtube.com/watch?v=Kq6u0lRrmJg)
 - [3. Full-stack web Bangla Tutorial | Git and GitHub &lpar;part-2&rpar;](https://www.youtube.com/watch?v=LPuTX9qfYNk)
 - [C# Bangla Tutorial 85 : LINQ | Quantifiers  all, any, contains](https://www.youtube.com/watch?v=dt0RDDb9aJY)
 - [Valppa National badminton tournament 2024 | Finland](https://www.youtube.com/watch?v=JgAYNdlJ-Kg)
-- [Valppa national badminton tournament 2024 Champion, Tampere, Finland](https://www.youtube.com/watch?v=O929boW-3Ew)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
