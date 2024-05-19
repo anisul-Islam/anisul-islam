@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Valppa National Badminton Tournament D category | Double champion 2024](https://www.youtube.com/watch?v=smhGTmRHKZM)
 - [BanglaSmash champion | Tampere Finland 🇫🇮](https://www.youtube.com/watch?v=gcyAYn5JzJs)
 - [Career | Fun | Love ❤️](https://www.youtube.com/watch?v=FHqsQdSzeZg)
 - [4. Full-stack web Bangla Tutorial | Git and GitHub &lpar;part-3&rpar;](https://www.youtube.com/watch?v=prsZFP2UoDg)
 - [Hulausjarvi Lake, Tampere, Finland 🇫🇮](https://www.youtube.com/watch?v=hWa-evrg8sc)
-- [Summer in Finland | Anisul Islam is live](https://www.youtube.com/watch?v=W6V3se03UBM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
