@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [6. Full-stack web Bangla Tutorial | HTML](https://www.youtube.com/watch?v=gqvrn5R8tzc)
 - [Part-2 Visual studio Code extensions for web developer | Bangla Tutorial](https://www.youtube.com/watch?v=8o6XSVwA4xw)
 - [How to restore youtube&#39;s old layout | ইউটিবের পুরোনো লেআউট ব্যবহার](https://www.youtube.com/watch?v=0wpFtntyZ8s)
 - [Valppa National Badminton Tournament D category | Double champion 2024](https://www.youtube.com/watch?v=smhGTmRHKZM)
 - [BanglaSmash champion | Tampere Finland 🇫🇮](https://www.youtube.com/watch?v=gcyAYn5JzJs)
-- [Career | Fun | Love ❤️](https://www.youtube.com/watch?v=FHqsQdSzeZg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
