@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [preparing project presentation slides | প্রজেক্ট প্রেজেন্টেশন স্লাইড তৈরির কৌশল](https://www.youtube.com/watch?v=t27dWDbswfw)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=3pF_X3bjMIs)
 - [Spending quality time at kangasala lake, Tampere | Anisul Islam is live](https://www.youtube.com/watch?v=vwHLK14xYdw)
 - [Kaukajarvi Lake, Tampere, Finland](https://www.youtube.com/watch?v=pvJr6gREhSM)
 - [Git and Github bangla tutorial 14 : Git Aliases | git command shortcut](https://www.youtube.com/watch?v=khh7rh-fl50)
-- [Git and Github bangla tutorial 5 : git setup and configuration &lpar;part-2&rpar;](https://www.youtube.com/watch?v=2GsvUiCi3K4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
