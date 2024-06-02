@@ -105,8 +105,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [Anisul Islam is live from the Baltic Sea | Estonia to Finland | Exroline giant ferry ⛴️](https://www.youtube.com/watch?v=oONKhBShLMY)
 - [Capsule Hotel in Tallinn, Estonia 🇪🇪 #capsule #hotel #estonia #firstexperience](https://www.youtube.com/watch?v=YQ_xR04rI9c)
 - [Enjoying the sea for the first time #Estonia tour](https://www.youtube.com/watch?v=_Utka1biqfs)
-- [Anisul Islam live from the Baltic Sea | Estonia to Finland tour | Ecroline giant Ferry ⛴️](https://www.youtube.com/watch?v=B_Xx_FF2azQ)
 - [7. Full-stack web Bangla Tutorial | HTML Part-2 Intermediate Level](https://www.youtube.com/watch?v=gsVT8_KXnxc)
+- [6. Full-stack web Bangla Tutorial | HTML Part-1 Basic Level](https://www.youtube.com/watch?v=gqvrn5R8tzc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
