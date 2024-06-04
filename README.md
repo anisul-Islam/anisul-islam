@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Beautiful Baltic Sea | first giant ferry tour of my life](https://www.youtube.com/watch?v=0GjXKUeGYwY)
 - [Let&#39;s Play Chess | chitchat](https://www.youtube.com/watch?v=Doof57msFyo)
+- [Beautiful Baltic Sea | first giant ferry tour of my life](https://www.youtube.com/watch?v=0GjXKUeGYwY)
 - [Anisul Islam is live from the Baltic Sea | Estonia to Finland | Exroline giant ferry ⛴️](https://www.youtube.com/watch?v=oONKhBShLMY)
 - [Capsule Hotel in Tallinn, Estonia 🇪🇪 #capsule #hotel #estonia #firstexperience](https://www.youtube.com/watch?v=YQ_xR04rI9c)
 - [Enjoying the sea for the first time #Estonia tour](https://www.youtube.com/watch?v=_Utka1biqfs)
