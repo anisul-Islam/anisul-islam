@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7. Full-stack web Bangla Tutorial | HTML Part-2 Intermediate Level](https://www.youtube.com/watch?v=gsVT8_KXnxc)
 - [Estonia Travel Vlog Episode 1 : Tampere to Tallinn Visit](https://www.youtube.com/watch?v=jBSHeqkdDOI)
 - [Upcoming Seminar at Green University on 11th of July 2024](https://www.youtube.com/watch?v=MLMgXx0lDAE)
 - [Let&#39;s Play Chess | chitchat](https://www.youtube.com/watch?v=Doof57msFyo)
 - [Beautiful Baltic Sea | first giant ferry tour of my life](https://www.youtube.com/watch?v=0GjXKUeGYwY)
-- [Anisul Islam is live from the Baltic Sea | Estonia to Finland | Exroline giant ferry ⛴️](https://www.youtube.com/watch?v=oONKhBShLMY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
