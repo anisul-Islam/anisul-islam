@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Git and Github bangla tutorial 11 : Write better commit messages](https://www.youtube.com/watch?v=_6Wqq7i63bI)
 - [8. Full-stack web Bangla Tutorial | HTML Part-3 Advanced Level](https://www.youtube.com/watch?v=pJLz-YG3Vio)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=YVaR6FX9rGs)
 - [7. Full-stack web Bangla Tutorial | HTML Part-2 Intermediate Level](https://www.youtube.com/watch?v=gsVT8_KXnxc)
 - [Estonia Travel Vlog Episode 1 : Tampere to Tallinn Visit](https://www.youtube.com/watch?v=jBSHeqkdDOI)
-- [Upcoming Seminar at Green University on 11th of July 2024](https://www.youtube.com/watch?v=MLMgXx0lDAE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
