@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Git and Github bangla tutorial 11 : Write better commit messages](https://www.youtube.com/watch?v=_6Wqq7i63bI)
 - [8. Full-stack web Bangla Tutorial | HTML Part-3 Advanced Level](https://www.youtube.com/watch?v=pJLz-YG3Vio)
+- [Git and Github bangla tutorial 11 : Write better commit messages](https://www.youtube.com/watch?v=_6Wqq7i63bI)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=YVaR6FX9rGs)
 - [7. Full-stack web Bangla Tutorial | HTML Part-2 Intermediate Level](https://www.youtube.com/watch?v=gsVT8_KXnxc)
 - [Estonia Travel Vlog Episode 1 : Tampere to Tallinn Visit](https://www.youtube.com/watch?v=jBSHeqkdDOI)
