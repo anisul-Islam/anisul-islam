@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Eid Mubarak | Live Adda, join and chat with me](https://www.youtube.com/watch?v=oFa-IeeLOv4)
 - [Eid Mubarak From Finland 🇫🇮](https://www.youtube.com/watch?v=yEsRLtGIkoU)
 - [8. Full-stack web Bangla Tutorial | HTML Part-3 Advanced Level](https://www.youtube.com/watch?v=pJLz-YG3Vio)
 - [Git and Github bangla tutorial 11 : Write better commit messages](https://www.youtube.com/watch?v=_6Wqq7i63bI)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=YVaR6FX9rGs)
-- [7. Full-stack web Bangla Tutorial | HTML Part-2 Intermediate Level](https://www.youtube.com/watch?v=gsVT8_KXnxc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
