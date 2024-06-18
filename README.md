@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [My sweet home, Finland | summer at 12:20 am](https://www.youtube.com/watch?v=--HG0WCtAtU)
 - [my favourite visual studio code extensions for developers](https://www.youtube.com/watch?v=ZCzEYytXMI0)
+- [My sweet home, Finland | summer at 12:20 am](https://www.youtube.com/watch?v=--HG0WCtAtU)
 - [How was your Eid?](https://www.youtube.com/watch?v=SBo0MFcjhCg)
 - [Eid Mubarak | Live Adda, join and chat with me](https://www.youtube.com/watch?v=oFa-IeeLOv4)
 - [Eid Mubarak From Finland 🇫🇮](https://www.youtube.com/watch?v=yEsRLtGIkoU)
