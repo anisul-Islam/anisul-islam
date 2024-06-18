@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [9. Full-stack web Bangla Tutorial | CSS Part-1 Basic Level](https://www.youtube.com/watch?v=E8nSiDxiiwM)
 - [my favourite visual studio code extensions for developers](https://www.youtube.com/watch?v=ZCzEYytXMI0)
 - [My sweet home, Finland | summer at 12:20 am](https://www.youtube.com/watch?v=--HG0WCtAtU)
 - [How was your Eid?](https://www.youtube.com/watch?v=SBo0MFcjhCg)
 - [Eid Mubarak | Live Adda, join and chat with me](https://www.youtube.com/watch?v=oFa-IeeLOv4)
-- [Eid Mubarak From Finland 🇫🇮](https://www.youtube.com/watch?v=yEsRLtGIkoU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
