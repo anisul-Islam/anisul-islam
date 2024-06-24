@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [10. Full-stack web development in Bangla | CSS Part-2 Intermediate Level](https://www.youtube.com/watch?v=MMC8R7ie7xI)
 - [Master vscode shortcuts, views, emmets, extensions](https://www.youtube.com/watch?v=FWqRP8e_yvQ)
+- [10. Full-stack web development in Bangla | CSS Part-2 Intermediate Level](https://www.youtube.com/watch?v=MMC8R7ie7xI)
 - [9. Full-stack web development in Bangla | CSS Part-1 Basic Level](https://www.youtube.com/watch?v=E8nSiDxiiwM)
 - [VScode extensions for web developers in 2024 | Be smart &amp; productive](https://www.youtube.com/watch?v=ZCzEYytXMI0)
 - [My sweet home, Finland | summer at 12:20 am](https://www.youtube.com/watch?v=--HG0WCtAtU)
