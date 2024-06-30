@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anisul Islam is live](https://www.youtube.com/watch?v=vLSL6hhlezo)
 - [11. Full-stack web development in Bangla | CSS Part-3 Advanced Level](https://www.youtube.com/watch?v=xVbdmZUmyKo)
 - [Master vscode shortcuts, views, emmets, extensions](https://www.youtube.com/watch?v=FWqRP8e_yvQ)
 - [10. Full-stack web development in Bangla | CSS Part-2 Intermediate Level](https://www.youtube.com/watch?v=MMC8R7ie7xI)
 - [9. Full-stack web development in Bangla | CSS Part-1 Basic Level](https://www.youtube.com/watch?v=E8nSiDxiiwM)
-- [VScode extensions for web developers in 2024 | Be smart &amp; productive](https://www.youtube.com/watch?v=ZCzEYytXMI0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
