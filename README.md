@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [Seminar 1: NITER, Dhaka | Software and Web development](https://www.youtube.com/watch?v=Sl7DSRZA1t8)
-- [redux toolkit](https://www.youtube.com/watch?v=qwNuYbxVIYk)
+- [Master Redux Toolkit with React | Complete Guide for Beginners](https://www.youtube.com/watch?v=qwNuYbxVIYk)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=a_fNT8iC4vY)
 - [Master Pagination, Searching, and Sorting in React App - Step-by-Step Guide](https://www.youtube.com/watch?v=aznH6YCFCYY)
 - [11. Full-stack web development in Bangla | CSS Part-3 Advanced Level](https://www.youtube.com/watch?v=xVbdmZUmyKo)
