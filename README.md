@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Seminar 1: NITER, Dhaka | Software and Web development](https://www.youtube.com/watch?v=Sl7DSRZA1t8)
+- [redux toolkit](https://www.youtube.com/watch?v=qwNuYbxVIYk)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=a_fNT8iC4vY)
 - [Master Pagination, Searching, and Sorting in React App - Step-by-Step Guide](https://www.youtube.com/watch?v=aznH6YCFCYY)
 - [11. Full-stack web development in Bangla | CSS Part-3 Advanced Level](https://www.youtube.com/watch?v=xVbdmZUmyKo)
-- [Anisul Islam is live from Lapinsaari Lean-to Shelter, Lapinsaarentie, Kangasala](https://www.youtube.com/watch?v=LEGRr6ChTgM)
-- [Lapinsaari Lean-to Shelter, Lapinsaarentie, Kangasala, Finland](https://www.youtube.com/watch?v=THdAuVyxXNA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
