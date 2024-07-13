@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Seminar 3 Analysis: Green University of Bangladesh](https://www.youtube.com/watch?v=z8Phf9jviZ8)
 - [Seminar at United International University #anisul_islam #UIU credit: UIU App forum](https://www.youtube.com/watch?v=EL6jsbxrSpo)
 - [Seminar 4 Promo : North south University](https://www.youtube.com/watch?v=-3s0ykuhsiM)
-- [Seminar 3 Promo video: Green University of Bangladesh](https://www.youtube.com/watch?v=igWV_SkWTZ8)
-- [Post Seminar analysis | Thanks to NITER](https://www.youtube.com/watch?v=xc6OdbcFLfw)
-- [tomorrow seminar at United International University](https://www.youtube.com/watch?v=Hj1adn3AFz8)
+- [Seminar 3 Promo: Green University of Bangladesh](https://www.youtube.com/watch?v=igWV_SkWTZ8)
+- [Seminar 1 Analysis : NITER University, Dhaka](https://www.youtube.com/watch?v=xc6OdbcFLfw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
