@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Seminar at United International University #anisul_islam #UIU credit: UIU App forum](https://www.youtube.com/watch?v=EL6jsbxrSpo)
 - [Seminar 4 Promo : North south University](https://www.youtube.com/watch?v=-3s0ykuhsiM)
 - [Seminar 3 Promo video: Green University of Bangladesh](https://www.youtube.com/watch?v=igWV_SkWTZ8)
 - [Post Seminar analysis | Thanks to NITER](https://www.youtube.com/watch?v=xc6OdbcFLfw)
 - [tomorrow seminar at United International University](https://www.youtube.com/watch?v=Hj1adn3AFz8)
-- [Master Redux Toolkit with React | Complete Guide for Beginners](https://www.youtube.com/watch?v=qwNuYbxVIYk)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
