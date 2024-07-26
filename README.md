@@ -2,7 +2,7 @@
 <img src="./images/banner.png" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Anisul Islam </h1>
+<h1> 👋 Hello, I am joni sarkar </h1>
 
 A full time content creator on & web developer  
 🏠 &nbsp; Living: Tampere, Finland
