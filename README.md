@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Finally, we are independent Anisul Islam is live](https://www.youtube.com/watch?v=_BkoOuucD8o)
 - [My message to New Bangladesh](https://www.youtube.com/watch?v=HUnAeVfElJ8)
 - [Stand against injustice Quota policy](https://www.youtube.com/watch?v=qavJggQ8Fms)
 - [Seminar at Green University](https://www.youtube.com/watch?v=bpbdhBhaHSE)
 - [Seminar 9: Northern University promo](https://www.youtube.com/watch?v=-j7a5wKen8g)
-- [Seminar 8: American International University of Bangladesh promo video](https://www.youtube.com/watch?v=HQHu4mDIMpY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
