@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Seminar 6 Analysis: BUBT](https://www.youtube.com/watch?v=6nlHSxg28rM)
+- [Seminar 5 Analysis: South East University](https://www.youtube.com/watch?v=l8DJUHBoiiY)
+- [Seminar at NITER July 2024](https://www.youtube.com/watch?v=SM7Gjr_YNpM)
+- [12. Full-stack web development in Bangla | Javascript Part-1 Basic Level](https://www.youtube.com/watch?v=k_CKZfvsJfE)
 - [Finally, we are independent Anisul Islam is live](https://www.youtube.com/watch?v=_BkoOuucD8o)
-- [My message to New Bangladesh](https://www.youtube.com/watch?v=HUnAeVfElJ8)
-- [Stand against injustice Quota policy](https://www.youtube.com/watch?v=qavJggQ8Fms)
-- [Seminar at Green University](https://www.youtube.com/watch?v=bpbdhBhaHSE)
-- [Seminar 9: Northern University promo](https://www.youtube.com/watch?v=-j7a5wKen8g)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
