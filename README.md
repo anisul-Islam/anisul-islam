@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cottage in Finland | Anisul Islam is live](https://www.youtube.com/watch?v=zz_KxkgEtx0)
 - [Estonia Tour Episode 3 | ST OLAV Church | Death meets every minutes](https://www.youtube.com/watch?v=cKZWTDzbZoI)
 - [Estonia Tour Episode 2 | maritime museum | country 6](https://www.youtube.com/watch?v=5e8w_hB64Mw)
 - [Estonia Tour Episode 1 | Estonia architecture of museum | Country 6](https://www.youtube.com/watch?v=bm41BNmmUdg)
 - [13. Full-stack web development in Bangla | Javascript Part-2 Basic Level](https://www.youtube.com/watch?v=hzCUjI3J0IY)
-- [beautiful memories at BUBT, Dhaka | July 2024](https://www.youtube.com/watch?v=5g4a8s6fuuc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
