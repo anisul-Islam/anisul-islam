@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Git &amp; GitHub Full Course  part-2 English | merge vs rebase vs squash](https://www.youtube.com/watch?v=IUyU2yyt9WY)
 - [Duset hotel room tour part -2 Saudi Arabia | QA Session](https://www.youtube.com/watch?v=Oq16FtZBsh4)
 - [Duset Hotel Saudi room tour | Anisul Islam is live](https://www.youtube.com/watch?v=7KMzgwnGp4Y)
 - [Playing badminton at Kangasala, Finland | Anisul Islam is live](https://www.youtube.com/watch?v=sn5nAMyROKM)
 - [Doing food delivery in Finland | Anisul Islam is live](https://www.youtube.com/watch?v=PIT74jDiElw)
-- [Finnish cottage | Anisul Islam is live](https://www.youtube.com/watch?v=pdSqqPPQgMs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
