@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Join Me and Ask Me Live | Answering Your Questions Live from Saudi Arabia](https://www.youtube.com/watch?v=eaWyjYCprs0)
 - [Part-3 | Mastering Best Practices for Git Branching and Merging](https://www.youtube.com/watch?v=vPJ-RKGm2BQ)
 - [A day I will cherish for a long time | seminar at Southeast University](https://www.youtube.com/watch?v=FvNIaS6pf44)
 - [Unboxing my first portable monitor in Saudi | Anisul Islam is live](https://www.youtube.com/watch?v=c_A4n5Yv5bE)
 - [14. Full-stack web development in Bangla | Javascript Basic Part-3](https://www.youtube.com/watch?v=irkt4HxxI_I)
-- [Part-2 | Git &amp; GitHub Full Course| merge vs rebase vs squash](https://www.youtube.com/watch?v=IUyU2yyt9WY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
