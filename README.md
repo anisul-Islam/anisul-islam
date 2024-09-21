@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Javascript part-4 Intermediate](https://www.youtube.com/watch?v=1seG1NV2gLc)
+- [Javascript part-4 Intermediate Bangla Tutorial](https://www.youtube.com/watch?v=1seG1NV2gLc)
 - [অন্যের ব্যর্থতায় হাসি-মশকরা করবেন না](https://www.youtube.com/watch?v=dESUQRT5a_o)
 - [14. Full-stack web development in Bangla | Javascript Basic Part-3](https://www.youtube.com/watch?v=irkt4HxxI_I)
 - [Saudi Tour 1 | Midnight, UWalk Riyadh City](https://www.youtube.com/watch?v=HY1lXci-LSU)
