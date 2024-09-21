@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [16. Full-stack web development in Bangla | Javascript Intermediate Part-1](https://www.youtube.com/watch?v=T1t04YB--XY)
 - [15. Full-stack web development in Bangla | Javascript Basic Part-4](https://www.youtube.com/watch?v=1seG1NV2gLc)
 - [অন্যের ব্যর্থতায় হাসি-মশকরা করবেন না](https://www.youtube.com/watch?v=dESUQRT5a_o)
 - [14. Full-stack web development in Bangla | Javascript Basic Part-3](https://www.youtube.com/watch?v=irkt4HxxI_I)
 - [Saudi Tour 1 | Midnight, UWalk Riyadh City](https://www.youtube.com/watch?v=HY1lXci-LSU)
-- [Eating Arabic Sharma in Riyadh, Saudi Arabia](https://www.youtube.com/watch?v=YCuZcxeXHRM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
