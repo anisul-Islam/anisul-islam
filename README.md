@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Passed Microsoft Foundational C# Certification for FREE](https://www.youtube.com/watch?v=k6xeG29rGnk)
 - [C# Bangla Tutorial 86 : LINQ | Aggregation using max, min, sum, average, count](https://www.youtube.com/watch?v=yv9L0mNFXgM)
 - [Microsoft Foundational C# Certification for free | Bangla tutorial](https://www.youtube.com/watch?v=pOB5DS8uBHc)
 - [My breakfast in Saudi | Anisul Islam is live](https://www.youtube.com/watch?v=XXr35dlnZgY)
 - [MASTER ASP.NET Core and Become a C# Expert in 2024! Part 1/3](https://www.youtube.com/watch?v=IBlk4RH3ZKA)
-- [15. Full-stack web development in Bangla | Javascript Basic Part-4](https://www.youtube.com/watch?v=1seG1NV2gLc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
