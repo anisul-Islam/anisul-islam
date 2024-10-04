@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learn C# by Building a Unit Converter Project | English Tutorial](https://www.youtube.com/watch?v=HLC5Uovb2_w)
+- [17. Full-stack web development in Bangla | Javascript Intermediate Part-2](https://www.youtube.com/watch?v=HseChgjU9w8)
 - [REST API Explained in Bangla - From Beginner to Pro](https://www.youtube.com/watch?v=neDk2qWcqTY)
 - [16. Full-stack web development in Bangla | Javascript Intermediate Part-1](https://www.youtube.com/watch?v=T1t04YB--XY)
 - [Web Development Basics: URL, Front-End, Back-End, API, Database](https://www.youtube.com/watch?v=JW9i206NVKI)
-- [Passed Microsoft Foundational C# Certification for FREE](https://www.youtube.com/watch?v=k6xeG29rGnk)
-- [C# Bangla Tutorial 86 : LINQ | Aggregation using max, min, sum, average, count](https://www.youtube.com/watch?v=yv9L0mNFXgM)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
