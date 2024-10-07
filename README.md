@@ -105,8 +105,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [Don&#39;t Miss Out! API টেস্টিং with Swagger in 2024 | পর্ব ৫](https://www.youtube.com/watch?v=ILUwv_Npju0)
 - [REST API এন্ডপয়েন্ট পরীক্ষা  Postman নাকি Thunder Client | পর্ব ৪](https://www.youtube.com/watch?v=aQGmVAGha6w)
 - [ASP.NET Web API: Simple Endpoints তৈরি করা | পর্ব ৩](https://www.youtube.com/watch?v=unc0GoGzbNo)
+- [API রেসপন্সের প্রকারভেদ | পর্ব ৬](https://www.youtube.com/watch?v=kc4HDazBa88)
 - [ASP.NET Web API তৈরি ও রান: ফোল্ডার স্ট্রাকচার বিশ্লেষণ |  পর্ব ২](https://www.youtube.com/watch?v=1h74ZEzjg0M)
-- [ASP.NET কী? সুবিধা ও সেটআপ নির্দেশিকা | পর্ব ১](https://www.youtube.com/watch?v=PvZum-3lyv4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
