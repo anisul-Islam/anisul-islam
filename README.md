@@ -105,8 +105,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [18. Full-stack web development in Bangla | Javascript Intermediate Part-3](https://www.youtube.com/watch?v=vtDF7CkJ73g)
 - [ASP.NET বেসিক ইনপুট ভ্যালিডেশন করা | পর্ব ১০](https://www.youtube.com/watch?v=eVmuZodWfX8)
 - [ASP.NET Route Constraints to validate routes | পর্ব ৯](https://www.youtube.com/watch?v=e1_tFno2-oQ)
+- [ASP.NET Core এ MVC আর্কিটেকচার বিস্তারিত ব্যাখ্যা উদাহরণ সহ | পর্ব ১১](https://www.youtube.com/watch?v=HQLFskFQ8Ig)
 - [Passing Data via Route vs Query and Request Body Which is BEST | পর্ব ৮](https://www.youtube.com/watch?v=NWsCTDBFfdU)
-- [Category CRUD REST ASP.NET Web API | পর্ব ৭](https://www.youtube.com/watch?v=5XRZFPPXLyg)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
