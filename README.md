@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Watching Ronaldo live | Al Nassr vs Al Shabab](https://www.youtube.com/watch?v=cl1ILnxddv0)
+- [Finally came to see Ronaldo live](https://www.youtube.com/watch?v=a2cOTdh6l7w)
 - [19. Full-stack web development in Bangla | Javascript Intermediate Part-4](https://www.youtube.com/watch?v=gccfybyUGIQ)
 - [Centralized API Response and refactoring | পর্ব ১৪](https://www.youtube.com/watch?v=EpIS0Cyr8mA)
 - [ASP.NET Core এ Data Annotations এবং Validation locally &amp; globally | পর্ব  ১৩](https://www.youtube.com/watch?v=YV72S2mLREk)
-- [ASP.NET Core এ  Model এবং DTO এর মধ্যে পার্থক্য | পর্ব  ১২](https://www.youtube.com/watch?v=maC2RGAn7fY)
-- [ASP.NET Core এ MVC আর্কিটেকচার বিস্তারিত ব্যাখ্যা উদাহরণ সহ | পর্ব ১১](https://www.youtube.com/watch?v=HQLFskFQ8Ig)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
