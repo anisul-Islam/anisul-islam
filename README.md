@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [ASP.NET Core এ Data Annotations এবং Validation locally &amp; globally | পর্ব  ১৩](https://www.youtube.com/watch?v=YV72S2mLREk)
 - [ASP.NET Core এ  Model এবং DTO এর মধ্যে পার্থক্য | পর্ব  ১২](https://www.youtube.com/watch?v=maC2RGAn7fY)
+- [Centralized API Response and refactoring | পর্ব ১৪](https://www.youtube.com/watch?v=EpIS0Cyr8mA)
 - [ASP.NET Core এ MVC আর্কিটেকচার বিস্তারিত ব্যাখ্যা উদাহরণ সহ | পর্ব ১১](https://www.youtube.com/watch?v=HQLFskFQ8Ig)
 - [18. Full-stack web development in Bangla | Javascript Intermediate Part-3](https://www.youtube.com/watch?v=vtDF7CkJ73g)
-- [ASP.NET বেসিক ইনপুট ভ্যালিডেশন করা | পর্ব ১০](https://www.youtube.com/watch?v=eVmuZodWfX8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
