@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Wanna get back to sports soon 😭](https://www.youtube.com/watch?v=Xa4TxuUaaT0)
+- [I miss Finland #peace #love](https://www.youtube.com/watch?v=ASwDS6GLDkE)
 - [19. Full-stack web development in Bangla | Javascript Intermediate Part-4](https://www.youtube.com/watch?v=gccfybyUGIQ)
 - [Estonia&#39;s Hottest PROTO MUSEUM Trends Revealed 2024 | Estonia part-5](https://www.youtube.com/watch?v=SYrgiGOdrsg)
 - [Estonia Tour in 2024 Episode 4 | TALLINN RUSSIAN MUSEUM](https://www.youtube.com/watch?v=YOGZ-_1Udkc)
-- [Best URL Naming Practices for REST API | পর্ব ১৬](https://www.youtube.com/watch?v=H-6e1yKdGfs)
-- [Get a category by Id | পর্ব ১৫](https://www.youtube.com/watch?v=GUPUwHGeJ4U)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
