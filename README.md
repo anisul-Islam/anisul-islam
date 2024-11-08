@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MASTER Service and Dependency Injection | part 17](https://www.youtube.com/watch?v=s5rzHHIO3P8)
 - [Beautiful Riyadh, Al-maigliah market, Saudi Arabia](https://www.youtube.com/watch?v=qlDHIz6Z-y4)
 - [Shopping at Temu online store | Anisul Islam is live](https://www.youtube.com/watch?v=_3i2l5e7bA8)
 - [Wanna get back to sports soon 😭](https://www.youtube.com/watch?v=Xa4TxuUaaT0)
 - [I miss Finland #peace #love](https://www.youtube.com/watch?v=ASwDS6GLDkE)
-- [19. Full-stack web development in Bangla | Javascript Intermediate Part-4](https://www.youtube.com/watch?v=gccfybyUGIQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
