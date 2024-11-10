@@ -105,8 +105,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [Repository Pattern in ASP.NET | part 19](https://www.youtube.com/watch?v=bTxGOtayuKE)
 - [Create CategoryService in ASP.NET | part 18](https://www.youtube.com/watch?v=uMgKz3kBgwI)
 - [MASTER Service and Dependency Injection | part 17](https://www.youtube.com/watch?v=s5rzHHIO3P8)
+- [Expert ASP.NET Developers RAVE About AutoMapper | part 20](https://www.youtube.com/watch?v=Te7hf2WNG_c)
 - [Beautiful Riyadh, Al-maigliah market, Saudi Arabia](https://www.youtube.com/watch?v=qlDHIz6Z-y4)
-- [Shopping at Temu online store | Anisul Islam is live](https://www.youtube.com/watch?v=_3i2l5e7bA8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
