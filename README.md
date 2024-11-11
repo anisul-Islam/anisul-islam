@@ -102,10 +102,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Expert ASP.NET Developers RAVE About AutoMapper | part 20](https://www.youtube.com/watch?v=Te7hf2WNG_c)
 - [Repository Pattern in ASP.NET | part 19](https://www.youtube.com/watch?v=bTxGOtayuKE)
 - [Create CategoryService in ASP.NET | part 18](https://www.youtube.com/watch?v=uMgKz3kBgwI)
 - [MASTER Service and Dependency Injection | part 17](https://www.youtube.com/watch?v=s5rzHHIO3P8)
-- [Expert ASP.NET Developers RAVE About AutoMapper | part 20](https://www.youtube.com/watch?v=Te7hf2WNG_c)
 - [Beautiful Riyadh, Al-maigliah market, Saudi Arabia](https://www.youtube.com/watch?v=qlDHIz6Z-y4)
 <!-- YOUTUBE:END -->
 
