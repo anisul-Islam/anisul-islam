@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Software Development and Higher Study | Seminar at Pundra University, Bogura](https://www.youtube.com/watch?v=74Vhs6hgZd4)
 - [Fostering Innovation in Technology and Research | Seminar at Varendra University, Rajshahi](https://www.youtube.com/watch?v=uQQIFHYGpU4)
 - [Helper class for query parameters and best practice | Part 27](https://www.youtube.com/watch?v=Xe3cJapBxOw)
 - [Sorting in ASP.NET Web API | Part 26](https://www.youtube.com/watch?v=5bXtTdXTY-g)
 - [Graduation day in Saudi | Happy for my students](https://www.youtube.com/watch?v=1VtAQS60JCA)
-- [Searching in ASP.NET API | Part 25](https://www.youtube.com/watch?v=580X_r2n1bw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
