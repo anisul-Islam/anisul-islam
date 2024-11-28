@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Seminar experience at Varendra University, Rajshahi | unboxing gifts 🎁](https://www.youtube.com/watch?v=I8ySzxQbpMU)
 - [Riding motorcycle in Rajshahi | City tour at night with lovely students](https://www.youtube.com/watch?v=fhSpCBvHIpM)
 - [vietnam vs bangladesh badminton](https://www.youtube.com/watch?v=YQ0i56HSpmE)
 - [Playing indoor football at soccer, Shibganj, Sylhet Anisul Islam is live](https://www.youtube.com/watch?v=c02QbXIHQQs)
 - [Injury doesn&#39;t stop me from Playing football at Freekick indoor, Sylhet](https://www.youtube.com/watch?v=lO7zft-_54c)
-- [Mastering Full Stack Development: A Journey with Anisul Islam | Seminar at UITS, Dhaka](https://www.youtube.com/watch?v=gWmsydSrsiI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
