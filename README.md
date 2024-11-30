@@ -102,10 +102,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fulbari, Dinajpur passing quality life | Anisul Islam is live](https://www.youtube.com/watch?v=Rd029AZTo2I)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=VZ3NSqgrPqs)
 - [Seminar experience at Varendra University, Rajshahi | unboxing gifts 🎁](https://www.youtube.com/watch?v=I8ySzxQbpMU)
 - [Riding motorcycle in Rajshahi | City tour at night with lovely students](https://www.youtube.com/watch?v=fhSpCBvHIpM)
-- [Fulbari, Dinajpur passing quality life | Anisul Islam is live](https://www.youtube.com/watch?v=Rd029AZTo2I)
 - [vietnam vs bangladesh badminton](https://www.youtube.com/watch?v=YQ0i56HSpmE)
 <!-- YOUTUBE:END -->
 
