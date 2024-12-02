@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Career Mastery: Turning Passion Into Profession | Seminar at DUET](https://www.youtube.com/watch?v=WSx5D4oe2Ow)
+- [Software Engineering &amp; AI Careers | Seminar at Dhaka International University &lpar;DIU&rpar;](https://www.youtube.com/watch?v=YVdVuzynuqk)
 - [Seminar experience at Northern University, Dhaka and unboxing gifts](https://www.youtube.com/watch?v=CJJ7huKUs-I)
 - [Seminar at Northern University, Dhaka](https://www.youtube.com/watch?v=advOy_j11js)
 - [Seminar experience at Pundra University Bogura | gift unboxing](https://www.youtube.com/watch?v=foOEQhPyM2U)
-- [Fulbari, Dinajpur passing quality life | Anisul Islam is live](https://www.youtube.com/watch?v=Rd029AZTo2I)
-- [Anisul Islam is live](https://www.youtube.com/watch?v=VZ3NSqgrPqs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
