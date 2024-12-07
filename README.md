@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Seminar at Chittagong Independent University](https://www.youtube.com/watch?v=HnxKxSGsWWQ)
 - [Seminar at East Delta University](https://www.youtube.com/watch?v=VEgJX4uiqP4)
 - [Seminar experience at DUET, Gazipur and gift unboxing](https://www.youtube.com/watch?v=-_h8__chO7U)
 - [Seminar experience at Dhaka International University and unboxing gifts](https://www.youtube.com/watch?v=W_JQ1iuow0E)
 - [Seminar experience at UITS and unboxing gifts](https://www.youtube.com/watch?v=NaKMkabZKOg)
-- [Career Mastery: Turning Passion Into Profession | Seminar at DUET](https://www.youtube.com/watch?v=WSx5D4oe2Ow)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
