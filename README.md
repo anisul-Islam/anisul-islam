@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Thanks to ATW Sports Arena Chittagong for giving me a token of love](https://www.youtube.com/watch?v=sIUqoh2aHFA)
 - [Badminton at Sylhet 7th December Anisul Islam is live](https://www.youtube.com/watch?v=s1be7SNdzMo)
 - [Seminar at Chittagong Independent University](https://www.youtube.com/watch?v=HnxKxSGsWWQ)
 - [Seminar at East Delta University](https://www.youtube.com/watch?v=VEgJX4uiqP4)
 - [Seminar experience at DUET, Gazipur and gift unboxing](https://www.youtube.com/watch?v=-_h8__chO7U)
-- [Seminar experience at Dhaka International University and unboxing gifts](https://www.youtube.com/watch?v=W_JQ1iuow0E)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
