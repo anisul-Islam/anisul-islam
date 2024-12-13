@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [playing against student](https://www.youtube.com/watch?v=T10R2mv_34M)
 - [I Played My FIRST Nil Game Ever and Here&#39;s What Happened](https://www.youtube.com/watch?v=n3yxc6exMz4)
 - [Thanks for the pickle box gift | Nusrath Aroshi from Chittagong](https://www.youtube.com/watch?v=Uag4esh7q4I)
 - [Seminar experience at Chittagong Independent University &lpar;CIU&rpar; and unboxing their gifts](https://www.youtube.com/watch?v=I-1kjkxPv3o)
 - [Playing badminton at Sylhet 11/12/2024 | Anisul Islam is live](https://www.youtube.com/watch?v=k3rn2qRUPTk)
-- [A heartfelt tribute from the students of Chittagong Independent University](https://www.youtube.com/watch?v=3Jpz4RZ8TVs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
