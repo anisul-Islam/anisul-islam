@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [playing against student](https://www.youtube.com/watch?v=T10R2mv_34M)
+- [I Played Against a STUDENT and Here&#39;s What Happened!](https://www.youtube.com/watch?v=T10R2mv_34M)
 - [I Played My FIRST Nil Game Ever and Here&#39;s What Happened](https://www.youtube.com/watch?v=n3yxc6exMz4)
 - [Thanks for the pickle box gift | Nusrath Aroshi from Chittagong](https://www.youtube.com/watch?v=Uag4esh7q4I)
 - [Seminar experience at Chittagong Independent University &lpar;CIU&rpar; and unboxing their gifts](https://www.youtube.com/watch?v=I-1kjkxPv3o)
