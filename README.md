@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My visit at Northern University, Dhaka](https://www.youtube.com/watch?v=rOlWt3D_WqM)
 - [Seminar experience at Leading University, Sylhet | Seminar 17 2024](https://www.youtube.com/watch?v=KhRMK18FXMw)
 - [I Played Against a STUDENT and Here&#39;s What Happened!](https://www.youtube.com/watch?v=T10R2mv_34M)
 - [I Played My FIRST Nil Game Ever and Here&#39;s What Happened](https://www.youtube.com/watch?v=n3yxc6exMz4)
 - [Thanks for the pickle box gift | Nusrath Aroshi from Chittagong](https://www.youtube.com/watch?v=Uag4esh7q4I)
-- [Seminar experience at Chittagong Independent University &lpar;CIU&rpar; and unboxing their gifts](https://www.youtube.com/watch?v=I-1kjkxPv3o)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
