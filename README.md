@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Enjoying Snowfall in Finland after a long time](https://www.youtube.com/watch?v=CA4b6gSq-Ts)
 - [My beautiful memories at Varendra University, Rajshahi 2024](https://www.youtube.com/watch?v=qxZuSDBYvH0)
 - [My visit at Northern University, Dhaka](https://www.youtube.com/watch?v=rOlWt3D_WqM)
 - [Seminar experience at Leading University, Sylhet | Seminar 17 2024](https://www.youtube.com/watch?v=KhRMK18FXMw)
 - [I Played Against a STUDENT and Here&#39;s What Happened!](https://www.youtube.com/watch?v=T10R2mv_34M)
-- [I Played My FIRST Nil Game Ever and Here&#39;s What Happened](https://www.youtube.com/watch?v=n3yxc6exMz4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
