@@ -164,7 +164,6 @@ alt="Java" width="240" height="180" border="10" /></a>
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
 - 🇮🇳 Hindi : Intermediate
-- 🇧🇷 Portugues : Basic
   <br />
 
 <!-- my languages section ends here  -->
