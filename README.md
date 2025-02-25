@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Estonia Tour in 2024 Episode 6 | Estonian Maritime Museum 🚢⚓](https://www.youtube.com/watch?v=G0WCVKtYeGg)
 - [javascript bangla tutorial 7 : personal budget tracker app phase 1,2](https://www.youtube.com/watch?v=54z0EHsa3Es)
 - [javascript bangla tutorial 6 : var vs let vs const and run with node](https://www.youtube.com/watch?v=dzr3mxTKJ74)
 - [20. Full-stack web development in Bangla | Javascript Intermediate Part-5](https://www.youtube.com/watch?v=uN-rvr8yQ1w)
 - [Enjoying Snowfall in Finland after a long time](https://www.youtube.com/watch?v=CA4b6gSq-Ts)
-- [My beautiful memories at Varendra University, Rajshahi 2024](https://www.youtube.com/watch?v=qxZuSDBYvH0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
