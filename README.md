@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [javascript bangla tutorial 39 : budget tracker add array](https://www.youtube.com/watch?v=8_918kxbvyI)
-- [javascript bangla tutorial 31 : budget tracker app phase 6 adding loop](https://www.youtube.com/watch?v=jJau7i75b8o)
+- [javascript bangla tutorial 31 : budget tracker app phase 6 - add loop](https://www.youtube.com/watch?v=jJau7i75b8o)
 - [javascript bangla tutorial 30 : Fizzbuzz challenge](https://www.youtube.com/watch?v=enQxomhQ8b0)
 - [Five tips reels](https://www.youtube.com/watch?v=K_HuAIBMDxA)
 - [Estonia Tour in 2024 Episode 7 | Staying at Tallinn Capsule Hotel 🏨✨](https://www.youtube.com/watch?v=5I2pJMmfMG0)
