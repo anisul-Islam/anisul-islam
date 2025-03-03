@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [javascript bangla tutorial 44 : Budget tracker phase 8 - add function](https://www.youtube.com/watch?v=hfRClak-718)
 - [javascript bangla tutorial 45 : Budget tracker phase 8 - add object](https://www.youtube.com/watch?v=uimL2dzF4ng)
+- [javascript bangla tutorial 44 : Budget tracker phase 8 - add function](https://www.youtube.com/watch?v=hfRClak-718)
 - [javascript bangla tutorial 39 : budget tracker add array](https://www.youtube.com/watch?v=8_918kxbvyI)
 - [javascript bangla tutorial 31 : budget tracker app phase 6 - add loop](https://www.youtube.com/watch?v=jJau7i75b8o)
 - [javascript bangla tutorial 30 : Fizzbuzz challenge](https://www.youtube.com/watch?v=enQxomhQ8b0)
