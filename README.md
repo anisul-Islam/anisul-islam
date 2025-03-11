@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Complete JavaScript Course in Bangla &lpar;Part 1&rpar; | Beginner to Advanced 🇧🇩](https://www.youtube.com/watch?v=YD6rQ1RLR68)
 - [আমার প্রথম উমরাহ যাত্রার অনুভূতি কেমন হচ্ছে?](https://www.youtube.com/watch?v=ChSMgPEdM-o)
 - [javascript bangla tutorial 69 : Budget Tracker app with DOM manipulation](https://www.youtube.com/watch?v=DQ3FZYjcyVg)
 - [Estonia তাল্লিন জু ভ্রমণের আকর্ষণীয় দৃশ্যগুলি দেখুন!](https://www.youtube.com/watch?v=78jfoEFw-hk)
 - [হেলথ মিউজিয়ামে মানবদেহ সম্পর্কে জানার জন্য একটি অনন্য সুযোগ](https://www.youtube.com/watch?v=0HDurQyKV8E)
-- [Estonia er Hellman টাওয়ার এবং টাউন হলে ভ্রমণের একটি অসাধারণ অভিজ্ঞতা](https://www.youtube.com/watch?v=YDZcGTWddR0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
