@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beautiful Rajshahi city](https://www.youtube.com/watch?v=86PGvbVUBqw)
 - [dinner at Mejjan, Chittagong](https://www.youtube.com/watch?v=bdFi-85AVv4)
 - [Morning walk at Tilagor, Sylhet](https://www.youtube.com/watch?v=_SOW0z2JK-k)
 - [Sweden stockholm tour](https://www.youtube.com/watch?v=51hMIJzT3go)
 - [মসজিদ আল নাওয়াবি, মদিনার এই অসাধারণ দৃশ্যগুলি আপনাকে মুগ্ধ করবে](https://www.youtube.com/watch?v=FA_CTXW6tDE)
-- [Complete JavaScript Course in Bangla &lpar;Part 1&rpar; | Beginner to Advanced 🇧🇩](https://www.youtube.com/watch?v=YD6rQ1RLR68)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
