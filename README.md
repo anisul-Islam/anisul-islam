@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [⚽ Football Formation Planner | JavaScript দিয়ে খেলোয়াড় সাজান নিজেই](https://www.youtube.com/watch?v=tzyq1fTccZw)
 - [javascript bangla tutorial 70 : Event Propagation](https://www.youtube.com/watch?v=GYSOXjxRdfA)
 - [My message for DUET IUPC 2025](https://www.youtube.com/watch?v=F-7FOvYSPn8)
 - [Beautiful Rajshahi city](https://www.youtube.com/watch?v=86PGvbVUBqw)
 - [dinner at Mejjan, Chittagong](https://www.youtube.com/watch?v=bdFi-85AVv4)
-- [Morning walk at Tilagor, Sylhet](https://www.youtube.com/watch?v=_SOW0z2JK-k)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
