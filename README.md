@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beautiful moment at Nokia, Finland 🇫🇮](https://www.youtube.com/shorts/fho_98h5f6o)
 - [Won Tampere Football cup 2025, Finland](https://www.youtube.com/shorts/G0Xzm5XWRLY)
 - [⚽ Football Formation Planner | JavaScript দিয়ে খেলোয়াড় সাজান নিজেই](https://www.youtube.com/watch?v=tzyq1fTccZw)
 - [javascript bangla tutorial 70 : Event Propagation](https://www.youtube.com/watch?v=GYSOXjxRdfA)
 - [My message for DUET IUPC 2025](https://www.youtube.com/watch?v=F-7FOvYSPn8)
-- [Beautiful Rajshahi city](https://www.youtube.com/shorts/86PGvbVUBqw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
