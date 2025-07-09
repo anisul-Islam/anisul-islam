@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Back to the field again](https://www.youtube.com/shorts/tfpVG8bdpVM)
 - [Shared love while playing with you guys](https://www.youtube.com/shorts/iFIyhlLlZk4)
 - [Playing Fottball at Domus Club, Tampere, Finland 26th June 2025](https://www.youtube.com/watch?v=JWCi6A4VqW4)
 - [Football Practice session at Domus, Tampere, Finland | 26 june 2025](https://www.youtube.com/watch?v=BFRgoBj2-xY)
 - [Love you all](https://www.youtube.com/shorts/8yri4gEPzS0)
-- [Beautiful moment at Nokia, Finland 🇫🇮](https://www.youtube.com/shorts/fho_98h5f6o)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
