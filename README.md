@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [একজন ভাগ্যবানকে বেছে নেব – থাকবে একটি বিশেষ পুরস্কার! Sports live](https://www.youtube.com/watch?v=zt718K-l76Y)
+- [একজন ভাগ্যবানকে বেছে নেব – থাকবে একটি বিশেষ পুরস্কার! Sports live](https://www.youtube.com/watch?v=WWA508CQaiY)
 - [Playing badminton 23rd of July 2025, Kangasala, Finland](https://www.youtube.com/watch?v=EWa61vSVO0A)
 - [Back to the field again](https://www.youtube.com/shorts/tfpVG8bdpVM)
 - [Shared love while playing with you guys](https://www.youtube.com/shorts/iFIyhlLlZk4)
