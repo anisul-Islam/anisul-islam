@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Anisul Islam is live](https://www.youtube.com/watch?v=bTvdJEyaPuI)
+- [Very soon I will start creating new video](https://www.youtube.com/watch?v=bTvdJEyaPuI)
 - [My Balcony Gym Setup | Small Space Home Workout Idea](https://www.youtube.com/watch?v=pIGCYKmofHQ)
 - [একজন ভাগ্যবানকে বেছে নেব – থাকবে একটি বিশেষ পুরস্কার! Sports live](https://www.youtube.com/watch?v=WWA508CQaiY)
 - [Playing badminton 23rd of July 2025, Kangasala, Finland](https://www.youtube.com/watch?v=EWa61vSVO0A)
