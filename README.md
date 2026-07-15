@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vintage Cars and Historical Exhibits in Warsaw, Poland](https://www.youtube.com/watch?v=YACWOU0nzbY)
 - [Playing badminton after a long time | Tampere, Finland](https://www.youtube.com/watch?v=8DjJ6PC3pq8)
 - [I Played Beach Football for the First Time at Yyteri Beach, Pori, Finland 🇫🇮](https://www.youtube.com/watch?v=52pFZ-XOuKw)
 - [Anisul Islam is live](https://www.youtube.com/watch?v=BtorJyIJWpE)
 - [Comeback Live After 6 Months](https://www.youtube.com/watch?v=K5n5F_0U0Ys)
-- [Playing outdoor football during cold weather in Finland](https://www.youtube.com/watch?v=ePNanY8wraw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
