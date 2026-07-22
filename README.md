@@ -105,7 +105,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [C Program English Tutorial 37 : Unary operators](https://www.youtube.com/watch?v=7-KYzYm_p3E)
 - [C Program English Tutorial 36 : relational and logical operators](https://www.youtube.com/watch?v=RmoubXSEuHk)
 - [C Program English Tutorial 35 : convert math expression to c expression](https://www.youtube.com/watch?v=h_JE8GcSR84)
-- [C Program English Tutorial 34 : Math header](https://www.youtube.com/watch?v=lPMkzcYXi40)
+- [Math Header in C Programming Tutorial](https://www.youtube.com/watch?v=lPMkzcYXi40)
 - [C Program English Tutorial 33 : Electricity bill calculator](https://www.youtube.com/watch?v=qm-g1NG823Q)
 <!-- YOUTUBE:END -->
 
