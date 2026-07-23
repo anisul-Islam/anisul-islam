@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [C Program English Tutorial 39 : if, else if, else control statement](https://www.youtube.com/watch?v=0g0J-X1_kjU)
-- [C Program English Tutorial 38 : conditional control statement if block](https://www.youtube.com/watch?v=mC3LN3zsllc)
-- [C Program English Tutorial 37 : Unary operators](https://www.youtube.com/watch?v=7-KYzYm_p3E)
-- [C Program English Tutorial 36 : relational and logical operators](https://www.youtube.com/watch?v=RmoubXSEuHk)
-- [C Program English Tutorial 35 : convert math expression to c expression](https://www.youtube.com/watch?v=h_JE8GcSR84)
+- [C Program English Tutorial 38 : Conditional Control Statement | if block](https://www.youtube.com/watch?v=mC3LN3zsllc)
+- [C Program English Tutorial 37 : Unary Operators and Their Behaviour](https://www.youtube.com/watch?v=7-KYzYm_p3E)
+- [C Program English Tutorial 36 : Relational and Logical Operators](https://www.youtube.com/watch?v=RmoubXSEuHk)
+- [C Program English Tutorial 35 : Convert Math Formula To C Expression](https://www.youtube.com/watch?v=h_JE8GcSR84)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
