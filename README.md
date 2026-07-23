@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 43 : Check voting eligibility](https://www.youtube.com/watch?v=Qj1ZEyqSI40)
+- [C Program English Tutorial 42 : Check a number is Even or odd](https://www.youtube.com/watch?v=lPL-o3U71lM)
+- [C Program English Tutorial 41 : Check if a number is Positive or negative](https://www.youtube.com/watch?v=5tWLjUQ0dZY)
+- [C Program English Tutorial 40 :  Nested if statement](https://www.youtube.com/watch?v=9XHB_lmk_Y4)
 - [C Program English Tutorial 39 : if, else if, else control statement](https://www.youtube.com/watch?v=0g0J-X1_kjU)
-- [C Program English Tutorial 38 : Conditional Control Statement | if block](https://www.youtube.com/watch?v=mC3LN3zsllc)
-- [C Program English Tutorial 37 : Unary Operators and Their Behaviour](https://www.youtube.com/watch?v=7-KYzYm_p3E)
-- [C Program English Tutorial 36 : Relational and Logical Operators](https://www.youtube.com/watch?v=RmoubXSEuHk)
-- [C Program English Tutorial 35 : Convert Math Formula To C Expression](https://www.youtube.com/watch?v=h_JE8GcSR84)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
