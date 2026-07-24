@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C Program English Tutorial 47 :  Find Largest, smallest and middle number with logical operators](https://www.youtube.com/watch?v=-o37m3BUnlk)
-- [C Program English Tutorial 46 : Find largest, smallest and middle number without logical operators](https://www.youtube.com/watch?v=DmijRzuWMZg)
-- [C Program English Tutorial 45 : Largest and Smallest number between 2 numbers](https://www.youtube.com/watch?v=L-3riWMcikU)
-- [C Program English Tutorial 44 : Build an age group categorization program](https://www.youtube.com/watch?v=huIkspfHEps)
-- [C Program English Tutorial 43 : Check voting eligibility](https://www.youtube.com/watch?v=Qj1ZEyqSI40)
+- [C Program English Tutorial 52 : Find Largest number of 3 numbers using ternary operator](https://www.youtube.com/watch?v=vz2LK2eKhPE)
+- [C Program English Tutorial 51 : Ternary operator To Simplify If-Else Statements](https://www.youtube.com/watch?v=ahn5sZe7rAY)
+- [C Program English Tutorial 50 : How to Check Vowel or Consonant](https://www.youtube.com/watch?v=HFwG8EtmaZQ)
+- [C Program English Tutorial 49 : Check if a Letter is Uppercase or lowercase letter](https://www.youtube.com/watch?v=2MUaP6iD7dU)
+- [C Program English Tutorial 48 : Check a year is Leap year](https://www.youtube.com/watch?v=efkK8aJj2Tc)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
