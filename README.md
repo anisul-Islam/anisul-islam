@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 45 : Largest and Smallest number between 2 numbers](https://www.youtube.com/watch?v=L-3riWMcikU)
+- [C Program English Tutorial 44 : Build an age group categorization program](https://www.youtube.com/watch?v=huIkspfHEps)
 - [C Program English Tutorial 43 : Check voting eligibility](https://www.youtube.com/watch?v=Qj1ZEyqSI40)
 - [C Program English Tutorial 42 : Check a number is Even or odd](https://www.youtube.com/watch?v=lPL-o3U71lM)
 - [C Program English Tutorial 41 : Check if a number is Positive or negative](https://www.youtube.com/watch?v=5tWLjUQ0dZY)
-- [C Program English Tutorial 40 :  Nested if statement](https://www.youtube.com/watch?v=9XHB_lmk_Y4)
-- [C Program English Tutorial 39 : if, else if, else control statement](https://www.youtube.com/watch?v=0g0J-X1_kjU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
