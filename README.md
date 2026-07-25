@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 61 : goto statement](https://www.youtube.com/watch?v=VSEuPyG0Y78)
+- [C Program English Tutorial 60 : break and continue statement](https://www.youtube.com/watch?v=7FczZbvJdGY)
+- [C Program English Tutorial 59 : Challenge  - Print odd numbers divisible by 3](https://www.youtube.com/watch?v=RJAYb5dc3h0)
+- [C Program English Tutorial 58 : Find numbers are Divisible by N](https://www.youtube.com/watch?v=WK6q_dPGi0E)
 - [C Program English Tutorial 57 : Find and count all the even or odd numbers from m to n](https://www.youtube.com/watch?v=7pqruBhxkoI)
-- [C Program English Tutorial 56 : Print from m to n number](https://www.youtube.com/watch?v=_I95LHQKgiw)
-- [C Program English Tutorial 55 : Loop control statement](https://www.youtube.com/watch?v=8s4KULN_HI0)
-- [C Program English Tutorial 54 : Vowel Consonant using switch](https://www.youtube.com/watch?v=6MP6K1M8AJs)
-- [C Program English Tutorial 53 : Switch Conditional Control Statement](https://www.youtube.com/watch?v=67arCsKTUjA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
