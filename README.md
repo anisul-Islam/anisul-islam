@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 55 : Loop control statement](https://www.youtube.com/watch?v=8s4KULN_HI0)
+- [C Program English Tutorial 54 : Vowel Consonant using switch](https://www.youtube.com/watch?v=6MP6K1M8AJs)
 - [C Program English Tutorial 53 : Switch Conditional Control Statement](https://www.youtube.com/watch?v=67arCsKTUjA)
 - [C Program English Tutorial 52 : Find Largest number of 3 numbers using ternary operator](https://www.youtube.com/watch?v=vz2LK2eKhPE)
 - [C Program English Tutorial 51 : Ternary operator To Simplify If-Else Statements](https://www.youtube.com/watch?v=ahn5sZe7rAY)
-- [C Program English Tutorial 50 : How to Check Vowel or Consonant](https://www.youtube.com/watch?v=HFwG8EtmaZQ)
-- [C Program English Tutorial 49 : Check if a Letter is Uppercase or lowercase letter](https://www.youtube.com/watch?v=2MUaP6iD7dU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
