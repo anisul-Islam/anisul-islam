@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 65 : Sum of n numbers series](https://www.youtube.com/watch?v=6D-b0dpBKuA)
 - [C Program English Tutorial 64 : Multiplication Table](https://www.youtube.com/watch?v=Bu5VU_GwWMo)
 - [C Program English Tutorial 63 : Find the output of a nested loop](https://www.youtube.com/watch?v=s40r9keQLHs)
 - [C Program English Tutorial 62 : Nested loop](https://www.youtube.com/watch?v=a7PvkjvF9rY)
 - [C Program English Tutorial 61 : goto statement](https://www.youtube.com/watch?v=VSEuPyG0Y78)
-- [C Program English Tutorial 60 : break and continue statement](https://www.youtube.com/watch?v=7FczZbvJdGY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
