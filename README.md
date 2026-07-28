@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 74 : Check Armstrong number for any number of digits](https://www.youtube.com/watch?v=wb1KXQKNwfU)
 - [C Program English Tutorial 73 : Check Armstrong number](https://www.youtube.com/watch?v=H37jMr9ECOY)
 - [Solo Football Practice | 26th July 2026](https://www.youtube.com/watch?v=8kavMJtiGQ0)
 - [C Program English Tutorial 72 : Check a number is Palindrome or not](https://www.youtube.com/watch?v=s3EtNd9zEBU)
 - [C Program English Tutorial 71 : Reverse of a number](https://www.youtube.com/watch?v=5r2Zloci1u0)
-- [C Program English Tutorial 70 : Calculate Sum of Digits](https://www.youtube.com/watch?v=6vTIGMe0HX8)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
