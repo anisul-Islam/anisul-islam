@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 76 : Series - Basic Addition Pattern](https://www.youtube.com/watch?v=0ek5zB14kcA)
 - [C programming Bangla Tutorial 5.125 : Series programs এর জন্য input validation](https://www.youtube.com/watch?v=p-Ectv7LL9U)
 - [C Program English Tutorial 75 : Find GCD and LCM of Two Numbers](https://www.youtube.com/watch?v=i5HcTqCPEXM)
 - [C Program English Tutorial 74 : Check Armstrong number for any number of digits](https://www.youtube.com/watch?v=wb1KXQKNwfU)
 - [C Program English Tutorial 73 : Check Armstrong number](https://www.youtube.com/watch?v=H37jMr9ECOY)
-- [Solo Football Practice | 26th July 2026](https://www.youtube.com/watch?v=8kavMJtiGQ0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
