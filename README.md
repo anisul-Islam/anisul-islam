@@ -102,9 +102,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program Full Course in Bangla Part 6/13 : Loop Control Statement](https://www.youtube.com/watch?v=EhOFu7ZxXIs)
 - [C Program English Tutorial 78 : Series - Decimal Value Series](https://www.youtube.com/watch?v=yBmLZVgMHe4)
 - [C Program English Tutorial 77 : Series - Basic Multiplication series](https://www.youtube.com/watch?v=M9JmUh2ofSk)
-- [C Program Full Course in Bangla Part 6/13 : Loop Control Statement](https://www.youtube.com/watch?v=EhOFu7ZxXIs)
 - [Plymouth City Tour: Exploring the Coastal Charm | Finland to England 2024](https://www.youtube.com/watch?v=yXDRbNQwOzE)
 - [Childhood friend reunion: Badminton match after 18 years | Plymouth, UK 2024](https://www.youtube.com/watch?v=EsoCYj3OAu4)
 <!-- YOUTUBE:END -->
