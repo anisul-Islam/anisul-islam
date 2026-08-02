@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C Program English Tutorial 83 : Series - print even fibonacci numbers](https://www.youtube.com/watch?v=CcqKReHNBEQ)
+- [C Program English Tutorial 83 : Series - Print Even Fibonacci Numbers](https://www.youtube.com/watch?v=CcqKReHNBEQ)
 - [C Program English Tutorial 82 : Series - Fibonacci series](https://www.youtube.com/watch?v=aUl0kGgsuI8)
 - [C Program English Tutorial 81 : Series - Factorial Value Series](https://www.youtube.com/watch?v=jxZzczSunbQ)
 - [C Program English Tutorial 80 : Series - Fraction Value Series](https://www.youtube.com/watch?v=ZmzHQPf_jnc)
