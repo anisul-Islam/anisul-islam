@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 82 : Series - Fibonacci series](https://www.youtube.com/watch?v=aUl0kGgsuI8)
 - [C Program English Tutorial 81 : Series - Factorial Value Series](https://www.youtube.com/watch?v=jxZzczSunbQ)
 - [C Program English Tutorial 80 : Series - Fraction Value Series](https://www.youtube.com/watch?v=ZmzHQPf_jnc)
 - [C Program English Tutorial 79 : Series - Power Value Series](https://www.youtube.com/watch?v=D4USPTSzchE)
 - [C Program Full Course in Bangla Part 6/13 : Loop Control Statement](https://www.youtube.com/watch?v=EhOFu7ZxXIs)
-- [C Program English Tutorial 78 : Series - Decimal Value Series](https://www.youtube.com/watch?v=yBmLZVgMHe4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
