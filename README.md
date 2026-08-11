@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [বগুড়ায় একদিন: পুন্ড্রা ইউনিভার্সিটির সেমিনার ও ভ্রমণ](https://www.youtube.com/watch?v=3KlsKEJslVM)
+- [বগুড়ায় একদিন: পুন্ড্র ইউনিভার্সিটির সেমিনার ও ভ্রমণ](https://www.youtube.com/watch?v=3KlsKEJslVM)
 - [C Program English Tutorial 86 : Mixed Value Series](https://www.youtube.com/watch?v=8dMQidOFJ2Y)
 - [C Program English Tutorial 85 : Lucas series](https://www.youtube.com/watch?v=8upU_t3YWfw)
 - [C Program English Tutorial 84 : Fibonacci numbers from m to n](https://www.youtube.com/watch?v=XZvnQ5u0D8A)
