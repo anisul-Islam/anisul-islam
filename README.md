@@ -105,8 +105,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [C Program English Tutorial 89 : pattern printing type 3](https://www.youtube.com/watch?v=wmWhCs-jH5g)
 - [C Program English Tutorial 88 : pattern printing type 2](https://www.youtube.com/watch?v=o6fWqndoo68)
 - [C Program English Tutorial 87 : pattern printing type 1](https://www.youtube.com/watch?v=BCOSy032PBw)
+- [C Program English Tutorial 90 : pattern printing type 4](https://www.youtube.com/watch?v=7__nUgIPRwQ)
 - [বগুড়ায় একদিন: পুন্ড্র ইউনিভার্সিটির সেমিনার ও ভ্রমণ](https://www.youtube.com/watch?v=3KlsKEJslVM)
-- [C Program English Tutorial 86 : Mixed Value Series](https://www.youtube.com/watch?v=8dMQidOFJ2Y)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
