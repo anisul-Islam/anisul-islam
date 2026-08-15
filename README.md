@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C programming Bangla Tutorial 5.164 : Pattern | part-20 &lpar;Plus shape&rpar;](https://www.youtube.com/watch?v=fTQdsQ7WHCM)
 - [প্রতিটি সিএস শিক্ষার্থীর জন্য জরুরি কিছু পরামর্শ! | Challenges of CS Students](https://www.youtube.com/watch?v=5sFrHBakZMA)
+- [C programming Bangla Tutorial 5.164 : Pattern | part-20 &lpar;Plus shape&rpar;](https://www.youtube.com/watch?v=fTQdsQ7WHCM)
 - [C Program English Tutorial 90 : pattern printing type 4](https://www.youtube.com/watch?v=7__nUgIPRwQ)
 - [C Program English Tutorial 89 : pattern printing type 3](https://www.youtube.com/watch?v=wmWhCs-jH5g)
 - [C Program English Tutorial 88 : pattern printing type 2](https://www.youtube.com/watch?v=o6fWqndoo68)
