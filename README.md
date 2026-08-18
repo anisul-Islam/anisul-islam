@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.173 : Pattern | Part 29 &lpar;Concentric Square&rpar;](https://www.youtube.com/watch?v=HsgySyXOCHs)
 - [C programming Bangla Tutorial 5.172 : Pattern | Part 28  &lpar;Number checkerboard&rpar;](https://www.youtube.com/watch?v=1L5J_07HTaw)
 - [C programming Bangla Tutorial 5.171 : Pattern | Part 27 &lpar;Checkerboard&rpar;](https://www.youtube.com/watch?v=4G38TkMqOwM)
 - [C programming Bangla Tutorial 5.170 : Pattern | Part 26 &lpar;Number Hourglass&rpar;](https://www.youtube.com/watch?v=y-Isj12apkI)
 - [C programming Bangla Tutorial 5.169 : Pattern | Part 25 &lpar;Butterfly Shape&rpar;](https://www.youtube.com/watch?v=Dxtgwb09oDI)
-- [প্রতিটি সিএস শিক্ষার্থীর জন্য জরুরি কিছু পরামর্শ! | Challenges of CS Students](https://www.youtube.com/watch?v=5sFrHBakZMA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
