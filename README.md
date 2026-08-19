@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 92 : Pattern | Mixed Right-Aligned Triangle](https://www.youtube.com/watch?v=M1wTuciY9R4)
 - [C Program English Tutorial 91 : Pattern | Reversed Right-Aligned Triangle](https://www.youtube.com/watch?v=hINWMyD7WcA)
 - [C programming Bangla Tutorial 5.168 : Pattern | part-24 &lpar;Hollow pyramid&rpar;](https://www.youtube.com/watch?v=-qAHobXeGss)
 - [প্যাটার্ন প্রিন্টিং মডিউলে কি কি থাকছে?](https://www.youtube.com/watch?v=r96NSGpI0-I)
 - [C programming Bangla Tutorial 5.173 : Pattern | Part 29 &lpar;Concentric Square&rpar;](https://www.youtube.com/watch?v=HsgySyXOCHs)
-- [C programming Bangla Tutorial 5.172 : Pattern | Part 28  &lpar;Number checkerboard&rpar;](https://www.youtube.com/watch?v=1L5J_07HTaw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
