@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 98 : Pattern | Diamond Pyramid](https://www.youtube.com/watch?v=m677H1DCkxw)
 - [C Program English Tutorial 97 : Pattern | Reversed Pyramid](https://www.youtube.com/watch?v=KKZbihd8l7I)
 - [C Program English Tutorial 96 : Pattern | Pyramid](https://www.youtube.com/watch?v=Hv74wQlY5O4)
 - [C Program English Tutorial 95 : Pattern | Floyd Triangle](https://www.youtube.com/watch?v=zGL2i4ZwgtM)
 - [C Program English Tutorial 94 : Pattern | Multiplication Triangle](https://www.youtube.com/watch?v=4CDD74GTXA4)
-- [C Program English Tutorial 93 : Pattern | Solid Rectangle](https://www.youtube.com/watch?v=wQhnL4RI2ik)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
