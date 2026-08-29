@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program Full Course in Bangla Part 7/13 : Pattern Printing](https://www.youtube.com/watch?v=3Wox2pJoEmg)
 - [Code Run করার আগেই Output বের করুন! | Dry Run Bangla Tutorial](https://www.youtube.com/watch?v=kbEPqzsaxF8)
 - [C Program English Tutorial 101 : Pattern | x shape](https://www.youtube.com/watch?v=uYDRBhS7wwc)
 - [C Program English Tutorial 100 : Pattern | hollow triangle](https://www.youtube.com/watch?v=xVOFnBhRd9E)
 - [C Program English Tutorial 99 : Pattern | hollow rectangle](https://www.youtube.com/watch?v=f1L6mIqPR9c)
-- [C Program English Tutorial 98 : Pattern | Diamond Pyramid](https://www.youtube.com/watch?v=m677H1DCkxw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
