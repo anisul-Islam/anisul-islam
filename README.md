@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C Program English Tutorial 108 : Pattern | checkerboard](https://www.youtube.com/watch?v=mv9QfiS-he4)
 - [C Program English Tutorial 107 : Pattern | Number Hourglass pattern](https://www.youtube.com/watch?v=7qwayiM6h_U)
 - [C Program English Tutorial 68 : sum and average of n numbers](https://www.youtube.com/watch?v=4nTuwc_8v6c)
 - [C Program English Tutorial 55 : Menu driven calculator using switch](https://www.youtube.com/watch?v=qwPoCYt_bgM)
 - [C Program English Tutorial 60 : Challenge - The FizzBuzz](https://www.youtube.com/watch?v=FVo26_lRrjc)
-- [C Program English Tutorial 51 : Simple calculator using if else](https://www.youtube.com/watch?v=dLRm8KJCpTw)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
