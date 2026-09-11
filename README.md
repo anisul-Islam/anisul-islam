@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LeetCode 7 : Reverse Integer | Step-by-Step Solution in Bangla | Problem Solving](https://www.youtube.com/watch?v=YGR5Ceko_4M)
 - [C Program English Tutorial 70 : Count the digits of a number](https://www.youtube.com/watch?v=cTXlbj4442U)
 - [C Program English Tutorial 110 : Pattern | concentric square](https://www.youtube.com/watch?v=hzemssO7_ls)
 - [C Program English Tutorial 109 : Pattern | Number checkerboard](https://www.youtube.com/watch?v=sPd0Hu7hYrs)
 - [C Program English Tutorial 108 : Pattern | checkerboard](https://www.youtube.com/watch?v=mv9QfiS-he4)
-- [C Program English Tutorial 107 : Pattern | Number Hourglass pattern](https://www.youtube.com/watch?v=7qwayiM6h_U)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
