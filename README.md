@@ -102,7 +102,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LeetCode 7 : Reverse Integer | Step-by-Step Solution in Bangla | Problem Solving](https://www.youtube.com/watch?v=YGR5Ceko_4M)
+- [DSA Bangla Series: LeetCode 7 | Reverse Integer | Problem Solving](https://www.youtube.com/watch?v=YGR5Ceko_4M)
 - [C Program English Tutorial 70 : Count the digits of a number](https://www.youtube.com/watch?v=cTXlbj4442U)
 - [C Program English Tutorial 110 : Pattern | concentric square](https://www.youtube.com/watch?v=hzemssO7_ls)
 - [C Program English Tutorial 109 : Pattern | Number checkerboard](https://www.youtube.com/watch?v=sPd0Hu7hYrs)
