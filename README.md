@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [DSA Bangla Series: LeetCode 7 | Reverse Integer | Problem Solving](https://www.youtube.com/watch?v=YGR5Ceko_4M)
+- [DSA Bangla Series: LeetCode 9 | Palindrome Number | Problem Solving](https://www.youtube.com/watch?v=SpE8p-J1AS4)
 - [C Program English Tutorial 70 : Count the digits of a number](https://www.youtube.com/watch?v=cTXlbj4442U)
 - [C Program English Tutorial 110 : Pattern | concentric square](https://www.youtube.com/watch?v=hzemssO7_ls)
 - [C Program English Tutorial 109 : Pattern | Number checkerboard](https://www.youtube.com/watch?v=sPd0Hu7hYrs)
-- [C Program English Tutorial 108 : Pattern | checkerboard](https://www.youtube.com/watch?v=mv9QfiS-he4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
