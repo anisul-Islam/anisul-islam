@@ -103,10 +103,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [DSA Bangla Series: Frequency count method part 1](https://www.youtube.com/watch?v=aR90rFaNr2Q)
+- [DSA Bangla Series: Frequency count method part 2](https://www.youtube.com/watch?v=Ycv9csvOh5s)
 - [DSA Bangla Series: Introduction to Algorithm](https://www.youtube.com/watch?v=cTJy4MvEzYQ)
 - [DSA Bangla Series: LeetCode 9 | Palindrome Number | Problem Solving](https://www.youtube.com/watch?v=SpE8p-J1AS4)
 - [DSA Bangla Series: LeetCode 7 | Reverse Integer | Problem Solving](https://www.youtube.com/watch?v=YGR5Ceko_4M)
-- [C Program English Tutorial 70 : Count the digits of a number](https://www.youtube.com/watch?v=cTXlbj4442U)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
