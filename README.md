@@ -102,8 +102,8 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [DSA Bangla Series: Frequency count method part 1](https://www.youtube.com/watch?v=aR90rFaNr2Q)
 - [DSA Bangla Series: Frequency count method part 2](https://www.youtube.com/watch?v=Ycv9csvOh5s)
+- [DSA Bangla Series: Frequency count method part 1](https://www.youtube.com/watch?v=aR90rFaNr2Q)
 - [DSA Bangla Series: Introduction to Algorithm](https://www.youtube.com/watch?v=cTJy4MvEzYQ)
 - [DSA Bangla Series: LeetCode 9 | Palindrome Number | Problem Solving](https://www.youtube.com/watch?v=SpE8p-J1AS4)
 - [DSA Bangla Series: LeetCode 7 | Reverse Integer | Problem Solving](https://www.youtube.com/watch?v=YGR5Ceko_4M)
