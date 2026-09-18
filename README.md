@@ -106,7 +106,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [DSA Bangla Series: Big-O Linearithmic O&lpar;n log n&rpar; atime](https://www.youtube.com/watch?v=QbDIENtQ7uM)
 - [DSA Bangla Series: Frequency count method part 3](https://www.youtube.com/watch?v=PAguiN-wRZQ)
 - [DSA Bangla Series: Frequency count method part 2](https://www.youtube.com/watch?v=Ycv9csvOh5s)
-- [DSA Bangla Series: Frequency count method part 1](https://www.youtube.com/watch?v=aR90rFaNr2Q)
+- [DSA Bangla Series: Big-O Constant O&lpar;1&rpar; and linear O&lpar;n&rpar; time](https://www.youtube.com/watch?v=TKWjshWLDIY)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
