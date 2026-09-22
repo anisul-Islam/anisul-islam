@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DSA Bangla Series: Linear Search Algorithm with time complexity | theory](https://www.youtube.com/watch?v=R1X6kByPjuI)
+- [DSA Bangla Series: Is your algorithm efficient? O&lpar;n&rpar; vs O&lpar;1&rpar; comparison](https://www.youtube.com/watch?v=TDKYCJVQh2Q)
+- [DSA Bangla Series: Big-O Cheatsheet and their Comparisons](https://www.youtube.com/watch?v=gzPhHI0Fgrs)
+- [DSA Bangla Series: Binary Search Algorithm Explained with Time complexity](https://www.youtube.com/watch?v=G7fhHewzcLg)
 - [DSA Bangla Series: Big-O Exponential &lpar;n^n&rpar;and factorial time O&lpar;n!&rpar;](https://www.youtube.com/watch?v=_nVHn6vMPAQ)
-- [DSA Bangla Series: Big-O Logarithmic O&lpar;log n&rpar; time](https://www.youtube.com/watch?v=CS2sMZwSIvk)
-- [DSA Bangla Series: Big-O Constant O&lpar;1&rpar; and linear O&lpar;n&rpar; time](https://www.youtube.com/watch?v=TKWjshWLDIY)
-- [C programming Bangla Tutorial 5.134 : Loop vs Gauss Formula](https://www.youtube.com/watch?v=KvrTGoJuVRI)
-- [C programming Bangla Tutorial 5.127 : sum of divisors of a number](https://www.youtube.com/watch?v=6fw2WSyoOx0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
