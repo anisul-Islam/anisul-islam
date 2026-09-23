@@ -102,10 +102,10 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DSA Bangla Series: Recursive Linear Search Explained with Code](https://www.youtube.com/watch?v=HJly1vB8UaY)
 - [DSA Bangla Series: Linear Search Algorithm with time complexity | theory](https://www.youtube.com/watch?v=R1X6kByPjuI)
 - [DSA Bangla Series: Is your algorithm efficient? O&lpar;n&rpar; vs O&lpar;1&rpar; comparison](https://www.youtube.com/watch?v=TDKYCJVQh2Q)
 - [DSA Bangla Series: Big-O Cheatsheet and their Comparisons](https://www.youtube.com/watch?v=gzPhHI0Fgrs)
-- [DSA Bangla Series: Binary Search Algorithm Explained with Time complexity](https://www.youtube.com/watch?v=G7fhHewzcLg)
 - [DSA Bangla Series: Big-O Exponential &lpar;n^n&rpar;and factorial time O&lpar;n!&rpar;](https://www.youtube.com/watch?v=_nVHn6vMPAQ)
 <!-- YOUTUBE:END -->
 
