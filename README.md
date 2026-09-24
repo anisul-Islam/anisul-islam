@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.128 : How to check for Perfect number](https://www.youtube.com/watch?v=q6JRiUtsx2I)
 - [DSA Bangla Series: LeetCode 204 | Prime Number | Problem Solving](https://www.youtube.com/watch?v=jkj6FFwu9uo)
 - [DSA Bangla Series: Recursive Linear Search Explained with Code](https://www.youtube.com/watch?v=HJly1vB8UaY)
 - [DSA Bangla Series: Linear Search Algorithm with time complexity | theory](https://www.youtube.com/watch?v=R1X6kByPjuI)
 - [DSA Bangla Series: Is your algorithm efficient? O&lpar;n&rpar; vs O&lpar;1&rpar; comparison](https://www.youtube.com/watch?v=TDKYCJVQh2Q)
-- [DSA Bangla Series: Big-O Cheatsheet and their Comparisons](https://www.youtube.com/watch?v=gzPhHI0Fgrs)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
