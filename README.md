@@ -104,9 +104,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 <!-- YOUTUBE:START -->
 - [C programming Bangla Tutorial 5.130 : How to Check if number is a power of 2 | Bitwise trick](https://www.youtube.com/watch?v=1F0eIst9Y_s)
 - [C programming Bangla Tutorial 5.129 : How to check if number is a power of 2](https://www.youtube.com/watch?v=2WlIafN4Pck)
-- [DSA Bangla Series: LeetCode 507 | Perfect Number | Problem Solving](https://www.youtube.com/watch?v=2-SleDo2K9I)
+- [LeetCode 231: Power of Two | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=893CLoJlbcc)
+- [LeetCode 507: Perfect Number | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=2-SleDo2K9I)
 - [C programming Bangla Tutorial 5.128 : How to check for Perfect number](https://www.youtube.com/watch?v=q6JRiUtsx2I)
-- [DSA Bangla Series: LeetCode 204 | Prime Number | Problem Solving](https://www.youtube.com/watch?v=jkj6FFwu9uo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
