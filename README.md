@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LeetCode 326: Power of Three | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=ILtQq9M5_gY)
+- [LeetCode 231: Power of Two | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=893CLoJlbcc)
 - [C programming Bangla Tutorial 5.130 : How to Check if number is a power of 2 | Bitwise trick](https://www.youtube.com/watch?v=1F0eIst9Y_s)
 - [C programming Bangla Tutorial 5.129 : How to check if number is a power of 2](https://www.youtube.com/watch?v=2WlIafN4Pck)
-- [LeetCode 231: Power of Two | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=893CLoJlbcc)
 - [LeetCode 507: Perfect Number | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=2-SleDo2K9I)
-- [C programming Bangla Tutorial 5.128 : How to check for Perfect number](https://www.youtube.com/watch?v=q6JRiUtsx2I)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
