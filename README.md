@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Recursive vs Iterative Binary Search With Code | DSA Bangla Series #18](https://www.youtube.com/watch?v=RrQ1_InsXPk)
 - [Binary Search Implementation in C | DSA Bangla Series #17](https://www.youtube.com/watch?v=MQbBjzkYGWY)
 - [Binary Search Algorithm Explained with Time complexity|  DSA Bangla Series #16](https://www.youtube.com/watch?v=G7fhHewzcLg)
 - [LeetCode 1137: Tribonacci Number | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=kTNG9d9FdnM)
 - [LeetCode 509:  Fibonacci number | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=HBVoL9UCzLI)
-- [LeetCode 342: Power of Four | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=7IIeoy9adE0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
