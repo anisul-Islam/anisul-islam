@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.186 : Pattern | Part 30 &lpar;hollow diamond shape&rpar;](https://www.youtube.com/watch?v=0BNilfO7Bro)
 - [Recursive vs Iterative Binary Search With Code | DSA Bangla Series #18](https://www.youtube.com/watch?v=RrQ1_InsXPk)
+- [C programming Bangla Tutorial 5.187 : Pattern | Part 31 &lpar;Pascal Triangle using only loop&rpar;](https://www.youtube.com/watch?v=0V7tohdnzaw)
+- [C programming Bangla Tutorial 5.188 : Pattern | Part 32 &lpar;Pascal Triangle using array&rpar;](https://www.youtube.com/watch?v=BKa8pYG5Y5g)
 - [Binary Search Implementation in C | DSA Bangla Series #17](https://www.youtube.com/watch?v=MQbBjzkYGWY)
-- [Binary Search Algorithm Explained with Time complexity|  DSA Bangla Series #16](https://www.youtube.com/watch?v=G7fhHewzcLg)
-- [LeetCode 1137: Tribonacci Number | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=kTNG9d9FdnM)
-- [LeetCode 509:  Fibonacci number | LeetCode Solutions in Bangla](https://www.youtube.com/watch?v=HBVoL9UCzLI)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
