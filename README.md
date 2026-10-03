@@ -102,9 +102,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C programming Bangla Tutorial 5.196 : Check Arrays are Equal](https://www.youtube.com/watch?v=jgui-2zgh-c)
 - [C programming Bangla Tutorial 5.198 : Largest and 2nd Largest in an array bangla](https://www.youtube.com/watch?v=cOPrikR5yZA)
 - [C programming Bangla Tutorial 5.197 : Array is Sorted or not](https://www.youtube.com/watch?v=abx_XFPKHZ8)
+- [C programming Bangla Tutorial 5.196 : Check Arrays are Equal](https://www.youtube.com/watch?v=jgui-2zgh-c)
 - [C programming Bangla Tutorial 5.188 : Pattern | Part 32 &lpar;Pascal Triangle using array&rpar;](https://www.youtube.com/watch?v=BKa8pYG5Y5g)
 - [C programming Bangla Tutorial 5.187 : Pattern | Part 31 &lpar;Pascal Triangle using only loop&rpar;](https://www.youtube.com/watch?v=0V7tohdnzaw)
 <!-- YOUTUBE:END -->
