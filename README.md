@@ -103,7 +103,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- YOUTUBE:START -->
 - [Bubble Sort theory with complexity  | DSA Bangla Series #19](https://www.youtube.com/watch?v=xAvBsu0xIvU)
-- [C programming Bangla Tutorial 5.199 : Binary search in c](https://www.youtube.com/watch?v=KVBDgY2bLY8)
+- [C programming Bangla Tutorial 5.202 : Binary search in c](https://www.youtube.com/watch?v=KVBDgY2bLY8)
 - [C programming Bangla Tutorial 5.198 : Largest and 2nd Largest in an array bangla](https://www.youtube.com/watch?v=cOPrikR5yZA)
 - [C programming Bangla Tutorial 5.197 : Array is Sorted or not](https://www.youtube.com/watch?v=abx_XFPKHZ8)
 - [C programming Bangla Tutorial 5.196 : Check Arrays are Equal](https://www.youtube.com/watch?v=jgui-2zgh-c)
