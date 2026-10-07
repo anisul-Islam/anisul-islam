@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.208 : Matrix Addition and Subtraction with Validation](https://www.youtube.com/watch?v=Mnl355LWDR4)
 - [Bubble Sort in C  | DSA Bangla Series #20](https://www.youtube.com/watch?v=FVlhVHn_6k0)
 - [C programming Bangla Tutorial 5.201 : Reverse an array](https://www.youtube.com/watch?v=OGF88Lmupys)
 - [C programming Bangla Tutorial 5.200 : Delete an Item from an array](https://www.youtube.com/watch?v=aRFZBZEa13g)
 - [C programming Bangla Tutorial 5.199 : Insert an item in an array](https://www.youtube.com/watch?v=-MPP3-3DwEQ)
-- [Bubble Sort theory with complexity  | DSA Bangla Series #19](https://www.youtube.com/watch?v=xAvBsu0xIvU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
