@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C programming Bangla Tutorial 5.211 : Matrix Properties](https://www.youtube.com/watch?v=nVe2UJagQZE)
-- [C programming Bangla Tutorial 5.210 : Scalar Multiplication and Matrices Comparison](https://www.youtube.com/watch?v=QpCBv7Ao7lo)
-- [C programming Bangla Tutorial 5.207 : 2D Array Fundamentals](https://www.youtube.com/watch?v=tFBwiBfgmDM)
+- [C programming Bangla Tutorial 5.211 : 2D Array | Matrix Properties](https://www.youtube.com/watch?v=nVe2UJagQZE)
+- [C programming Bangla Tutorial 5.210 : 2D Array | Scalar Multiplication and Matrices Comparison](https://www.youtube.com/watch?v=QpCBv7Ao7lo)
+- [C programming Bangla Tutorial 5.207 : 2D Array | All Fundamental Problems Solved](https://www.youtube.com/watch?v=tFBwiBfgmDM)
 - [C programming Bangla Tutorial 5.209 : How to check for an Identity Matrix](https://www.youtube.com/watch?v=PE16jhtYscY)
-- [C programming Bangla Tutorial 5.209 : Matrix Addition and Subtraction with Validation](https://www.youtube.com/watch?v=Mnl355LWDR4)
+- [C programming Bangla Tutorial 5.209 : 2D Array | Matrix Addition and Subtraction with Validation](https://www.youtube.com/watch?v=Mnl355LWDR4)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
