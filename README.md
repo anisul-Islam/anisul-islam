@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.217 : 2D Array | Determinant and Inverse Matrix](https://www.youtube.com/watch?v=6j-_Jra1f0I)
 - [C programming Bangla Tutorial 5.214 : 2D Array | Transpose, Symmetric](https://www.youtube.com/watch?v=QRKGIQVfzVo)
 - [C programming Bangla Tutorial 5.212 : 2D Array | Rows, columns and diagonal operations](https://www.youtube.com/watch?v=wpEwna-gUeo)
 - [C programming Bangla Tutorial 5.202 : Array | Reverse an array in-place](https://www.youtube.com/watch?v=P6cVQQpxSFU)
 - [C programming Bangla Tutorial 5.211 : 2D Array | Matrix Properties](https://www.youtube.com/watch?v=nVe2UJagQZE)
-- [C programming Bangla Tutorial 5.210 : 2D Array | Scalar Multiplication and Matrices Comparison](https://www.youtube.com/watch?v=QpCBv7Ao7lo)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
