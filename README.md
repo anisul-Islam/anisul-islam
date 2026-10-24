@@ -106,7 +106,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - [Frequency count method using Array Theory  | DSA Bangla Series #23](https://www.youtube.com/watch?v=dHPNPU49qH8)
 - [C programming Roadmap and Career Paths](https://www.youtube.com/watch?v=73g92rWjel8)
 - [C programming Bangla Tutorial 5.219 : 2D Array | Project 4 | Treasure Island Game](https://www.youtube.com/watch?v=VJ0HGX5pdoU)
-- [Two Pointers Technique and Brute Force  | DSA Bangla Series #22](https://www.youtube.com/watch?v=nqRtYZOTTf0)
+- [Two Pointers Technique and Brute Force Theory  | DSA Bangla Series #22](https://www.youtube.com/watch?v=nqRtYZOTTf0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
