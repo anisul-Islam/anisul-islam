@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.108 : Loop | Project 3 | Guess a Number Game](https://www.youtube.com/watch?v=0CcMwy4mEU0)
+- [C programming Bangla Tutorial 5.10 : How to compile and run c program in terminal](https://www.youtube.com/watch?v=roHS-jK3wjQ)
+- [C programming Bangla Tutorial 5.188 : Array |Introduction to Array Module](https://www.youtube.com/watch?v=S8cTJRqKsPY)
+- [Frequency count method using Array in C program  | DSA Bangla Series #24](https://www.youtube.com/watch?v=UIddDv-ueTQ)
 - [C Program Full Course in Bangla Part 8/13 : Array Data Structure](https://www.youtube.com/watch?v=tT1lFFIAHDM)
-- [Frequency count method using Array Theory  | DSA Bangla Series #23](https://www.youtube.com/watch?v=dHPNPU49qH8)
-- [C programming Roadmap and Career Paths](https://www.youtube.com/watch?v=73g92rWjel8)
-- [C programming Bangla Tutorial 5.219 : 2D Array | Project 4 | Treasure Island Game](https://www.youtube.com/watch?v=VJ0HGX5pdoU)
-- [Two Pointers Technique and Brute Force Theory  | DSA Bangla Series #22](https://www.youtube.com/watch?v=nqRtYZOTTf0)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
