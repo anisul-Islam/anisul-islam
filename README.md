@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Bangla Series 1: AI Foundations to Prompt Engineering – Full Bangla Tutorial for Beginners](https://www.youtube.com/watch?v=Z_r558jDJ1Y)
 - [Introduction to Data Structure | DSA Bangla Series #01](https://www.youtube.com/watch?v=rskHUGNRZsc)
 - [C++ STL array in Bangla | std::array সহজভাবে শিখুন](https://www.youtube.com/watch?v=J8rI25RCa9U)
 - [Intro to STL in C++ Bangla | C++ STL কী এবং কেন শিখবেন](https://www.youtube.com/watch?v=7QWYH-zJOLA)
 - [C programming Bangla Tutorial 5.108 : Loop | Project 3 | Guess a Number Game](https://www.youtube.com/watch?v=0CcMwy4mEU0)
-- [C programming Bangla Tutorial 5.10 : How to compile and run c program in terminal](https://www.youtube.com/watch?v=roHS-jK3wjQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
