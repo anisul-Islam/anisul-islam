@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [AI Bangla Series 1: AI Foundations to Prompt Engineering – Full Bangla Tutorial for Beginners](https://www.youtube.com/watch?v=Z_r558jDJ1Y)
-- [Introduction to Data Structure | DSA Bangla Series #01](https://www.youtube.com/watch?v=rskHUGNRZsc)
-- [C++ STL array in Bangla | std::array সহজভাবে শিখুন](https://www.youtube.com/watch?v=J8rI25RCa9U)
-- [Intro to STL in C++ Bangla | C++ STL কী এবং কেন শিখবেন](https://www.youtube.com/watch?v=7QWYH-zJOLA)
-- [C programming Bangla Tutorial 5.108 : Loop | Project 3 | Guess a Number Game](https://www.youtube.com/watch?v=0CcMwy4mEU0)
+- [C++ Bangla Tutorials 2.7 : Integer Overflow in C++ Bangla | INT_MAX, INT_MIN সহজভাবে| DSA](https://www.youtube.com/watch?v=a91MDdUprYo)
+- [C++ Bangla Tutorials 2.8 : Assignment 2 | Variables, Data Types &amp; Input Practice](https://www.youtube.com/watch?v=qyIUg_y3cm0)
+- [C++ Bangla Tutorials 1.8 : Project 1 | Create a Profile Card](https://www.youtube.com/watch?v=eHPdjlCAJkE)
+- [C++ Bangla Tutorials 1.7 : Assignment 1 | Output &amp; Escape Sequence](https://www.youtube.com/watch?v=E6Imx_cqh8Q)
+- [C++ Bangla Tutorials 2.6 : auto and std::print&lpar;&rpar; in C++23 Bangla | Modern C++ এ সহজ Output](https://www.youtube.com/watch?v=O9LP-FHC-BU)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
