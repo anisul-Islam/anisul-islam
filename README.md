@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C++ Bangla Tutorials 5.9 :  Project 4 | Ticket Price Checker](https://www.youtube.com/watch?v=lMIPre-oMus)
 - [C++ STL vector in Bangla | Dynamic Array সহজভাবে](https://www.youtube.com/watch?v=VFf9tuvroXs)
 - [Bubble Sort in C++ Bangla | Sorting Algorithm with Code](https://www.youtube.com/watch?v=vufSQj3tkCk)
 - [C++ Bangla Tutorials 3.11 :  Project 3 | Shop Bill and Change Calculator](https://www.youtube.com/watch?v=PB2UTGV8RlU)
 - [Binary Search in C++ Bangla | low, high, mid দিয়ে সহজভাবে](https://www.youtube.com/watch?v=MRMxyaVefeQ)
-- [Linear Search in C++ Bangla | Searching Algorithm with Code](https://www.youtube.com/watch?v=kSzGXe0kPRQ)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
