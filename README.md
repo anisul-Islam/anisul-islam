@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Insertion Sort code in C++ in Bangla](https://www.youtube.com/watch?v=Jjnom3kCxBA)
 - [Insertion Sort Algorithm Step By Step | DSA Bangla Series #25](https://www.youtube.com/watch?v=k8qSqbnD2zo)
 - [for vs while vs do-while | কোন loop কখন ব্যবহার করবেন](https://www.youtube.com/watch?v=HjwTtGN-jKA)
 - [Selection Sort Code in C++ Bangla](https://www.youtube.com/watch?v=UQ_mHLPje1Y)
 - [Selection Sort Algorithm Step By Step | DSA Bangla Series #24](https://www.youtube.com/watch?v=hnVRmPw9iwk)
-- [Binary Search in C++ STL Bangla | binary_search&lpar;&rpar; সহজভাবে](https://www.youtube.com/watch?v=YmOxBpIBbzE)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
