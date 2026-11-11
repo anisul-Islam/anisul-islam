@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.231 : String | Reverse a string without library function](https://www.youtube.com/watch?v=9kaX17TZ6PU)
+- [C++ Bangla Tutorials 6.7 : Range based for loop | সহজে Array পড়ুন](https://www.youtube.com/watch?v=MS2VyW-lV3s)
 - [C++ Bangla Tutorial 5.11 : Project 5 | Number Analyzer | DSA](https://www.youtube.com/watch?v=IyVu1uEWEdQ)
 - [Frequency Count Strategy with Array | C++ Bangla](https://www.youtube.com/watch?v=Iaq0h461Z_I)
 - [Insertion Sort code in C++ in Bangla](https://www.youtube.com/watch?v=Jjnom3kCxBA)
-- [Insertion Sort Algorithm Step By Step | DSA Bangla Series #25](https://www.youtube.com/watch?v=k8qSqbnD2zo)
-- [for vs while vs do-while | কোন loop কখন ব্যবহার করবেন](https://www.youtube.com/watch?v=HjwTtGN-jKA)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
