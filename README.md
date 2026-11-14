@@ -102,11 +102,11 @@ I am a passionate computer science teacher. I have been teaching programming lan
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C programming Bangla Tutorial 5.253 : Function | Project 4 | Treasure Island Game Part-2](https://www.youtube.com/watch?v=DKnsZY5FPJc)
 - [C programming Bangla Tutorial 5.240 : String | Project 5 | Password Strength Checker](https://www.youtube.com/watch?v=u_AicZUJ8Mw)
 - [C programming Bangla Tutorial 5.239 : String | 2d char array | find longest string](https://www.youtube.com/watch?v=vtUfji35gY0)
 - [C programming Bangla Tutorial 5.238 : String | Character frequency count](https://www.youtube.com/watch?v=QaqzqD3qJ5U)
 - [C programming Bangla Tutorial 5.236 : number of vowels, digits, words using library function](https://www.youtube.com/watch?v=TAfQlU5vyA4)
-- [C programming Bangla Tutorial 5.234 : String | case conversion in c](https://www.youtube.com/watch?v=Q46_5Xz_Sao)
 <!-- YOUTUBE:END -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
